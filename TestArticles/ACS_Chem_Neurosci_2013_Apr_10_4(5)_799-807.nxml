@@ -1,0 +1,564 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Chem Neurosci</journal-id><journal-id journal-id-type="iso-abbrev">ACS Chem Neurosci</journal-id><journal-id journal-id-type="publisher-id">cn</journal-id><journal-id journal-id-type="coden">acncdm</journal-id><journal-title-group><journal-title>ACS Chemical Neuroscience</journal-title></journal-title-group><issn pub-type="ppub">1948-7193</issn><issn pub-type="epub">1948-7193</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">23574576</article-id><article-id pub-id-type="pmc">3656742</article-id><article-id pub-id-type="doi">10.1021/cn400047x</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Continuous Online Microdialysis Using Microfluidic
+Sensors: Dynamic Neurometabolic Changes during Spreading Depolarization</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Rogers</surname><given-names>Michelle L.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-1" ref-type="notes">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Feuerstein</surname><given-names>Delphine</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes-1" ref-type="notes">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Leong</surname><given-names>Chi Leng</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Takagaki</surname><given-names>Masatoshi</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Niu</surname><given-names>Xize</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Graf</surname><given-names>Rudolf</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Boutelle</surname><given-names>Martyn G.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department of Bioengineering, <institution>Imperial College</institution>, London, United Kingdom</aff><aff id="aff2"><label>&#x02021;</label><institution>Max Planck Institute for Neurological Research</institution>, Cologne, Germany</aff><aff id="aff3"><label>&#x000a7;</label>Engineering
+and the Environment, <institution>University of Southampton</institution>, Southampton, United Kingdom</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>m.boutelle@imperial.ac.uk</email>.</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>04</month><year>2013</year></pub-date><pub-date pub-type="collection"><day>15</day><month>05</month><year>2013</year></pub-date><volume>4</volume><issue>5</issue><issue-title>Monitoring Molecules in Neuroscience</issue-title><fpage>799</fpage><lpage>807</lpage><history><date date-type="received"><day>13</day><month>02</month><year>2013</year></date><date date-type="accepted"><day>10</day><month>04</month><year>2013</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2013 American Chemical Society</copyright-statement><copyright-year>2013</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">Terms of Use CC-BY</ext-link></license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2013-00047x_0008" id="ab-tgr1"/></p><p>Microfluidic
+glucose biosensors and potassium ion selective electrodes were used
+in an in vivo study to measure the neurochemical effects of spreading
+depolarizations (SD), which have been shown to be detrimental to the
+injured human brain. A microdialysis probe implanted in the cortex
+of rats was connected to a microfluidic PDMS chip containing the sensors.
+The dialysate was also analyzed using our gold standard, rapid sampling
+microdialysis (rsMD). The glucose biosensor performance was validated
+against rsMD with excellent results. The glucose biosensors successfully
+monitored concentration changes, in response to SD wave induction,
+in the range of 10&#x02013;400 &#x003bc;M with a second time-resolution.
+The data show that during a SD wave, there is a time delay of 62 &#x000b1;
+24.8 s (<italic>n</italic> = 4) between the onset of the increase
+in potassium and the decrease in glucose. This delay can be for the
+first time demonstrated, thanks to the high-temporal resolution of
+the microfluidic sensors sampling from a single tissue site (the microdialysis
+probe), and it indicates that the decrease in glucose is due to the
+high demand of energy required for repolarization.</p></abstract><kwd-group><kwd>Microfluidic</kwd><kwd>biosensor</kwd><kwd>microdialysis</kwd><kwd>real-time</kwd><kwd>spreading depolarization</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>cn400047x</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>cn-2013-00047x</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">Traumatic
+brain injury (TBI) has been described as a silent epidemic by an editorial
+in <italic>Lancet Neurology</italic> journal.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> This stark judgment is based upon facts such as the annual United
+States incidence of TBI (390&#x02013;445/100&#x02009;000 population)
+being higher than that of breast cancer (120/100&#x02009;000 population),<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> and an estimated direct and indirect cost of
+$60 billion in 2000.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup></p><p>TBI may take
+many forms including intracerebral hemorrhage, subarachnoid hemorrhage,
+cerebral contusion, and axonal injury. The primary injury refers to
+the damage of the initial trauma and often occurs before the paramedics
+arrive at the scene. In some cases, this is a small core that becomes
+ischemic due to loss of blood flow and is surrounded by a &#x0201c;penumbra&#x0201d;
+of tissue where local blood flow is substantially reduced, compromising
+neuronal function but not viability. Approximately 40% of TBI patients
+deteriorate in the days after the initial injury,<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> due to the onset of secondary injury, at a time when the
+patient is being monitored in the intensive therapy unit (ITU). Secondary
+injuries can be caused by ischemia, cerebral hypoxia, cytotoxic cerebral
+edema, raised intracranial pressure, neurovascular edema, and spreading
+depolarization waves (SDs).</p><p>The spontaneous occurrence of SDs
+in the injured human brain were first observed by the Strong/Boutelle
+collaboration.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The mass depolarization
+of cells, first described by Leao in 1944,<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> propagates like a wave over the cortex, leading to temporary failure
+of ion homeostasis with a rise in extracellular potassium and intracellular
+sodium and calcium and disruption of cortical function. The depression
+of the electrical signal coincides with a transient increase in blood
+flow and changes in metabolism due to the high demand of energy needed
+to repolarize the cells.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> SDs have been
+shown to occur in 56% of TBI patients, often in stereotyped clusters<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> and with a high indicidence in other types of
+brain injury.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> They have been associated
+with ischemic damage<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> and the onset of
+neurological deficits.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> A study by Murray
+et al. showed that the commonly used clinical covariates, such as
+age, pupil reactivity, level of hypoxia, and motor score, only explain
+30% of the variance in TBI outcome.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> Results
+obtained by the Co-Operative Study on Brain Injury Depolarisations
+(COSBID) group, show that the occurrence of SDs independently predicts
+poor patient outcome, and is a better indicator than any of the currently
+used factors.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>In experimental models,
+SD waves can be detected electrophysiologically or real-time imaging
+of blood flow can be used to map the path of SD waves. High temporal
+resolution is required as the SD wave takes a few minutes to pass
+any particular point. Real time measurement of cerebral blood flow
+(CBF) using laser speckle contrast imaging (LSI) has been used to
+study SD propagation under both normal<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> and ischemic<sup><xref ref-type="bibr" rid="ref16">16</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup> conditions. It has been shown to be a good tracker of SD waves<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> and is a semiquantitative measure of dynamic CBF.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> LSI has high spatial and temporal resolution (30 &#x003bc;m
+and 1 s, respectively), providing a high-resolution map of the evolution
+of cerebral blood flow.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The number of
+depolarizations and the clustering of these events are associated
+with the growth of the infarct area<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> due to ischemic damage
+in the penumbra.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> It has also been shown that SD
+waves may cycle around the site of injury, possibly explaining the
+repetition at regular intervals seen also in some patients.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup></p><p>Using MRI and PET imaging studies in patients,
+a UCLA group has shown that during a persistent metabolic crisis,
+the lactate/pyruvate ratio increases, and this has been shown to be
+indicative of tissue atrophy at 6 months with oxidative brain metabolism
+playing a central role.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> Studies of TBI patients
+cortical glucose levels using classical microdialysis with hourly
+samples, have indicated that depletion of brain glucose carries a
+poor prognosis.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> However, this temporal
+resolution is insufficient to detect the frequently occurring dynamic
+changes that challenge the tissue. The metabolic signature of a transient
+ischemia has been detected using implanted biosensors<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> and online rapid sampling microdialysis (rsMD),<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> as a decrease in glucose levels and increase
+in lactate levels, typically lasting 2&#x02013;5 min.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Using rsMD in animal studies, such a signature was also
+found as an SD wave passes a MD probe,<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> leading to an extended reduction in brain glucose. In human studies,
+rsMD could initially only show a correlation between the number of
+SD waves and the fall in brain glucose.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Improvements in sensitivity of the assay and the development of
+algorithms to reduce noise<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> have confirmed
+the chemical signature of SD waves in patients and shown that repetition
+of the events can drive down the local glucose concentration, to a
+level where the tissue is no longer viable.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> However, with the 1 min temporal resolution coupled to the small
+(20&#x02013;50 &#x003bc;M), rapid decreases in brain glucose, the temporal
+resolution of rsMD is at its limit. To study the temporal profile
+of SDs further, two important challenges remain: to know the start
+of the SD event in the microdialysis data and to detect the metabolism
+changes with high temporal resolution. We have addressed the first
+with an online potassium ion selective electrode (ISE)<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> and the second with an online glucose biosensor.
+For increased time-resolution, the novel glucose biosensor together
+with the potassium ISE were integrated in a microfluidic platform
+designed to monitor the neurochemical effects of SD waves.</p><sec id="sec2"><label>1</label><title>Results and Discussion</title><sec id="sec2.1"><label>1.1</label><title>Biosensor Characterization</title><p>The glucose biosensors have an average sensitivity of 3.9 &#x000b1;
+0.6 &#x000d7; 10<sup>3</sup> nA/mM/cm<sup>&#x02013;2</sup> (<italic>n</italic> = 15) and a <italic>T</italic><sub>90%</sub> of 3.1 &#x000b1; 1.3 s
+(<italic>n</italic> = 15). All results are presented as mean &#x000b1;
+standard deviation. The main sources of noise are interference from
+the magnetic stirrer and the injection of known glucose concentration
+used to assess the sensor performance during calibrations. The inherently
+fast time responses of these sensors allow for measurements with a
+temporal resolution on the order of seconds.</p><p>Although the sensor
+is held at a 0.7 V (vs Ag|AgCl) throughout the experiment, interference
+from other electroactive species, namely, ascorbic acid and dopamine,
+is not an issue due to the protection provided from the poly(phenol)
+film used. Using a similar needle electrode, the interference through
+this film has been previously assessed as negligible for an ATP sensor
+detecting smaller changes.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup></p></sec><sec id="sec2.2"><label>1.2</label><title>Biosensor Validation</title><p>To ensure that the online biosensors
+were capable of detecting biologically relevant concentrations of
+glucose in brain dialysate, the results from the glucose biosensor
+within the microfluidic chip were compared to the results of rsMD
+which analyzed the same dialysate sample. Figure <xref rid="fig1" ref-type="fig">1</xref>A shows that the results of the two analysis techniques overlaid,
+after being individually analyzed and time-aligned. This data set
+shows levels of glucose recorded in vivo during 2 h. At 60 min, a
+blood clot was removed and at 127 min, the animal was euthanized,
+and glucose levels fell to near zero. Glucose concentrations are fluctuating
+over the course of the experiments, with both monitoring techniques
+showing parallel changes, indicating good agreement between the microfluidic
+glucose biosensor and rsMD glucose.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Glucose biosensor validation. (A) Comparison
+of glucose rsMD to biosensor data over the course of an procedure.
+Data was individually time-aligned and analyzed using calibrations
+of sensors before being overlaid. The levels vary over the duration
+of the procedure and finally fall to near zero after euthanasia at
+107 min. (B) Comparison of glucose biosensor and rsMD data. (C) The
+mean difference in data measurement as a function of the rsMD glucose
+value. From these data, on average across the concentration range,
+the concentration determined by the biosensor was marginally, but
+significantly lower than that determined by rsMD (&#x02212;16.6 &#x000b1;
+44 &#x003bc;M, <italic>p</italic> = 0.0001, <italic>n</italic> = 356).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2013-00047x_0001" id="gr1" position="float"/></fig><p>Figure <xref rid="fig1" ref-type="fig">1</xref>B shows the comparison of three online biosensors to the equivalent
+rsMD data. If the glucose measurement was that of blood, it would
+be appropriate to use a Clarke error grid.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> However, for continuous glucose monitoring, the relative timing
+of paired results during a dynamic change is very important.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> As both monitoring systems used in the current
+study analyze the same dialysate stream from the same extracellular
+tissue space, the mean difference between the two techniques provides
+a better estimation of sensor performance. This is shown in Figure <xref rid="fig1" ref-type="fig">1</xref>C. On average, there is a slight bias for the biosensor
+to report lower values compared to that of rsMD (&#x02212;16.6 &#x000b1;
+44 &#x003bc;M, <italic>p</italic> = 0.0001, <italic>n</italic> = 356).
+However, analysis shows that the least squared regression slope is
+not significantly different from zero.</p></sec><sec id="sec2.3"><label>1.3</label><title>Multimodal
+Approach to SD</title><p>A multimodal approach was taken to investigate
+spreading depolarizations and fully test the microfluidic platform.
+All the recordings were individually calibrated and time aligned to
+t<sub>0</sub>, the time when the SD wave reaches the MD probe. Figure <xref rid="fig2" ref-type="fig">2</xref> shows the experimental setup used. The <italic>t</italic><sub>0</sub>, <italic>t</italic><sub>1</sub>, and <italic>t</italic><sub>2</sub> values were determined experimentally as explained
+in the <xref rid="sec4" ref-type="other">Methods</xref> section.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Translational setup.
+Not to scale. <italic>t</italic><sub>0</sub> is the time the event
+hits the MD membrane. <italic>t</italic><sub>1</sub> is the time delay
+before the dialysate, representative of the event, reaches the sensors
+(on average 4 min). <italic>t</italic><sub>2</sub> is the dialysate
+transfer time from the sensors to rsMD (on average 15 min). A potassium
+ISE and a glucose biosensor are placed within a chamber of 68 nL volume.
+Dialysate is passed to rsMD for flow injection analysis of glucose
+and lactate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2013-00047x_0002" id="gr2" position="float"/></fig><p>An overview of all the
+measurements taken is shown in Figure <xref rid="fig3" ref-type="fig">3</xref>. Successful
+induction of the SD wave was confirmed by a DC negative shift and
+a transient suppression of the ECoG activity (Figure <xref rid="fig3" ref-type="fig">3</xref>B), which are characteristic of cellular depolarization. The
+propagation of the SD wave could be tracked by LSI; the passage of
+a hyperemic wave at a speed of 4.4 mm/min passed the parenchymal microelectrode,
+and the MD probe was verified (Figure <xref rid="fig3" ref-type="fig">3</xref>A).
+By using such a multimodal approach, we can be sure that changes in
+concentrations given by the microfluidic sensors are a response to
+a true event taking place in the brain tissue sampled by the MD probe,
+which gives confidence in the interpretation of the online MD sensor
+data.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Multimodal response to an SD wave. (A) Blood flow at three different
+ROIs in progressing distance (red, green, black) from the site of
+the needle prick. (B) DC potential (light blue) and ECoG (dark blue).
+(C) Microdialysate potassium. (D) Glucose readings from rsMD (red)
+and dialysate biosensor (yellow). (E) rsMD lactate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2013-00047x_0003" id="gr3" position="float"/></fig><p>The on-chip MD potassium ISE response is shown
+in Figure <xref rid="fig3" ref-type="fig">3</xref>C. An increase in extracellular
+potassium is typical for an SD wave and can be here observed in the
+microdialysate, given the limitations of microdialysis sampling and
+dispersion. A detailed study on MD online potassium measurement can
+be found in ref (<xref ref-type="bibr" rid="ref33">33</xref>). The glucose levels, as recorded by both the microfluidic biosensor
+and rsMD, are compared in Figure <xref rid="fig3" ref-type="fig">3</xref>D. The concentrations
+correlate very well before and during the SD. After the SD, the rsMD
+trace is slightly higher, though the difference is within the error
+calculated for Figure <xref rid="fig1" ref-type="fig">1</xref>C. During the SD, the
+concentration of glucose decreases by 12 &#x003bc;M in both data sets.
+The rsMD lactate data is shown in Figure <xref rid="fig3" ref-type="fig">3</xref>E,
+where levels increase as the SD wave passes, as observed previously
+in experimental and clinical monitoring of SD with rsMD.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup></p></sec><sec id="sec2.4"><label>1.4</label><title>Microfluidic Sensor Data: Neurometabolic Coupling</title><p>To better appreciate the advantage of the finer time-resolution
+of the glucose biosensor (as opposed to the minute time-resolution
+of the rsMD), the responses of the microfluidic sensors and of the
+near real-time CBF measurements are shown in Figure <xref rid="fig4" ref-type="fig">4</xref>. Four sections of data are shown, each being the response
+to a different needle prick, from two rats, one under propofol (Figure <xref rid="fig4" ref-type="fig">4</xref>B&#x02013;D) and the other under isoflurane (Figure <xref rid="fig4" ref-type="fig">4</xref>E). In all cases, blood flow, on-chip potassium
+and glucose biosensor responses have been time-aligned (see <xref rid="sec4" ref-type="other">Methods</xref> section). A propagating hyperaemia is seen
+in the laser speckle data with each needle prick, indicating a SD
+wave passing through the area where the MD probe was implanted at
+a speed of 4.4 mm/min, typical of first SD wave speeds.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> This indicates that the presence of the MD probe
+did not alter the propagation direction or speed of the SD wave. Furthermore,
+the hyperaemic peak coincides with the onset of increase in extracellular
+potassium, as detected by the microfluidic ISE. Once the hyperemia
+has passed, the potassium levels begin to fall to near baseline, indicating
+repolarization of the neuronal cells. In each case the glucose biosensors
+show a transient decrease in the local concentration. This is true
+for all four NP data sets as seen in Figure <xref rid="fig4" ref-type="fig">4</xref>. Interestingly, in our multi-needle-prick model, brain glucose and
+CBF had all recovered to their baseline value before the changes induced
+by the SD wave (baseline [glucose] &#x02248; 0.47 mM under propofol,
+0.105 mM under isoflurane, and CBF &#x02248; 50% under propofol and
+100% under isoflurane).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Microfluidic sensors. Panel (A) is a laser speckle
+image showing the left hemisphere through a thinned skull. The sites
+for needle prick stimuli are indicated (NP1,2,3) and the positions
+of the intraparenchymal microelectrode (DC) and microdialysis probe
+(MD) are also marked. Three circular ROIs were used to analyze the
+blood flow response around the implanted measurement sites. The color
+of the circle indicates the trace seen in the blood flow graphs. The
+dotted line indicates the wavefront of the SD wave elicited by the
+second needle prick at the time of the still. Panels (B&#x02013;D)
+show the response of the microfluidic sensors of needle pricks conducted
+in the same rat under propofol (NP1,2,3). Panel (E) shows the responses
+from a different rat under isoflurane (NP1). The gray dotted lines
+in (B&#x02013;E) show the moment the SD wave hits the MD probe as indicated
+by the change in potassium.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2013-00047x_0004" id="gr4" position="float"/></fig><p>Given microdialysis recovery (estimated in vitro as 32&#x02013;33%),
+these baseline values are in accordance with interstitial glucose
+concentrations found in the literature to be in the order of 2&#x02013;3
+mM in anaesthetised animals.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Although
+the higher cerebral blood flow under isoflurane would lower the in
+vivo recovery of a species not present in the blood,<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> for glucose this would not be the case as the blood flow
+is the source of brain glucose. The extracellular level of glucose
+is a balance between this source and the local utilization. Our lower
+baseline dialysate glucose concentration under isoflurane compared
+to propofol is mainly due to the anesthetic, since propofol increases
+brain glucose by 50% compared to isoflurane,<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> and partly due to a slight difference in the in vivo recovery of
+the MD probe. Given the small sample of animals used in this study,
+we cannot conclude on a significant quantitative effect of anesthesia
+on brain glucose concentrations. The temporal relationship between
+microdialysis potassium and glucose is however not influenced by the
+anesthetics.</p><p>In one animal, after the second needle prick, there
+was a transient drop in blood pressure (down to 48 mmHg), which triggered
+the spontaneous propagation of a second SD wave 6 min after the induced
+SD (shown in Figure <xref rid="fig5" ref-type="fig">5</xref>). Here, in contrast to
+the SD initiated via the needle prick, the glucose concentration decreases
+immediately as the SD passes the MD probe.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Spontaneous SD wave following
+a spontaneous drop in blood pressure. Top graph shows the blood flow;
+bottom graph shows the online glucose (orange) and potassium (purple)
+data. The first SD was induced from a needle prick. The second SD
+wave is a spontaneous wave, likely to be caused by a drop in blood
+pressure (gray line indicates when the blood pressure was at its lowest).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2013-00047x_0005" id="gr5" position="float"/></fig><p>The temporal coupling between
+membrane cell repolarization, cerebral blood flow, and glucose utilization
+can be seen for the first time thanks to our subminute temporal resolution.
+The microfluidic data from the four needle pricks was indeed analyzed
+more closely by looking at just the microdialysate potassium and glucose
+levels, as seen in Figure <xref rid="fig6" ref-type="fig">6</xref>. Allocating the
+point of change in potassium as <italic>t</italic> = 0, all potassium
+and glucose concentration changes were aligned. The background level
+of each is also removed and the relative changes (&#x00394;[K<sup>+</sup>] and &#x00394;[glucose]) and timings can be closer assessed. In the
+top graph, all of the potassium changes are overlaid. Clearly, each
+SD wave causes a transient increase in MD potassium concentrations,
+characteristic of transient extracellular potassium changes observed
+with in situ electrodes.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> In the bottom graph
+the glucose concentration changes are shown for the same four needle
+pricks. The changes are all small and all negative from the baseline.
+The magnitude of the changes in glucose seen here are of similar magnitude
+to the changes seen in patient data using rsMD.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Interestingly, all four needle pricks show some delay in
+the decrease of local concentration compared to the start of the response
+of potassium. Note that the glucose biosensor was always positioned
+upstream of the potassium sensor. In calibrations, the biosensor responded
+to the change in concentrations first (data not shown) and this slight
+delay was taken into account when time-aligning the two sensors. Therefore
+we can rule out this delay being due to mass transport effects. There
+is thus a 62 &#x000b1; 24.8 s (<italic>n</italic> = 4) delay between
+the onset of the potassium and onset of the glucose responses, which
+is of physiological origin. This time delay is too short to be seen
+using the one minute sampling of rsMD. The decrease in glucose actually
+coincides with the reversal of the potassium trend, as seen in Figure <xref rid="fig6" ref-type="fig">6</xref>. Re-establishment of the ionic gradients after
+depolarization requires indeed much energy to power the pumps to actively
+transport ions across the cell membranes, and therefore the local
+demand for glucose increases.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Assessment of glucose and potassium changes.
+Time <italic>t</italic> = 0 is the point where MD potassium levels
+start to increase. Potassium and glucose levels were time aligned
+to each other using calibration data (see <xref rid="sec4" ref-type="other">Methods</xref> section). Background levels of both potassium and glucose have been
+removed. (i)&#x02013;(iii) are traces (B)&#x02013;(D) of Figure <xref rid="fig5" ref-type="fig">5</xref>, respectively, and were conducted under propofol.
+(iv) is trace (E) of Figure <xref rid="fig5" ref-type="fig">5</xref> where isoflurane
+was the anesthesia.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2013-00047x_0006" id="gr6" position="float"/></fig><p>This coupling between
+restoration of ion homeostasis and increased metabolic demand can
+be for the first time unambiguously shown thanks to the very high-temporal
+resolution of both the ISE and the glucose biosensor, which analyze
+the same dialysate sample. Remarkably, despite a clear hyperemia associated
+with each SD wave (see Figure <xref rid="fig4" ref-type="fig">4</xref>B&#x02013;E),
+which presumably increases the supply of glucose and oxygen from the
+blood, extracellular glucose drops. This has been previously observed
+in cats using rsMD.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> It can therefore
+be concluded that the drop in cerebral glucose, observed here in rats,
+and elsewhere in cats and in brain injury patients, is the <italic>consequence</italic> of the increased energy demand for cell repolarization,
+demand which is not met by local supply from the blood.</p></sec></sec><sec sec-type="conclusions" id="sec3"><label>2</label><title>Conclusion</title><p>This study has shown the development of
+microfluidic glucose biosensors to be instrumental in the development
+of a clinical monitoring system. In this study, we used an in vivo
+needle prick model, as a translational replica of a &#x0201c;mini&#x0201d;
+traumatic brain injury to assess the performance of the new online
+microdialysis biosensors and investigate neuro-metabolic coupling
+in response to an SD wave.</p><p>The glucose biosensor was validated
+against rsMD glucose with excellent results. A potassium sensor was
+additionally placed on-chip within the analysis chamber to analyze
+the sample of dialysate. Thanks to the fast time responses and continuous
+analysis of microdialysate streams, this study has allowed an unambiguous
+insight into the timing of the chemical events that occur during an
+SD wave, a distinct advantage over the currently used flow injection
+system. It was indeed found that the decrease in glucose only occurred
+as the cells started repolarizing, as indicated by the coincidence
+of the onset of the glucose fall with the onset of the recovery of
+potassium. It was concluded that when the cells begin to repolarize
+after the passage of an SD wave, the supply of metabolic substrates
+by the blood does not match the increased demand for repolarization
+and so the local glucose concentration is seen to fall. On-going optimization
+of the microfluidic manifold and sensors<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> for clinical use will drive this work forward. The small sample
+size for the animal data in the current study restricts our ability
+to analyze the mechanism of changes in detail. However, the findings
+presented here highlight the potential that the microfluidic system
+holds for the monitoring of brain injury patients by allowing the
+analysis of multiple analytes in real-time within the same low-volume
+dialysate sample. With the very high temporal resolution this provides,
+the cause/consequence questions can begin to be answered. More widely,
+this technology could allow the detection and study of transient ischemia
+or functional activation.</p></sec><sec sec-type="methods" id="sec4"><label>3</label><title>Methods</title><sec id="sec4.1"><label>3.1</label><title>Electrode Fabrication</title><p>The glucose biosensors in this
+paper are based upon the combined needle electrodes,<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> a photograph of which is shown in Figure <xref rid="fig7" ref-type="fig">7</xref>A. Briefly, 50 &#x003bc;m Teflon insulated platinum wire (A-M
+Systems Inc.) and 50 &#x003bc;m polyester insulated silver wire (AM
+systems) were threaded through a 27G hypodermic needle. The wires
+were stripped of their insulator using a lighter to expose the metal
+wire. Electrical wire was glued using conductive silver epoxy glue
+(RS Components). Epoxy resin (Robnor resins, CY1301 and HY1300) was
+used to fill the internal volume of the needle and secure the wires
+in place. Once the epoxy had cured, the sharp end of the needle was
+cut using a diamond saw (Buehler) to expose the microelectrodes. The
+ends were polished using alumina slurries finishing with 0.05 &#x003bc;m.
+The silver disc was chloridized by placing in Referencing Solution
+(BAS) for 5 s, to create Ag|AgCl reference electrode. Cyclic voltammetry
+was used to assess the surface of the electrode. The working electrode
+consisted of a 50 &#x003bc;m diameter platinum disc electrode. A scanning
+electron microscopy (SEM) image of the polished needle tip can be
+seen in Figure <xref rid="fig7" ref-type="fig">7</xref>B.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Sensor design. (A) Photograph
+of combined needle electrode. (B) SEM image of the needle tip. The
+working electrode is a 50 &#x003bc;m platinum/iridium disc; the reference
+electrode is formed by chloridizing the 50 &#x003bc;m silver disc to
+get Ag|AgCl; the counter electrode is the stainless steel shaft of
+the hypodermic needle. (C) Raw data calibration using a 50 &#x003bc;m
+glucose biosensor. Biosensor is held at a constant potential of 0.75
+V. Aliquots of glucose standard are added and current response recorded.
+Purple arrow indicates the change in glucose concentration from 0
+to 100 &#x003bc;M. (D) Calibration indicating current against glucose
+concentration using a 50 &#x003bc;m glucose biosensor. Data is fitted
+with the Hill equation giving an apparent <italic>K</italic><sub>m</sub> value of 11.35 &#x000b1; 0.075 mM.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2013-00047x_0007" id="gr7" position="float"/></fig></sec><sec id="sec4.2"><label>3.2</label><title>Glucose Biosensor Fabrication</title><p>All
+biosensors were controlled via a lab built potentiostat feeding into
+a Powerlab 16/35 running LabChart Pro (AD Instruments). The combined
+electrode was placed in a solution containing 50 mM Phenol and 4 mg/mL
+glucose oxidase. The pH of the solution was buffered to pH 7.2. The
+electrode was placed in the enzyme solution for 10 min. Then under
+potentiostatic control, the working electrode was held at 0 V for
+20 s, polarized to 0.9 V for 15 min for electropolymerization, and
+then held at 0 V for 20 s. The biosensor was gently rinsed with deionized
+water and stored dry overnight at 4 &#x000b0;C before use. The biosensors
+were characterized in a beaker containing phosphate buffer solution
+(PBS), which was highly stirred. Aliquots of a concentrated glucose
+solution were added to the PBS using a glass syringe (Hamilton), to
+create known step changes in concentration in the bulk media. Figure <xref rid="fig7" ref-type="fig">7</xref>C shows the raw data of a 100 &#x003bc;M step change
+of glucose. The limit of detection, calculated as 3x the standard
+deviation of the baseline signal, is 1.5 &#x003bc;M. Figure <xref rid="fig7" ref-type="fig">7</xref>D shows a calibration within the brain physiological
+range. The data has been fitted with the Hill equation using IgorPro.</p></sec><sec id="sec4.3"><label>3.3</label><title>In Vivo Experiments</title><p>All animal procedures
+were carried out in accordance with the German Laws for Animal Protection
+and institutional guidelines. Two male Wistar rats were anesthetized
+with isoflurane (5% induction, 1.5&#x02013;2% maintenance) in a 70%:30%
+nitrous oxide/oxygen mixture during all surgical procedures. Rectal
+temperature was maintained at 37 &#x000b0;C using a servo-controlled
+heating blanket. The left femoral artery was cannulated for continuous
+blood pressure recording and hourly arterial blood gases measurements.
+The left frontal and parietal bones were exposed and thinned out to
+transparency using a dental drill. Drilling was performed under continuous
+saline irrigation to prevent heat injury. The cavity formed covered
+most of the left cerebral cortex and provided a field of view of &#x0223c;10
+&#x000d7; 7 mm for LSI. Two small burr-holes were drilled into the frontal
+and parietal cortex for subsequent needle pricks at two different
+sites (see Figure <xref rid="fig4" ref-type="fig">4</xref>A). Two small durectomies
+were drilled at 3.5 mm posterior and 3.5 mm lateral to Bregma and
+4 mm posterior and 3.5 mm lateral to Bregma for the parenchymal electrode
+and the microdialysis (MD) probe, respectively. The durectomies were
+placed in areas devoid of major blood vessels and at the edge of the
+field of view so as to limit artifacts for LSI. The distance between
+the microelectrode and the MD probe (&#x02248;0.5 mm distance) was
+as small as possible to ensure simultaneity of the events at both
+measurement sites.</p><p>After all surgical procedures were completed,
+LSI was started and continued uninterrupted during the whole duration
+of the experiments. The LSI method was implemented as previously described.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> After baseline imaging, the MD probe (MAB 6.14.2, Microbiotech,
+Sweden) was implanted using a piezoelectric motor at a rate of 5 &#x003bc;m/s,
+while being perfused with aCSF at a rate of 1.6 &#x003bc;L/min. The
+probe was implanted obliquely to full membrane length (2 mm), so as
+to ensure maximal sampling from cortical tissue. The MD probe outlet
+was connected directly to a microfluidic analysis chip containing
+first a glucose biosensor and then a potassium ISE.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> The dialysate stream was then fed into the rsMD valve for
+flow injection analysis of glucose and lactate. A schematic of the
+procedure setup is shown in Figure <xref rid="fig2" ref-type="fig">2</xref>. A glass
+microelectrode (2.5&#x02013;3 &#x003bc;m tip diameter) was then implanted
+at a depth of 500 &#x003bc;m. Direct current (DC) and electrocorticogram
+(ECoG) were measured versus a subcutaneous sintered Ag/AgCl wire electrode
+that served as a reference. The animal was earthed to the instrumentation
+ground.</p><p>A waiting period of 45 min followed implantations, during
+which all measured parameters (arterial blood pressure, CBF, brain
+glucose, lactate and potassium, DC, and ECoG) stabilized to normal
+physiological values. One animal was maintained under isoflurane (1.5%),
+and the other animal was switched to propofol (38 mg/kg/h infusion
+via tail vein), an intravenous anesthetic commonly used in ITU for
+TBI patients.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> The effect of propofol
+compared to isoflurane on CBF and SD waves has been discussed elsewhere.<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> After stabilization of all parameters, a first needle prick was
+performed on the frontal cortex. The needle prick model can be understood
+as a mechanically induced focal traumatic injury, causing one single
+SD wave.<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> After 1 h, when CBF had recovered to its
+baseline values, a second SD wave was elicited by needle prick on
+the parietal cortex. When the animal conditions allowed it, a third
+needle prick was performed 1 h later on the frontal cortex, triggering
+a single SD wave. In one animal, after the SD wave caused by the second
+needle prick, a transient drop in blood pressure was observed (down
+to 48 mmHg), which triggered the spontaneous propagation of a second
+SD wave (see Figure <xref rid="fig5" ref-type="fig">5</xref>). At the end of the experiment,
+the animals were euthanised by intravenous injection of a high concentration
+of potassium chloride (3 M KCl).</p></sec><sec id="sec4.4"><label>3.4</label><title>Data
+Analysis</title><p>Speckle contrast images were analyzed for CBF by
+placing regions of interest (ROIs) of 1 mm diameter in areas devoid
+of major blood vessels. Three ROIs were positioned around the implanted
+electrode and MD to capture the SD wave as it approaches and passes
+the probes (see Figure <xref rid="fig4" ref-type="fig">4</xref>). CBF values are here
+reported relative to baseline CBF under isoflurane taken as 100% CBF.
+Electrophysiological data from the parenchymal microelectrode were
+digitized at 250 Hz and low-passed filter for DC and high -pass filtered
+for ECoG (0.1 Hz cutoff frequency in both cases). The online MD data
+were analyzed independently and blindly for rsMD glucose and lactate
+in Cologne and for the online potassium and glucose sensors in London.
+Data were denoized using our previous published algorithms.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Before each in vivo experiment, an in vitro
+MD recovery experiment was conducted, where the MD probe was moved
+between known solutions at known times. This not only checked the
+functionality of the MD probe but also allowed the time difference
+between the known responses of the different analysis techniques to
+be measured. If <italic>t</italic><sub>0</sub> is the time at which
+a change occurred at the MD probe membrane, <italic>t</italic><sub>1</sub> is the length of time for this change to be detected at the
+microfluidic sensors and <italic>t</italic><sub>2</sub> is the time
+to move the dialysate from the sensors to being injected into the
+rsMD valve, as seen in Figure <xref rid="fig2" ref-type="fig">2</xref>. Once these
+values are known, all the individual data sets can be aligned to the
+same time point, <italic>t</italic><sub>0</sub>. All results presented
+in the text have been time-aligned between the different analysis
+techniques.</p></sec></sec></body><back><notes id="notes-1"><title>Author Contributions</title><p><sup>&#x02225;</sup> M.L.R. and D.F. contributed equally to this work.</p></notes><notes id="notes-300"><title>Author Contributions</title><p>M.L.R.
+and D.F. contributed equally to this work and prepared the manuscript.
+M.L.R., D.F., and C.L.L. carried out the experimental work and analyzed
+the data. M.T. performed all the surgery. X.N. aided design and fabrication
+of microfluidic chips. R.G. and M.G.B. participated in the design
+and interpretation of the experiments and finalization of the manuscript.</p></notes><notes id="notes-10" notes-type="funding-statement"><p>The authors thank
+the Wellcome Trust/DOH HICF fund, Alexander von Humboldt Foundation,
+and the BBSRC.</p></notes><notes id="NOTES-d7e673-autogenerated" notes-type="conflict-of-interest"><p>The authors declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We would like to thank
+Paula Gabel for excellent technical support.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Neurology</surname><given-names>L.</given-names></name> (<year>2010</year>) <article-title>Traumatic
+brain injury: time to end the silence</article-title>. <source>Lancet
+Neurol.</source>
+<volume>9</volume>, <fpage>331</fpage>.<pub-id pub-id-type="pmid">20298955</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="book" id="cit2"><person-group person-group-type="allauthors"><name><surname>Whitfield</surname><given-names>P.</given-names></name>, <name><surname>Thomas</surname><given-names>E.</given-names></name>, <name><surname>Summers</surname><given-names>F.</given-names></name>, <name><surname>Whyte</surname><given-names>M.</given-names></name>, and <name><surname>Hutchinson</surname><given-names>P.</given-names></name></person-group> (<year>2009</year>) <source>Head injury-a multidisciplinary approach</source>; <publisher-name>Cambridge University Press</publisher-name>: <publisher-loc>New York</publisher-loc>; page 309.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="book" id="cit3"><person-group person-group-type="allauthors"><name><surname>Finkelstein</surname><given-names>E.</given-names></name>, <name><surname>Corso</surname><given-names>P.</given-names></name>, and <name><surname>Miller</surname><given-names>T.</given-names></name></person-group> (<year>2006</year>) <source>Incidence
+and economic burden of injuries in the United States</source>; <publisher-name>Oxford University Press</publisher-name>: <publisher-loc>Oxford</publisher-loc>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Narayan</surname><given-names>R.</given-names></name>; <name><surname>Michel</surname><given-names>M.</given-names></name>; <name><surname>Ansell</surname><given-names>B.</given-names></name>; <name><surname>Baethmann</surname><given-names>A.</given-names></name>; <name><surname>Biegon</surname><given-names>A.</given-names></name>; <name><surname>Bracken</surname><given-names>M.</given-names></name>; <name><surname>Bullock</surname><given-names>M.</given-names></name>; <name><surname>Choi</surname><given-names>S.</given-names></name>; <name><surname>Clifton</surname><given-names>G.</given-names></name>; <name><surname>Contant</surname><given-names>C.</given-names></name>; <name><surname>Coplin</surname><given-names>W.</given-names></name>; <name><surname>Dietrich</surname><given-names>W.</given-names></name>; <name><surname>Ghajar</surname><given-names>J.</given-names></name>; <name><surname>Grady</surname><given-names>S.</given-names></name>; <name><surname>Grossman</surname><given-names>R.</given-names></name>; <name><surname>Hall</surname><given-names>E.</given-names></name>; <name><surname>Heetderks</surname><given-names>W.</given-names></name>; <name><surname>Hovda</surname><given-names>D.</given-names></name>; <name><surname>Jallo</surname><given-names>J.</given-names></name>; <name><surname>Katz</surname><given-names>R.</given-names></name>; <name><surname>Knoller</surname><given-names>N.</given-names></name>; <name><surname>Kochanek</surname><given-names>P.</given-names></name>; <name><surname>Maas</surname><given-names>A.</given-names></name>; <name><surname>Majde</surname><given-names>J.</given-names></name>; <name><surname>Marion</surname><given-names>D.</given-names></name>; <name><surname>Marmarou</surname><given-names>A.</given-names></name>; <name><surname>Marshall</surname><given-names>L.</given-names></name>; <name><surname>McIntosh</surname><given-names>T.</given-names></name>; <name><surname>Miller</surname><given-names>E.</given-names></name>; <name><surname>Mohberg</surname><given-names>N.</given-names></name>; <name><surname>Muizelaar</surname><given-names>J.</given-names></name>; <name><surname>Pitts</surname><given-names>L.</given-names></name>; <name><surname>Quinn</surname><given-names>P.</given-names></name>; <name><surname>Riesenfeld</surname><given-names>G.</given-names></name>; <name><surname>Robertson</surname><given-names>C.</given-names></name>; <name><surname>Strauss</surname><given-names>K.</given-names></name>; <name><surname>Teasdale</surname><given-names>G.</given-names></name>; <name><surname>Temkin</surname><given-names>N.</given-names></name>; <name><surname>Tuma</surname><given-names>R.</given-names></name>; <name><surname>Wade</surname><given-names>C.</given-names></name>; <name><surname>Walker</surname><given-names>M.</given-names></name>; <name><surname>Weinrich</surname><given-names>M.</given-names></name>; <name><surname>Whyte</surname><given-names>J.</given-names></name>; <name><surname>Wilberger</surname><given-names>J.</given-names></name>; <name><surname>Young</surname><given-names>A.</given-names></name>; <name><surname>Yurkewicz</surname><given-names>L.</given-names></name> (<year>2002</year>) <article-title>Clinical trials
+in head injury</article-title>. <source>J. Neurotrauma</source>
+<volume>19</volume>, <fpage>503</fpage>&#x02013;<lpage>557</lpage>.<pub-id pub-id-type="pmid">12042091</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Strong</surname><given-names>A.</given-names></name>; <name><surname>Fabricius</surname><given-names>M.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name>; <name><surname>Hibbins</surname><given-names>S.</given-names></name>; <name><surname>Hopwood</surname><given-names>S.</given-names></name>; <name><surname>Jones</surname><given-names>R.</given-names></name>; <name><surname>Parkin</surname><given-names>M.</given-names></name>; <name><surname>Lauritzen</surname><given-names>M.</given-names></name> (<year>2002</year>) <article-title>Spreading and synchronous depressions
+of cortical activity in acutely injured human brain</article-title>. <source>Stroke</source>
+<volume>33</volume>, <fpage>2738</fpage>&#x02013;<lpage>2743</lpage>.<pub-id pub-id-type="pmid">12468763</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Leao</surname><given-names>A.</given-names></name> (<year>1944</year>) <article-title>Spreading depression
+of activity in the cerebral cortex</article-title>. <source>J. Neurophysiol.</source>
+<volume>7</volume>, <fpage>359</fpage>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Lauritzen</surname><given-names>M.</given-names></name> (<year>1994</year>) <article-title>Pathophysiology
+of the migraine aura</article-title>. <source>Brain</source>
+<volume>117</volume>, <fpage>199</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">7908596</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Fabricius</surname><given-names>M.</given-names></name>; <name><surname>Fuhr</surname><given-names>S.</given-names></name>; <name><surname>Bhatia</surname><given-names>R.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name>; <name><surname>Hashemi</surname><given-names>P.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name>; <name><surname>Lauritzen</surname><given-names>M.</given-names></name> (<year>2006</year>) <article-title>Cortical spreading
+depression and peri-infarct depolarization in acutely injured human
+cerebral cortex</article-title>. <source>Brain</source>
+<volume>129</volume>, <fpage>778</fpage>&#x02013;<lpage>790</lpage>.<pub-id pub-id-type="pmid">16364954</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Dohmen</surname><given-names>C.</given-names></name>; <name><surname>Sakowitz</surname><given-names>O.</given-names></name>; <name><surname>Fabricius</surname><given-names>M.</given-names></name>; <name><surname>Bosche</surname><given-names>B.</given-names></name>; <name><surname>Reithmeier</surname><given-names>T.</given-names></name>; <name><surname>Ernestus</surname><given-names>R.</given-names></name>; <name><surname>Brinker</surname><given-names>G.</given-names></name>; <name><surname>Dreier</surname><given-names>J.</given-names></name>; <name><surname>Woitzik</surname><given-names>J.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name>; <name><surname>Graf</surname><given-names>R.</given-names></name> (<year>2008</year>) <article-title>Spreading
+depolarizations occur in human ischemic stroke with high incidence</article-title>. <source>Ann. Neurol.</source>
+<volume>63</volume>, <fpage>720</fpage>&#x02013;<lpage>728</lpage>.<pub-id pub-id-type="pmid">18496842</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Dreier</surname><given-names>J.</given-names></name>; <name><surname>Major</surname><given-names>S.</given-names></name>; <name><surname>Manning</surname><given-names>A.</given-names></name>; <name><surname>Woitzik</surname><given-names>J.</given-names></name>; <name><surname>Drenckhahn</surname><given-names>C.</given-names></name>; <name><surname>Steinbrink</surname><given-names>J.</given-names></name>; <name><surname>Tolias</surname><given-names>C.</given-names></name>; <name><surname>Oliveira-Ferreira</surname><given-names>A.</given-names></name>; <name><surname>Fabricius</surname><given-names>M.</given-names></name>; <name><surname>Hartings</surname><given-names>J.</given-names></name>; <name><surname>Vajkoczy</surname><given-names>P.</given-names></name>; <name><surname>Lauritzen</surname><given-names>M.</given-names></name>; <name><surname>Dirnagl</surname><given-names>U.</given-names></name>; <name><surname>Bohner</surname><given-names>G.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name> (<year>2009</year>) <article-title>Cortical spreading
+ischaemia is a novel process involved in ischaemic damage in patients
+with aneurysmal subarachnoid haemorrhage</article-title>. <source>Brain</source>
+<volume>132</volume>, <fpage>1866</fpage>&#x02013;<lpage>1881</lpage>.<pub-id pub-id-type="pmid">19420089</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Dreier</surname><given-names>J.</given-names></name>; <name><surname>Woitzik</surname><given-names>J.</given-names></name>; <name><surname>Fabricius</surname><given-names>M.</given-names></name>; <name><surname>Bhatia</surname><given-names>R.</given-names></name>; <name><surname>Major</surname><given-names>S.</given-names></name>; <name><surname>Drenckhahn</surname><given-names>C.</given-names></name>; <name><surname>Lehmann</surname><given-names>T.</given-names></name>; <name><surname>Sarrafzadeh</surname><given-names>A.</given-names></name>; <name><surname>Willumsen</surname><given-names>L.</given-names></name>; <name><surname>Hartings</surname><given-names>J.</given-names></name>; <name><surname>Sakowitz</surname><given-names>O.</given-names></name>; <name><surname>Seemann</surname><given-names>J.</given-names></name>; <name><surname>Thieme</surname><given-names>A.</given-names></name>; <name><surname>Lauritzen</surname><given-names>M.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name> (<year>2006</year>) <article-title>Delayed ischaemic neurological deficits
+after subarachnoid haemorrhage are associated with clusters of spreading
+depolarizations</article-title>. <source>Brain</source>
+<volume>129</volume>, <fpage>3224</fpage>&#x02013;<lpage>3237</lpage>.<pub-id pub-id-type="pmid">17067993</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Murray</surname><given-names>G.</given-names></name>; <name><surname>Butcher</surname><given-names>I.</given-names></name>; <name><surname>McHugh</surname><given-names>G.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>; <name><surname>Mushkudiani</surname><given-names>N.</given-names></name>; <name><surname>Maas</surname><given-names>A.</given-names></name>; <name><surname>Marmarou</surname><given-names>A.</given-names></name>; <name><surname>Steyerberg</surname><given-names>E.</given-names></name> (<year>2007</year>) <article-title>Multivariable
+prognostic analysis in traumatic brain injury: results from the IMPACT
+study</article-title>. <source>J. Neurotrauma</source>
+<volume>24</volume>, <fpage>329</fpage>&#x02013;<lpage>337</lpage>.<pub-id pub-id-type="pmid">17375997</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Hartings</surname><given-names>J.</given-names></name>; <name><surname>Bullock</surname><given-names>M.</given-names></name>; <name><surname>Okonkwo</surname><given-names>D.</given-names></name>; <name><surname>Murray</surname><given-names>L.</given-names></name>; <name><surname>Murray</surname><given-names>G.</given-names></name>; <name><surname>Fabricius</surname><given-names>M.</given-names></name>; <name><surname>Maas</surname><given-names>A.</given-names></name>; <name><surname>Woitzik</surname><given-names>J.</given-names></name>; <name><surname>Sakowitz</surname><given-names>O.</given-names></name>; <name><surname>Mathern</surname><given-names>B.</given-names></name>; <name><surname>Roozenbeek</surname><given-names>B.</given-names></name>; <name><surname>Lingsma</surname><given-names>H.</given-names></name>; <name><surname>Dreier</surname><given-names>J.</given-names></name>; <name><surname>Puccio</surname><given-names>A.</given-names></name>; <name><surname>Shutter</surname><given-names>L.</given-names></name>; <name><surname>Pahl</surname><given-names>C.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name> (<year>2011</year>) <article-title>Spreading depolarisations and outcome
+after traumatic brain injury: a prospective observational study</article-title>. <source>Lancet Neurol.</source>
+<volume>10</volume>, <fpage>1058</fpage>&#x02013;<lpage>1064</lpage>.<pub-id pub-id-type="pmid">22056157</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Hashemi</surname><given-names>P.</given-names></name>; <name><surname>Bhatia</surname><given-names>R.</given-names></name>; <name><surname>Nakamura</surname><given-names>H.</given-names></name>; <name><surname>Dreier</surname><given-names>J.</given-names></name>; <name><surname>Graf</surname><given-names>R.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name> (<year>2008</year>) <article-title>Persisting depletion of brain glucose
+following cortical spreading depression, despite apparent hyperaemia:
+evidence for risk of an adverse effect of Leao&#x02019;s spreading
+depression</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>29</volume>, <fpage>166</fpage>&#x02013;<lpage>175</lpage>.<pub-id pub-id-type="pmid">18813306</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Nakamura</surname><given-names>H.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name>; <name><surname>Dohmen</surname><given-names>C.</given-names></name>; <name><surname>Sakowitz</surname><given-names>O.</given-names></name>; <name><surname>Vollmar</surname><given-names>S.</given-names></name>; <name><surname>Su&#x000e9;</surname><given-names>M.</given-names></name>; <name><surname>Kracht</surname><given-names>L.</given-names></name>; <name><surname>Hashemi</surname><given-names>P.</given-names></name>; <name><surname>Bhatia</surname><given-names>R.</given-names></name>; <name><surname>Yoshimine</surname><given-names>T.</given-names></name>; <name><surname>Dreier</surname><given-names>J.</given-names></name>; <name><surname>Dunn</surname><given-names>A.</given-names></name>; <name><surname>Graf</surname><given-names>R.</given-names></name> (<year>2010</year>) <article-title>Spreading depolarizations
+cycle around and enlarge focal ischaemic brain lesions</article-title>. <source>Brain</source>
+<volume>133</volume>, <fpage>1994</fpage>&#x02013;<lpage>2006</lpage>.<pub-id pub-id-type="pmid">20504874</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Strong</surname><given-names>A.</given-names></name>; <name><surname>Anderson</surname><given-names>P.</given-names></name>; <name><surname>Watts</surname><given-names>H.</given-names></name>; <name><surname>Virley</surname><given-names>D.</given-names></name>; <name><surname>Lloyd</surname><given-names>A.</given-names></name>; <name><surname>Irving</surname><given-names>E.</given-names></name>; <name><surname>Nagafuji</surname><given-names>T.</given-names></name>; <name><surname>Ninomiya</surname><given-names>M.</given-names></name>; <name><surname>Nakamura</surname><given-names>H.</given-names></name>; <name><surname>Dunn</surname><given-names>A.</given-names></name>; <name><surname>Graf</surname><given-names>R.</given-names></name> (<year>2007</year>) <article-title>Peri-infarct depolarizations lead
+to loss of perfusion in ischaemic gyrencephalic cerebral cortex</article-title>. <source>Brain</source>
+<volume>130</volume>, <fpage>995</fpage>&#x02013;<lpage>1008</lpage>.<pub-id pub-id-type="pmid">17438018</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Kumagai</surname><given-names>T.</given-names></name>; <name><surname>Walberer</surname><given-names>M.</given-names></name>; <name><surname>Nakamura</surname><given-names>H.</given-names></name>; <name><surname>Endepols</surname><given-names>H.</given-names></name>; <name><surname>Su&#x000e9;</surname><given-names>M.</given-names></name>; <name><surname>Vollmar</surname><given-names>S.</given-names></name>; <name><surname>Adib</surname><given-names>S.</given-names></name>; <name><surname>Mies</surname><given-names>G.</given-names></name>; <name><surname>Yoshimine</surname><given-names>T.</given-names></name>; <name><surname>Schroeter</surname><given-names>M.</given-names></name>; <name><surname>Graf</surname><given-names>R.</given-names></name> (<year>2010</year>) <article-title>Distinct spatiotemporal patterns
+of spreading depolarizations during early infarct evolution: evidence
+from real-time imaging</article-title>. <source>J. Cereb. Blood Flow
+Metab.</source>
+<volume>31</volume>, <fpage>580</fpage>&#x02013;<lpage>592</lpage>.<pub-id pub-id-type="pmid">20700132</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Luckl</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>C.</given-names></name>; <name><surname>Durduran</surname><given-names>T.</given-names></name>; <name><surname>Yodh</surname><given-names>A.</given-names></name>; <name><surname>Greenberg</surname><given-names>J.</given-names></name> (<year>2009</year>) <article-title>Characterization of periinfarct flow
+transients with laser speckle and Doppler after middle cerebral artery
+occlusion in the rat</article-title>. <source>J. Neurosci. Res.</source>
+<volume>87</volume>, <fpage>1219</fpage>&#x02013;<lpage>1229</lpage>.<pub-id pub-id-type="pmid">19006084</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Dunn</surname><given-names>A.</given-names></name>; <name><surname>Bolay</surname><given-names>H.</given-names></name>; <name><surname>Moskowitz</surname><given-names>M.</given-names></name>; <name><surname>Boas</surname><given-names>D.</given-names></name> (<year>2001</year>) <article-title>Dynamic imaging of cerebral blood flow using laser speckle</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>21</volume>, <fpage>195</fpage>&#x02013;<lpage>201</lpage>.<pub-id pub-id-type="pmid">11295873</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Strong</surname><given-names>A.</given-names></name>; <name><surname>Hopwood</surname><given-names>S.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name>; <name><surname>Parkin</surname><given-names>M.</given-names></name>; <name><surname>Bezzina</surname><given-names>L.</given-names></name>; <name><surname>Yih-Huei</surname><given-names>S.</given-names></name>; <name><surname>Dunn</surname><given-names>A.</given-names></name> (<year>2003</year>) <article-title>Measuring dynamic changes in perfusion
+in the penumbra with high spatial and temporal resolution using laser
+speckle imaging: comparison with indicator clearance</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>23</volume>, <fpage>300</fpage>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Back</surname><given-names>T.</given-names></name>; <name><surname>Ginsberg</surname><given-names>M.</given-names></name>; <name><surname>Dietrich</surname><given-names>W.</given-names></name>; <name><surname>Watson</surname><given-names>B.</given-names></name> (<year>1996</year>) <article-title>Induction of spreading
+depression in the ischemic hemisphere following experimental middle
+cerebral artery occlusion: effect on infarct morphology</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>16</volume>, <fpage>202</fpage>&#x02013;<lpage>213</lpage>.<pub-id pub-id-type="pmid">8594051</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Dijkhuizen</surname><given-names>R.</given-names></name>; <name><surname>Beekwilder</surname><given-names>J.</given-names></name>; <name><surname>van der Worp</surname><given-names>H.</given-names></name>; <name><surname>Berkelbach van der Sprenkel</surname><given-names>J.</given-names></name>; <name><surname>Tulleken</surname><given-names>K.</given-names></name>; <name><surname>Nicolay</surname><given-names>K.</given-names></name> (<year>1999</year>) <article-title>Correlation between tissue depolarizations
+and damage in focal ischemic rat brain</article-title>. <source>Brain
+Res.</source>
+<volume>840</volume>, <fpage>194</fpage>&#x02013;<lpage>205</lpage>.<pub-id pub-id-type="pmid">10517971</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Mies</surname><given-names>G.</given-names></name> (<year>1993</year>) <article-title>Inhibition of protein synthesis during
+repetitive cortical spreading depression</article-title>. <source>J.
+Neurochem.</source>
+<volume>60</volume>, <fpage>360</fpage>&#x02013;<lpage>363</lpage>.<pub-id pub-id-type="pmid">8417158</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Marcoux</surname><given-names>J.</given-names></name>; <name><surname>McArthur</surname><given-names>D.</given-names></name>; <name><surname>Miller</surname><given-names>C.</given-names></name>; <name><surname>Glenn</surname><given-names>T.</given-names></name>; <name><surname>Villablanca</surname><given-names>P.</given-names></name>; <name><surname>Martin</surname><given-names>N.</given-names></name>; <name><surname>Hovda</surname><given-names>D.</given-names></name>; <name><surname>Alger</surname><given-names>J.</given-names></name>; <name><surname>Vespa</surname><given-names>P.</given-names></name> (<year>2008</year>) <article-title>Persistent metabolic crisis as measured
+by elevated cerebral microdialysis lactate-pyruvate ratio predicts
+chronic frontal lobe brain atrophy after traumatic brain injury</article-title>. <source>Crit. Care Med.</source>
+<volume>36</volume>, <fpage>2871</fpage>&#x02013;<lpage>2877</lpage>.<pub-id pub-id-type="pmid">18766106</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Xu</surname><given-names>Y.</given-names></name>; <name><surname>McArthur</surname><given-names>D.</given-names></name>; <name><surname>Alger</surname><given-names>J.</given-names></name>; <name><surname>Etchepare</surname><given-names>M.</given-names></name>; <name><surname>Hovda</surname><given-names>D.</given-names></name>; <name><surname>Glenn</surname><given-names>T.</given-names></name>; <name><surname>Huang</surname><given-names>S.</given-names></name>; <name><surname>Dinov</surname><given-names>I.</given-names></name>; <name><surname>Vespa</surname><given-names>P.</given-names></name> (<year>2009</year>) <article-title>Early nonischemic oxidative
+metabolic dysfunction leads to chronic brain atrophy in traumatic
+brain injury</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>30</volume>, <fpage>883</fpage>&#x02013;<lpage>894</lpage>.<pub-id pub-id-type="pmid">20029449</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Vespa</surname><given-names>P.</given-names></name>; <name><surname>McArthur</surname><given-names>D.</given-names></name>; <name><surname>O&#x02019;Phelan</surname><given-names>K.</given-names></name>; <name><surname>Glenn</surname><given-names>T.</given-names></name>; <name><surname>Etchepare</surname><given-names>M.</given-names></name>; <name><surname>Kelly</surname><given-names>D.</given-names></name>; <name><surname>Bergsneider</surname><given-names>M.</given-names></name>; <name><surname>Martin</surname><given-names>N.</given-names></name>; <name><surname>Hovda</surname><given-names>D.</given-names></name> (<year>2003</year>) <article-title>Persistently Low Extracellular Glucose
+Correlates With Poor Outcome 6 Months After Human Traumatic Brain
+Injury Despite a Lack of Increased Lactate&#x00026;colon; A Microdialysis
+Study</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>23</volume>, <fpage>865</fpage>&#x02013;<lpage>877</lpage>.<pub-id pub-id-type="pmid">12843790</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Hu</surname><given-names>Y.</given-names></name>; <name><surname>Wilson</surname><given-names>G.</given-names></name> (<year>1997</year>) <article-title>A temporary local energy
+pool coupled to neuronal activity: Fluctuations of extracellular lactate
+levels in rat brain monitored with rapid-response enzyme-based sensor</article-title>. <source>J. Neurochem.</source>
+<volume>69</volume>, <fpage>1484</fpage>&#x02013;<lpage>1490</lpage>.<pub-id pub-id-type="pmid">9326277</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Caesar</surname><given-names>K.</given-names></name>; <name><surname>Hashemi</surname><given-names>P.</given-names></name>; <name><surname>Douhou</surname><given-names>A.</given-names></name>; <name><surname>Bonvento</surname><given-names>G.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name>; <name><surname>Walls</surname><given-names>A.</given-names></name>; <name><surname>Lauritzen</surname><given-names>M.</given-names></name> (<year>2008</year>) <article-title>Glutamate receptor-dependent increments
+in lactate, glucose and oxygen metabolism evoked in rat cerebellum
+in vivo</article-title>. <source>J. Physiol.</source>
+<volume>586</volume>, <fpage>1337</fpage>&#x02013;<lpage>1349</lpage>.<pub-id pub-id-type="pmid">18187464</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Feuerstein</surname><given-names>D.</given-names></name>; <name><surname>Manning</surname><given-names>A.</given-names></name>; <name><surname>Hashemi</surname><given-names>P.</given-names></name>; <name><surname>Bhatia</surname><given-names>R.</given-names></name>; <name><surname>Fabricius</surname><given-names>M.</given-names></name>; <name><surname>Tolias</surname><given-names>C.</given-names></name>; <name><surname>Pahl</surname><given-names>C.</given-names></name>; <name><surname>Ervine</surname><given-names>M.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name> (<year>2010</year>) <article-title>Dynamic metabolic response to multiple
+spreading depolarizations in patients with acute brain injury: an
+online microdialysis study</article-title>. <source>J. Cereb. Blood
+Flow Metab.</source>
+<volume>30</volume>, <fpage>1343</fpage>&#x02013;<lpage>1355</lpage>.<pub-id pub-id-type="pmid">20145653</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Hopwood</surname><given-names>S.</given-names></name>; <name><surname>Parkin</surname><given-names>M.</given-names></name>; <name><surname>Bezzina</surname><given-names>E.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name> (<year>2005</year>) <article-title>Transient changes in cortical glucose
+and lactate levels associated with peri-infarct depolarisations, studied
+with rapid-sampling microdialysis</article-title>. <source>J. Cereb.
+Blood Flow Metab.</source>
+<volume>25</volume>, <fpage>391</fpage>&#x02013;<lpage>401</lpage>.<pub-id pub-id-type="pmid">15716860</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Parkin</surname><given-names>M.</given-names></name>; <name><surname>Hopwood</surname><given-names>S.</given-names></name>; <name><surname>Jones</surname><given-names>D.</given-names></name>; <name><surname>Hashemi</surname><given-names>P.</given-names></name>; <name><surname>Landolt</surname><given-names>H.</given-names></name>; <name><surname>Fabricius</surname><given-names>M.</given-names></name>; <name><surname>Lauritzen</surname><given-names>M.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name>; <name><surname>Strong</surname><given-names>A.</given-names></name> (<year>2005</year>) <article-title>Dynamic changes
+in brain glucose and lactate in pericontusional areas of the human
+cerebral cortex, monitored with rapid sampling on-line microdialysis:
+relationship with depolarisation-like events</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>25</volume>, <fpage>402</fpage>&#x02013;<lpage>413</lpage>.<pub-id pub-id-type="pmid">15703701</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Feuerstein</surname><given-names>D.</given-names></name>; <name><surname>Parker</surname><given-names>K.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name> (<year>2009</year>) <article-title>Practical Methods for Noise Removal:
+Applications to Spikes, Nonstationary Quasi-Periodic Noise, and Baseline
+Drift</article-title>. <source>Anal. Chem.</source>
+<volume>81</volume>, <fpage>4987</fpage>&#x02013;<lpage>4994</lpage>.<pub-id pub-id-type="pmid">19449858</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="undeclared" id="cit33"><person-group person-group-type="allauthors"><name><surname>Leong</surname><given-names>C.</given-names></name>, <name><surname>Feuerstein</surname><given-names>D.</given-names></name>, <name><surname>Takagaki</surname><given-names>M.</given-names></name>, <name><surname>Rogers</surname><given-names>M.</given-names></name>, <name><surname>Laaser</surname><given-names>T.</given-names></name>, <name><surname>Bhatia</surname><given-names>R.</given-names></name>, <name><surname>Backes</surname><given-names>H.</given-names></name>, <name><surname>Graf</surname><given-names>R.</given-names></name>, and <name><surname>Boutelle</surname><given-names>M.</given-names></name></person-group>. (<year>2013</year>) On-line potassium electrode.
+In preparation.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Patel</surname><given-names>B.</given-names></name>; <name><surname>Rogers</surname><given-names>M.</given-names></name>; <name><surname>Wieder</surname><given-names>T.</given-names></name>; <name><surname>O Hare</surname><given-names>D.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name> (<year>2011</year>) <article-title>ATP microelectrode biosensor for
+stable long-term in vitro monitoring from gastrointestinal tissue</article-title>. <source>Biosens. Bioelectron</source>
+<volume>26</volume>, <fpage>2890</fpage>&#x02013;<lpage>2896</lpage>.<pub-id pub-id-type="pmid">21163639</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Clarke</surname><given-names>W.</given-names></name>; <name><surname>Cox</surname><given-names>D.</given-names></name>; <name><surname>Gonder-Frederick</surname><given-names>L.</given-names></name>; <name><surname>Carter</surname><given-names>W.</given-names></name>; <name><surname>Pohl</surname><given-names>S.</given-names></name> (<year>1987</year>) <article-title>Evaluating
+clinical accuracy of systems for self-monitoring of blood glucose</article-title>. <source>Diabetes Care</source>
+<volume>10</volume>, <fpage>622</fpage>&#x02013;<lpage>628</lpage>.<pub-id pub-id-type="pmid">3677983</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Oliver</surname><given-names>N.</given-names></name>; <name><surname>Toumazou</surname><given-names>C.</given-names></name>; <name><surname>Cass</surname><given-names>A.</given-names></name>; <name><surname>Johnston</surname><given-names>D.</given-names></name> (<year>2009</year>) <article-title>Glucose sensors: a
+review of current and emerging technology</article-title>. <source>Diabetic
+Med.</source>
+<volume>26</volume>, <fpage>197</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">19317813</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Kudo</surname><given-names>C.</given-names></name>; <name><surname>Nozari</surname><given-names>A.</given-names></name>; <name><surname>Moskowitz</surname><given-names>M.</given-names></name>; <name><surname>Ayata</surname><given-names>C.</given-names></name> (<year>2008</year>) <article-title>The impact of anesthetics and hyperoxia on cortical spreading depression</article-title>. <source>Exp. Neurol.</source>
+<volume>212</volume>, <fpage>201</fpage>&#x02013;<lpage>206</lpage>.<pub-id pub-id-type="pmid">18501348</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Clough</surname><given-names>G.</given-names></name>; <name><surname>Boutsiouki</surname><given-names>P.</given-names></name>; <name><surname>Church</surname><given-names>M.</given-names></name>; <name><surname>Michel</surname><given-names>C.</given-names></name> (<year>2002</year>) <article-title>Effects of blood flow
+on the in vivo recovery of a small diffusible molecule by microdialysis
+in human skin</article-title>. <source>J. Pharmacol. Exp. Ther.</source>
+<volume>302</volume>, <fpage>681</fpage>&#x02013;<lpage>686</lpage>.<pub-id pub-id-type="pmid">12130732</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Horn</surname><given-names>T.</given-names></name>; <name><surname>Klein</surname><given-names>J.</given-names></name> (<year>2010</year>) <article-title>Lactate levels in the
+brain are elevated upon exposure to volatile anesthetics: a microdialysis
+study</article-title>. <source>Neurochem. Int.</source>
+<volume>57</volume>, <fpage>940</fpage>&#x02013;<lpage>947</lpage>.<pub-id pub-id-type="pmid">20933036</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Vyskocil</surname><given-names>F.</given-names></name>; <name><surname>Kritz</surname><given-names>N.</given-names></name>; <name><surname>Bures</surname><given-names>J.</given-names></name> (<year>1972</year>) <article-title>Potassium-selective
+microelectrodes used for measuring the extracellular brain potassium
+during spreading depression and anoxic depolarization in rats</article-title>. <source>Brain Res.</source>
+<volume>39</volume>, <fpage>255</fpage>.<pub-id pub-id-type="pmid">5025649</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Rogers</surname><given-names>M.</given-names></name>; <name><surname>Leong</surname><given-names>C.</given-names></name>; <name><surname>Niu</surname><given-names>X.</given-names></name>; <name><surname>de Mello</surname><given-names>A.</given-names></name>; <name><surname>Parker</surname><given-names>K.</given-names></name>; <name><surname>Boutelle</surname><given-names>M.</given-names></name> (<year>2011</year>) <article-title>Optimisation of a microfluidic
+analysis chamber for the placement of microelectrodes</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<volume>13</volume>, <fpage>5298</fpage>&#x02013;<lpage>5303</lpage>.<pub-id pub-id-type="pmid">21344092</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Hutchens</surname><given-names>M. P.</given-names></name>; <name><surname>Memtsoudis</surname><given-names>S.</given-names></name>; <name><surname>Sadovnikoff</surname><given-names>N.</given-names></name> (<year>2006</year>) <article-title>Propofol for sedation in neuro-intensive
+care</article-title>. <source>Neurocrit. Care</source>
+<volume>4</volume>, <fpage>54</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">16498196</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="undeclared" id="cit43"><person-group person-group-type="allauthors"><name><surname>Feuerstein</surname><given-names>D.</given-names></name>, <name><surname>Takagaki</surname><given-names>M.</given-names></name>, <name><surname>Gramer</surname><given-names>M.</given-names></name>, <name><surname>Manning</surname><given-names>A.</given-names></name>, <name><surname>Endepols</surname><given-names>H.</given-names></name>, <name><surname>Vollmar</surname><given-names>S.</given-names></name>, <name><surname>Yoshimine</surname><given-names>T.</given-names></name>, <name><surname>Strong</surname><given-names>A.</given-names></name>, <name><surname>Backes</surname><given-names>H.</given-names></name>, and <name><surname>Graf</surname><given-names>R.</given-names></name></person-group> (<year>2013</year>) <article-title>The capacity to raise blood flow in response to
+increased energy demand defines tissue conditions in brain injury</article-title>. Submitted.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="undeclared" id="cit44"><person-group person-group-type="allauthors"><name><surname>Takagaki</surname><given-names>M.</given-names></name>, <name><surname>Feuerstein</surname><given-names>D.</given-names></name>, <name><surname>Kumagai</surname><given-names>T.</given-names></name>, <name><surname>Gramer</surname><given-names>M.</given-names></name>, <name><surname>Yoshimine</surname><given-names>T.</given-names></name>, and <name><surname>Graf</surname><given-names>R.</given-names></name></person-group> (<year>2013</year>) <article-title>Isoflurane suppresses cortical spreading depolarizations
+compared to propofol - implications for sedation of neurocritical
+care patients</article-title>. Submitted.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Richter</surname><given-names>F.</given-names></name>; <name><surname>Rupprecht</surname><given-names>S.</given-names></name>; <name><surname>Lehmenkuhler</surname><given-names>A.</given-names></name>; <name><surname>Schaible</surname><given-names>H.</given-names></name> (<year>2003</year>) <article-title>Spreading depression
+can be elicited in brain stem of immature but not adult rats</article-title>. <source>J. Neurophysiol.</source>
+<volume>90</volume>, <fpage>2163</fpage>&#x02013;<lpage>2170</lpage>.<pub-id pub-id-type="pmid">12789015</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Richter</surname><given-names>F.</given-names></name>; <name><surname>Ebersberger</surname><given-names>A.</given-names></name>; <name><surname>Schaible</surname><given-names>H.</given-names></name> (<year>2002</year>) <article-title>Blockade of voltage-gated calcium
+channels in rat inhibits repetitive cortical spreading depression</article-title>. <source>Neurosci. Lett.</source>
+<volume>334</volume>, <fpage>123</fpage>&#x02013;<lpage>126</lpage>.<pub-id pub-id-type="pmid">12435487</pub-id></mixed-citation></ref></ref-list></back></article>

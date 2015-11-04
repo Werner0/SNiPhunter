@@ -1,0 +1,633 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Chem Neurosci</journal-id><journal-id journal-id-type="iso-abbrev">ACS Chem Neurosci</journal-id><journal-id journal-id-type="publisher-id">cn</journal-id><journal-id journal-id-type="coden">acncdm</journal-id><journal-title-group><journal-title>ACS Chemical Neuroscience</journal-title></journal-title-group><issn pub-type="ppub">1948-7193</issn><issn pub-type="epub">1948-7193</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25123416</article-id><article-id pub-id-type="pmc">4210126</article-id><article-id pub-id-type="doi">10.1021/cn500138n</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Synthesis and Evaluation of Translocator 18 kDa Protein
+(TSPO) Positron Emission Tomography (PET) Radioligands with Low Binding
+Sensitivity to Human Single Nucleotide Polymorphism rs6971</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Zanotti-Fregonara</surname><given-names>Paolo</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Zhang</surname><given-names>Yi</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Jenko</surname><given-names>Kimberly J.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Gladding</surname><given-names>Robert L.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Zoghbi</surname><given-names>Sami S.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Fujita</surname><given-names>Masahiro</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Sbardella</surname><given-names>Gianluca</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Castellano</surname><given-names>Sabrina</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Taliani</surname><given-names>Sabrina</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Martini</surname><given-names>Claudia</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Innis</surname><given-names>Robert B.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath12"><name><surname>Da Settimo</surname><given-names>Federico</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><name><surname>Pike</surname><given-names>Victor W.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Molecular
+Imaging Branch, National Institute of Mental Health, <institution>National Institutes of Health</institution>, Bethesda, Maryland 20892-0001, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Pharmacy, <institution>University of Salerno</institution>, 84084 Fisciano (SA), <country>Italy</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Pharmacy, <institution>University of Pisa</institution>, Via Bonanno 6, 56126 Pisa, <country>Italy</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Tel.: <phone>+3015945986</phone>. Fax: <fax>+3014805112</fax>. E-mail: <email>pikev@mail.nih.gov</email>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>15</day><month>08</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>15</day><month>08</month><year>2014</year></pub-date><pub-date pub-type="collection"><day>15</day><month>10</month><year>2014</year></pub-date><volume>5</volume><issue>10</issue><fpage>963</fpage><lpage>971</lpage><history><date date-type="received"><day>20</day><month>06</month><year>2014</year></date><date date-type="rev-recd"><day>14</day><month>08</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American
+Chemical Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American
+Chemical Society</copyright-holder><license><license-p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">Terms of Use</ext-link></license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0010" id="ab-tgr1"/></p><p>The imaging of translocator 18 kDa
+protein (TSPO) in living human
+brain with radioligands by positron emission tomography (PET) has
+become an important means for the study of neuroinflammatory conditions
+occurring in several neuropsychiatric disorders. The widely used prototypical
+PET radioligand [<sup>11</sup>C](<italic>R</italic>)-PK 11195 ([<sup>11</sup>C](<italic>R</italic>)-<bold>1</bold>; [<italic><italic>N</italic>-methyl</italic>-<sup>11</sup>C](<italic>R</italic>)-<italic>N</italic>-<italic>sec</italic>-butyl-1-(2-chlorophenyl)-<italic>N</italic>-methylisoquinoline-3-carboxamide) gives a low PET signal and is
+difficult to quantify, whereas later generation radioligands have
+binding sensitivity to a human single nucleotide polymorphism (SNP)
+rs6971, which imposes limitations on their utility for comparative
+quantitative PET studies of normal and diseased subjects. Recently,
+azaisosteres of <bold>1</bold> have been developed with improved drug-like
+properties, including enhanced TSPO affinity accompanied by moderated
+lipophilicity. Here we selected three of these new ligands (<bold>7</bold>&#x02013;<bold>9</bold>) for labeling with carbon-11 and for
+evaluation in monkey as candidate PET radioligands for imaging brain
+TSPO. Each radioligand was readily prepared by <sup>11</sup>C-methylation
+of an <italic>N</italic>-desmethyl precursor and was found to give
+a high proportion of TSPO-specific binding in monkey brain. One of
+these radioligands, [<sup>11</sup>C]<bold>7</bold>, the direct 4-azaisostere
+of <bold>1</bold>, presents many radioligand properties that are superior
+to those reported for [<sup>11</sup>C]<bold>1</bold>, including higher
+affinity, lower lipophilicity, and stable quantifiable PET signal.
+Importantly, <bold>7</bold> was also found to show very low sensitivity
+to the human SNP rs6971 in vitro. Therefore, [<sup>11</sup>C]<bold>7</bold> now warrants evaluation in human subjects with PET to assess
+its utility for imaging TSPO in human brain, irrespective of subject
+genotype.</p></abstract><kwd-group><kwd>TSPO</kwd><kwd>PET</kwd><kwd>radioligand</kwd><kwd>carbon-11</kwd><kwd>imaging</kwd><kwd>brain</kwd></kwd-group><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>cn500138n</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>cn-2014-00138n</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">Translocator protein 18 kDa
+(TSPO), formerly known as the peripheral benzodiazepine receptor,<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> is mainly located in outer mitochondrial membranes<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> and is implicated in several functions, including
+cholesterol transport and stereoidogenesis.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> TSPO expression
+is up-regulated in several human pathologies with inflammation, including
+a large number of neuropsychiatric disorders that are known or suspected
+to have inflammation.<sup><xref ref-type="bibr" rid="ref6">6</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> In neuroinflammatory conditions, TSPO is upregulated both in activated
+microglia, which reflect an acute response to injury, and in reactive
+astrocytes, which may accumulate to form a sclerosis (i.e., scar)
+in brain and remain for life.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> Thus, PET imaging of
+TSPO is keenly pursued for its ability to inform on the development
+of neuroinflammatory conditions in brain and as a potential biomarker
+in clinical trials with anti-inflammatory drugs.<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup></p><p>The prototypical radioligand,
+[<sup>11</sup>C]PK11195 ([<sup>11</sup>C]<bold>1</bold>), first as
+racemate<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> and later
+as its higher affinity <italic>R-</italic>enantiomer ([<sup>11</sup>C](<italic>R</italic>)-<bold>1</bold>, Figure <xref rid="fig1" ref-type="fig">1</xref>),<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> has been used for almost three decades for
+imaging brain TSPO with PET. However, this radioligand is recognized
+to have severe limitations, including low sensitivity and poor amenability
+to quantification.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Consequently, considerable
+efforts have been expended on developing improved radioligands,<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> such as [<sup>11</sup>C]PBR28 ([<sup>11</sup>C]<bold>2</bold>),<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> [<sup>18</sup>F]FBR ([<sup>18</sup>F]<bold>3</bold>),<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> [<sup>11</sup>C]DPA 713 ([<sup>11</sup>C]<bold>4</bold>),<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> [<sup>18</sup>F]PBR111 ([<sup>18</sup>F]<bold>5</bold>),<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> and [<sup>18</sup>F]FEPPA ([<sup>18</sup>F]<bold>6</bold>)<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> (Figure <xref rid="fig1" ref-type="fig">1</xref>). These radioligands deliver
+higher TSPO-specific signals but suffer from sensitivity to the single
+nucleotide polymorphism (SNP) rs6971, which has an allelic frequency
+of about 30% in humans of European ancestry.<sup><xref ref-type="bibr" rid="ref30">30</xref>&#x02212;<xref ref-type="bibr" rid="ref34">34</xref></sup> This SNP, which has no known clinical significance,
+is codominantly expressed, giving rise to high-affinity binders (HABs
+that have two high-affinity alleles), low-affinity binders (LABs that
+have two low affinity alleles), and mixed-affinity binders (MABs that
+have one low- and one high-affinity allele). The differential affinity
+of the two alleles can be large for some radioligands, for example,
+about 50-fold difference in affinity for [<sup>11</sup>C]<bold>2</bold>. Depending on the radioligand, LABs have such negligible uptake
+in brain that they must be excluded from PET study. In addition, HAB
+and MAB subjects must be genotyped to correct for the effect of genotype
+on binding. Therefore, an effective TSPO PET radioligand that is devoid
+of sensitivity to SNP rs6971 would be valuable.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Structures of some known
+TSPO PET radioligands and of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0001" id="gr1" position="float"/></fig><p>Despite its other limitations,
+[<sup>11</sup>C](<italic>R</italic>)-<bold>1</bold> shows exceptionally
+low sensitivity to SNP rs697
+in vitro,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> although it may have some sensitivity
+in vivo.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> We recently reported a series
+of 4-phenylquinazoline-2-carboxamides as TSPO ligands designed as
+azaisosteres of <bold>1</bold>.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> A wide number of variously
+decorated derivatives were synthesized and biologically evaluated,
+most of which showed high TSPO binding affinity with <italic>K</italic><sub>i</sub> values in the nanomolar/subnanomolar range and with
+high selectivity toward the target protein. Specifically, three of
+these ligands (<bold>7</bold>&#x02013;<bold>9</bold>) were considered
+to present attractive properties for PET radioligand development,
+including high TSPO affinity and moderate lipophilicity. Here we sought
+to prepare the three radioligands [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> (Figure <xref rid="fig1" ref-type="fig">1</xref>) for evaluation of their
+abilities to image TSPO in monkey brain. In view of our findings of
+promising TSPO imaging characteristics for [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> in monkey, we also used assays with human
+leukocytes and postmortem human cerebellum to establish that their
+TSPO binding characteristics were promising for PET imaging of all
+TSPO genotypes.</p><sec id="sec2"><title>Results and Discussion</title><p>Our selection
+of the three 4-phenylquinazoline-2-carboxamides <bold>7</bold>&#x02013;<bold>9</bold> for labeling with carbon-11 (&#x003b2;<sup>+</sup>, <italic>t</italic><sub>1/2</sub> = 20.4 min) and evaluation
+as possible PET radioligands for brain TSPO was initially guided by
+their high affinities toward TSPO and their computed moderate lipophilicities
+(clogD values) (Table <xref rid="tbl1" ref-type="other">1</xref>), which are consistent
+with achieving adequate brain entry and low nonspecific binding.<sup><xref ref-type="bibr" rid="ref37">37</xref>&#x02212;<xref ref-type="bibr" rid="ref40">40</xref></sup> In this regard, <bold>7</bold>&#x02013;<bold>9</bold> favorably presented
+superior affinity and attenuated lipophilicity with respect to <bold>1</bold> (Table <xref rid="tbl1" ref-type="other">1</xref>). Here we found that these
+three ligands were readily labeled with carbon-11 and showed high
+TSPO-specific PET signals in rhesus monkey brain. In addition, they
+were found to show low sensitivity to human TSPO genotype in vitro.
+Overall, [<sup>11</sup>C]<bold>7</bold>, in particular, merits evaluation
+in human subjects.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>In Silico and in Vitro Properties
+of <bold>1</bold> and <bold>7</bold>&#x02013;<bold>9</bold></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th colspan="2" align="center" char=".">HAB <italic>K</italic><sub>i</sub> (nM)<hr/></th><th colspan="2" align="center" char=".">LAB <italic>K</italic><sub>i</sub> (nM)<hr/></th><th colspan="2" align="center" char=".">LAB <italic>K</italic><sub>i</sub>/HAB <italic>K</italic><sub>i</sub><hr/></th><th style="border:none;" align="center" char=".">&#x000a0;</th></tr><tr><th style="border:none;" align="center">Ligand</th><th style="border:none;" align="center" char=".">Rat <italic>K</italic><sub>i</sub> (nM)<xref rid="t1fn1" ref-type="table-fn">a</xref></th><th style="border:none;" align="center" char=".">clogD</th><th style="border:none;" align="center" char=".">logD<xref rid="t1fn2" ref-type="table-fn">b</xref></th><th style="border:none;" align="center" char=".">Leukocytes<xref rid="t1fn3" ref-type="table-fn">c</xref></th><th style="border:none;" align="center" char=".">Cerebellum<xref rid="t1fn4" ref-type="table-fn">d</xref></th><th style="border:none;" align="center" char=".">Leukocytes<xref rid="t1fn3" ref-type="table-fn">c</xref></th><th style="border:none;" align="center" char=".">Cerebellum<xref rid="t1fn4" ref-type="table-fn">d</xref></th><th style="border:none;" align="center" char=".">Leukocytes</th><th style="border:none;" align="center" char=".">Cerebellum</th><th style="border:none;" align="center" char=".">LipE<xref rid="t1fn5" ref-type="table-fn">e</xref></th></tr></thead><tbody><tr><td style="border:none;" align="left"><bold>1</bold></td><td style="border:none;" align="char" char=".">9.3&#x000a0;&#x000b1;&#x000a0;0.5</td><td style="border:none;" align="char" char=".">3.72</td><td style="border:none;" align="char" char=".">3.97&#x000a0;&#x000b1;&#x000a0;0.18</td><td style="border:none;" align="char" char=".">4.06&#x000a0;&#x000b1;&#x000a0;1.20</td><td style="border:none;" align="char" char=".">4.53&#x000a0;&#x000b1;&#x000a0;2.08</td><td style="border:none;" align="char" char=".">3.94&#x000a0;&#x000b1;&#x000a0;1.20</td><td style="border:none;" align="char" char=".">4.16&#x000a0;&#x000b1;&#x000a0;0.89</td><td style="border:none;" align="char" char=".">0.97</td><td style="border:none;" align="char" char=".">0.92</td><td style="border:none;" align="char" char=".">4.37</td></tr><tr><td style="border:none;" align="left"><bold>7</bold></td><td style="border:none;" align="char" char=".">3.1&#x000a0;&#x000b1;&#x000a0;0.3</td><td style="border:none;" align="char" char=".">2.95</td><td style="border:none;" align="char" char=".">3.55&#x000a0;&#x000b1;&#x000a0;0.02</td><td style="border:none;" align="char" char=".">1.26&#x000a0;&#x000b1;&#x000a0;0.57</td><td style="border:none;" align="char" char=".">1.48&#x000a0;&#x000b1;&#x000a0;0.18</td><td style="border:none;" align="char" char=".">1.65&#x000a0;&#x000b1;&#x000a0;0.26</td><td style="border:none;" align="char" char=".">1.89&#x000a0;&#x000b1;&#x000a0;0.33</td><td style="border:none;" align="char" char=".">1.3</td><td style="border:none;" align="char" char=".">1.3</td><td style="border:none;" align="char" char=".">5.28</td></tr><tr><td style="border:none;" align="left"><bold>8</bold></td><td style="border:none;" align="char" char=".">2.7&#x000a0;&#x000b1;&#x000a0;0.3</td><td style="border:none;" align="char" char=".">3.22</td><td style="border:none;" align="char" char=".">3.540&#x000a0;&#x000b1;&#x000a0;0.005</td><td style="border:none;" align="char" char=".">0.91&#x000a0;&#x000b1;&#x000a0;0.47</td><td style="border:none;" align="char" char=".">1.01&#x000a0;&#x000b1;&#x000a0;0.35</td><td style="border:none;" align="char" char=".">2.20&#x000a0;&#x000b1;&#x000a0;1.0</td><td style="border:none;" align="char" char=".">2.64&#x000a0;&#x000b1;&#x000a0;0.88</td><td style="border:none;" align="char" char=".">2.4</td><td style="border:none;" align="char" char=".">2.6</td><td style="border:none;" align="char" char=".">5.46</td></tr><tr><td style="border:none;" align="left"><bold>9</bold></td><td style="border:none;" align="char" char=".">3.0&#x000a0;&#x000b1;&#x000a0;0.3</td><td style="border:none;" align="char" char=".">2.54</td><td style="border:none;" align="char" char=".">2.98&#x000a0;&#x000b1;&#x000a0;0.01</td><td style="border:none;" align="char" char=".">3.99&#x000a0;&#x000b1;&#x000a0;0.85</td><td style="border:none;" align="char" char=".">5.74&#x000a0;&#x000b1;&#x000a0;0.77</td><td style="border:none;" align="char" char=".">10.1&#x000a0;&#x000b1;&#x000a0;2.6</td><td style="border:none;" align="char" char=".">15.6&#x000a0;&#x000b1;&#x000a0;1.9</td><td style="border:none;" align="char" char=".">2.5</td><td style="border:none;" align="char" char=".">2.7</td><td style="border:none;" align="char" char=".">5.26</td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>From ref (<xref ref-type="bibr" rid="ref35">35</xref>).</p></fn><fn id="t1fn2"><label>b</label><p>Mean &#x000b1; SD for <italic>n</italic> = 6.</p></fn><fn id="t1fn3"><label>c</label><p>Mean &#x000b1; SD for
+leukocytes from
+5 subjects, except 4 HAB subjects were used for <bold>9</bold>.</p></fn><fn id="t1fn4"><label>d</label><p>Mean &#x000b1; SD for cerebellum from
+4 subjects.</p></fn><fn id="t1fn5"><label>e</label><p><italic>pK</italic><sub>i</sub> &#x02013;
+logD for human cerebellum HAB.</p></fn></table-wrap-foot></table-wrap><sec id="sec2.1"><title>Radiochemistry</title><p>The three radioligands [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> were prepared rapidly by treating
+the respective <italic>N</italic>-desmethyl analogs <bold>10</bold>&#x02013;<bold>12</bold> with [<sup>11</sup>C]methyl iodide in DMSO
+with potassium hydroxide as base (Figure <xref rid="fig2" ref-type="fig">2</xref>).
+Each radioligand was purified by reverse phase HPLC and formulated
+for intravenous injection. HPLC analysis showed that each formulated
+radioligand was obtained in high radiochemical purity (&#x0003e;99%), in
+high
+specific radioactivity (typically &#x0003e;55 GBq/&#x003bc;mol at end of
+synthesis)
+(Table <xref rid="tbl2" ref-type="other">2</xref>), and free of significant chemical
+contaminants as judged by the absence of major unknown absorbance
+peaks in HPLC analysis. Moreover, each formulated radioligand was
+radiochemically stable for at least 2 h. Adequate activities (&#x0003e;90
+MBq) were readily obtained for PET imaging in monkey.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Labeling of <bold>7</bold>&#x02013;<bold>9</bold> with carbon-11.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0002" id="gr2" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Radiochemical Yields, Purities, and
+Specific Activities of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">Radioligand</th><th style="border:none;" align="center">Decay-corrected
+radiochemical yield (%)</th><th style="border:none;" align="center">Radiochemical
+purity (%)</th><th style="border:none;" align="center">Specific
+radioactivity range at EOS<xref rid="t2fn1" ref-type="table-fn">a</xref>(GBq/&#x003bc;mol)</th></tr></thead><tbody><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>7</bold></td><td style="border:none;" align="left">17&#x02013;29</td><td style="border:none;" align="left">100</td><td style="border:none;" align="left">72.2&#x02013;203 (<italic>n</italic>&#x000a0;=&#x000a0;4)</td></tr><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>8</bold></td><td style="border:none;" align="left">23&#x02013;28</td><td style="border:none;" align="left">100</td><td style="border:none;" align="left">79.6&#x02013;226 (<italic>n</italic>&#x000a0;=&#x000a0;4)</td></tr><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>9</bold></td><td style="border:none;" align="left">18&#x02013;27</td><td style="border:none;" align="left">100</td><td style="border:none;" align="left">53.7&#x02013;329 (<italic>n</italic>&#x000a0;=&#x000a0;6)</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>End of synthesis.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec2.2"><title>Lipophilicity Measurements</title><p>Measured radioligand logD
+values were found, as expected, to be almost identical for the two
+chloro isomers [<sup>11</sup>C]<bold>7</bold> and [<sup>11</sup>C]<bold>8</bold>, namely &#x0223c;3.5, and appreciably higher than for the
+nonchloro compound [<sup>11</sup>C]<bold>9</bold> (Table <xref rid="tbl1" ref-type="other">1</xref>). As expected, all three quinazoline radioligands
+[<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> have lower lipophilicity
+than the counterpart isoquinoline <bold>1</bold> (logD, 3.97), which
+has one less ring nitrogen. Measured logD values are in fair agreement
+with our computed values, upon which the selection of <bold>7</bold>&#x02013;<bold>9</bold> for further development as PET radioligands
+was made.</p></sec><sec id="sec2.3"><title>PET Imaging of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> in Monkeys</title><p>The ability of radioligands [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> to image brain TSPO was tested with
+PET in rhesus monkeys, first after radioligand injection at baseline,
+and second after preblocking TSPO with <bold>1</bold> (5 mg/kg, i.v.)
+at about 5 min before injection of radioligand. Summed PET images
+of monkey brain acquired after radioligand injection (Figure <xref rid="fig3" ref-type="fig">3</xref>) displayed a high level of radioactivity, especially
+in the choroid plexus of the fourth ventricle. High uptake was also
+seen in striatum and cerebellum, and to a lesser extent in cortical
+regions. Scans from the corresponding preblock experiments showed
+a very uniform and low distribution of radioactivity, consistent with
+the absence of radioligand specific binding to TSPO (data not shown).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Sagittal
+summed PET images of brain after intravenous injection
+of the same monkey with [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> under baseline conditions. Arrows point to the choroid plexus
+of the fourth ventricle.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0003" id="gr3" position="float"/></fig><p>At baseline, [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> were estimated to have mean peak whole brain concentrations
+of 2.0,
+2.3, and 1.8 SUV at about 23, 30, and 10 min (all, <italic>n</italic> = 2), respectively (Figure <xref rid="fig4" ref-type="fig">4</xref>). This moderately
+high uptake is comparable to that achieved with other prominent TSPO
+radioligands, such as [<sup>11</sup>C]<bold>2</bold><sup><xref ref-type="bibr" rid="ref24">24</xref></sup> and [<sup>18</sup>F]<bold>3</bold>.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Subsequent washout of radioactivity from all TSPO-containing
+regions was slow, reducing to 86, 92, and 36% of the peak value at
+60 min for [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold>, respectively
+(Figure <xref rid="fig4" ref-type="fig">4</xref>). In TSPO preblock experiments, the
+kinetics of brain radioactivity was strikingly different. Peak brain
+radioactivity was much higher and earlier but declined much faster
+than at baseline to reach a low terminal level (Figure <xref rid="fig4" ref-type="fig">4</xref>), thereby evidencing the TSPO receptor block in the brain.
+These data together indicate a high proportion of radioligand specific
+binding to brain TSPO in the baseline experiments.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>PET time-activity curves
+in whole rhesus monkey brain following
+intravenous injection of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> under baseline and TSPO-preblocked conditions. Data are
+from a single monkey.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0004" id="gr4" position="float"/></fig><p>Regional brain time-activity curves for each radioligand
+at baseline
+and at preblock showed the same shape as the whole brain curves, with
+the exception of the curve for the choroid plexus of the fourth ventricle
+for [<sup>11</sup>C]<bold>9</bold> (Figure <xref rid="fig5" ref-type="fig">5</xref>). The positional isomers, [<sup>11</sup>C]<bold>7</bold> and [<sup>11</sup>C]<bold>8</bold>, have very similar affinity and lipophilicity
+in vitro (Table <xref rid="tbl1" ref-type="other">1</xref>) and gave very similar time-activity
+curves under each condition, although brain uptake was somewhat higher
+for [<sup>11</sup>C]<bold>8</bold>. For each radioligand at baseline,
+peak radioactivities were highest in the choroid plexus of the fourth
+ventricle, followed by putamen, cerebellum, and all other examined
+regions (Figure <xref rid="fig5" ref-type="fig">5</xref>). In the preblock experiment
+with each radioligand, regional time-activity curves were virtually
+superimposed, with the exception of the choroid plexus curve for [<sup>11</sup>C]<bold>9</bold>, which remained higher than for other regions.
+These data evidence equal nonspecific binding for [<sup>11</sup>C]<bold>7</bold> and [<sup>11</sup>C]<bold>8</bold> in all regions and equal
+nonspecific binding for [<sup>11</sup>C]<bold>9</bold> in all regions
+except the choroid plexus of the fourth ventricle (Figure <xref rid="fig5" ref-type="fig">5</xref>).</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Time-activity curves in brain regions of the same monkey
+following
+intravenous injection of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> under baseline and TSPO-blocked conditions. Key: Anterior
+cingulate (&#x025b3;), cerebellum (&#x025a1;), choroid plexus of the
+fourth ventricle (&#x025cf;); hippocampus (&#x025c7;), prefrontal cortex
+(&#x025cb;), and putamen (&#x025bd;).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0005" id="gr5" position="float"/></fig><p>In some paired baseline and preblock PET experiments, a metabolite-corrected
+arterial input function for unchanged radioligand was measured (see
+below) and used with Logan graphical analysis<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> to derive a measurement of radioligand binding in terms of total
+distribution volume, <italic>V</italic><sub>T</sub>.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> Logan-<italic>V</italic><sub>T</sub> values for [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> determined for direct comparison
+in cerebellum of a single monkey were found to be 11.3, 25.6, and
+2.4 mL/cm<sup>3</sup> at baseline and 2.0, 3.3, and 1.4 mL/cm<sup>3</sup> at preblock, indicating 82, 87, and 42% TSPO specific binding
+at baseline, respectively (Table <xref rid="tbl3" ref-type="other">3</xref>). <italic>V</italic><sub>S</sub>, the difference between baseline and preblock <italic>V</italic><sub>T</sub>, may be taken as a measure of specific binding. <italic>V</italic><sub>S</sub> values for [<sup>11</sup>C]<bold>7</bold> and
+[<sup>11</sup>C]<bold>8</bold> are 9.3 and 22.3 mL/cm<sup>3</sup>,
+which are substantially higher than the <italic>V</italic><sub><italic>S</italic></sub> value (&#x0223c;2 mL/cm<sup>3</sup>) found<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> for [<sup>11</sup>C](<italic>R</italic>)-<bold>1</bold>. <italic>V</italic><sub>S</sub> for [<sup>11</sup>C]<bold>9</bold> is lower than that of [<sup>11</sup>C](<italic>R</italic>)-<bold>1</bold>. These data do not take into account changes in
+brain exposure to radioligand due to changes in plasma free fraction
+between baseline and preblock conditions. After correction for measured
+free fraction changes in the same monkey (Table <xref rid="tbl4" ref-type="other">4</xref>), estimates of TSPO specific binding at baseline became 88, 89,
+and 78%, respectively (Table <xref rid="tbl3" ref-type="other">3</xref>). Clearly, [<sup>11</sup>C]<bold>7</bold> and [<sup>11</sup>C]<bold>8</bold> have
+appreciably greater <italic>V</italic><sub>T</sub>/<italic>f</italic><sub>P</sub> values than [<sup>11</sup>C]<bold>9</bold>. It was therefore
+of interest to assess the duration of PET data that needs to be acquired
+to obtain acceptably stable <italic>V</italic><sub>T</sub> values,
+which are often considered to be values that are sustained within
+90% of the terminal value. Figure <xref rid="fig6" ref-type="fig">6</xref> shows the
+variation in cerebellar <italic>V</italic><sub>T</sub>&#x02019;s for
+[<sup>11</sup>C]<bold>7</bold> and [<sup>11</sup>C]<bold>8</bold> with
+respect to their estimation from increasing durations of PET data
+acquired immediately following radioligand administration. At baseline,
+both radioligands reach 90% of terminal values by about 70 min. Whereas
+the curve for [<sup>11</sup>C]<bold>7</bold> appears to be almost
+stabilized by 120 min, that for [<sup>11</sup>C]<bold>8</bold> appears
+still to be rising steadily. Therefore, on this basis, [<sup>11</sup>C]<bold>7</bold> appears to have more favorable kinetics for quantifying
+TSPO in monkey brain than [<sup>11</sup>C]<bold>8</bold>.</p><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Estimation of TSPO Specific Binding
+in Monkey Cerebellum from <italic>V</italic><sub>T</sub> at Baseline
+and under Preblock Conditions, with and without Correction for Plasma
+Free Fraction (<italic>f</italic><sub>P</sub>)<xref rid="tbl3-fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">Radioligand</th><th style="border:none;" align="center" char="."><italic>V</italic><sub>T</sub> at baseline (mL/cm<sup>3</sup>)</th><th style="border:none;" align="center" char="."><italic>V</italic><sub>T</sub> at preblock (mL/cm<sup>3</sup>)</th><th style="border:none;" align="center" char=".">Est of TSPO
+specific binding<xref rid="t3fn1" ref-type="table-fn">b</xref> (%)</th><th style="border:none;" align="center" char="."><italic>V</italic><sub>T</sub>/<italic>f</italic><sub>P</sub> at baseline (mL/cm<sup>3</sup>)</th><th style="border:none;" align="center" char="."><italic>V</italic><sub>T</sub>/<italic>f</italic><sub>P</sub> at
+preblock (mL/cm<sup>3</sup>)</th><th style="border:none;" align="center" char=".">Est of TSPO
+specific binding<xref rid="t3fn2" ref-type="table-fn">c</xref> (%)</th></tr></thead><tbody><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>7</bold></td><td style="border:none;" align="char" char=".">11.3</td><td style="border:none;" align="char" char=".">2.0</td><td style="border:none;" align="char" char=".">82</td><td style="border:none;" align="char" char=".">141</td><td style="border:none;" align="char" char=".">17.2</td><td style="border:none;" align="char" char=".">88</td></tr><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>8</bold></td><td style="border:none;" align="char" char=".">25.6</td><td style="border:none;" align="char" char=".">3.3</td><td style="border:none;" align="char" char=".">87</td><td style="border:none;" align="char" char=".">533</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="char" char=".">89</td></tr><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>9</bold></td><td style="border:none;" align="char" char=".">2.4</td><td style="border:none;" align="char" char=".">1.4</td><td style="border:none;" align="char" char=".">42</td><td style="border:none;" align="char" char=".">34.8</td><td style="border:none;" align="char" char=".">7.5</td><td style="border:none;" align="char" char=".">78</td></tr></tbody></table><table-wrap-foot><fn id="tbl3-fn1"><label>a</label><p>All data are
+from the same monkey.</p></fn><fn id="t3fn1"><label>b</label><p>From <italic>V</italic><sub>T</sub> values.</p></fn><fn id="t3fn2"><label>c</label><p>From <italic>V</italic><sub>T</sub>/<italic>f</italic><sub>P</sub> values.</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl4" position="float"><label>Table 4</label><caption><title>Extraction
+Efficiencies and Retention
+Volumes of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> and
+Their Radiometabolites in Reverse Phase HPLC Analysis and Time To
+Reach Radioligand as Half Plasma Activity and Plasma Free Fractions
+(<italic>f</italic><sub>P</sub>)<xref rid="tbl4-fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th colspan="5" align="center" char=".">Retention volume (mL)<hr/></th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th></tr><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th colspan="4" align="center" char=".">Radiometabolite<hr/></th><th colspan="2" align="center" char=".">Time to reach radioligand as half plasma activity
+(min)<hr/></th><th colspan="2" align="center" char="."><italic>f</italic><sub>P</sub><xref rid="t4fn2" ref-type="table-fn">c</xref><hr/></th></tr><tr><th style="border:none;" align="center">Radioligand</th><th style="border:none;" align="center" char=".">Extraction
+efficiency (%)<xref rid="t4fn1" ref-type="table-fn">b</xref></th><th style="border:none;" align="center" char=".">Radioligand</th><th style="border:none;" align="center" char=".">A</th><th style="border:none;" align="center" char=".">B</th><th style="border:none;" align="center" char=".">C</th><th style="border:none;" align="center" char=".">D</th><th style="border:none;" align="center" char=".">Baseline</th><th style="border:none;" align="center" char=".">Preblock</th><th style="border:none;" align="center" char=".">Baseline</th><th style="border:none;" align="center" char=".">Preblock</th></tr></thead><tbody><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>7</bold></td><td style="border:none;" align="char" char=".">95.4&#x000a0;&#x000b1;&#x000a0;4.0</td><td style="border:none;" align="char" char=".">9.5&#x000a0;&#x000b1;&#x000a0;1.6</td><td style="border:none;" align="char" char=".">3.6&#x000a0;&#x000b1;&#x000a0;1.2</td><td style="border:none;" align="char" char=".">4.8&#x000a0;&#x000b1;&#x000a0;1.2</td><td style="border:none;" align="char" char=".">5.9&#x000a0;&#x000b1;&#x000a0;1.2</td><td style="border:none;" align="char" char=".">7.2&#x000a0;&#x000b1;&#x000a0;1.6</td><td style="border:none;" align="char" char=".">35.1</td><td style="border:none;" align="char" char=".">9.57</td><td style="border:none;" align="char" char=".">0.080&#x000a0;&#x000b1;&#x000a0;0.003</td><td style="border:none;" align="char" char=".">0.116&#x000a0;&#x000b1;&#x000a0;0.003</td></tr><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>8</bold></td><td style="border:none;" align="char" char=".">94.7&#x000a0;&#x000b1;&#x000a0;5.3</td><td style="border:none;" align="char" char=".">11.0&#x000a0;&#x000b1;&#x000a0;1.2</td><td style="border:none;" align="char" char=".">4.0&#x000a0;&#x000b1;&#x000a0;1.3</td><td style="border:none;" align="char" char=".">5.4&#x000a0;&#x000b1;&#x000a0;1.1</td><td style="border:none;" align="char" char=".">7.0&#x000a0;&#x000b1;&#x000a0;1.2</td><td style="border:none;" align="char" char=".">8.2&#x000a0;&#x000b1;&#x000a0;1.2</td><td style="border:none;" align="char" char=".">69.3</td><td style="border:none;" align="char" char=".">13.9</td><td style="border:none;" align="char" char=".">0.048&#x000a0;&#x000b1;&#x000a0;0.003</td><td style="border:none;" align="char" char=".">0.055&#x000a0;&#x000b1;&#x000a0;0.005</td></tr><tr><td style="border:none;" align="left">[<sup>11</sup>C]<bold>9</bold></td><td style="border:none;" align="char" char=".">95.9&#x000a0;&#x000b1;&#x000a0;2.8</td><td style="border:none;" align="char" char=".">8.8&#x000a0;&#x000b1;&#x000a0;2.5</td><td style="border:none;" align="char" char=".">3.8&#x000a0;&#x000b1;&#x000a0;1.2</td><td style="border:none;" align="char" char=".">5.1&#x000a0;&#x000b1;&#x000a0;1.6</td><td colspan="2" align="char" char=".">6.5&#x000a0;&#x000b1;&#x000a0;1.9<xref rid="t4fn3" ref-type="table-fn">d</xref></td><td style="border:none;" align="char" char=".">26.0</td><td style="border:none;" align="char" char=".">9.4</td><td style="border:none;" align="char" char=".">0.069&#x000a0;&#x000b1;&#x000a0;0.004</td><td style="border:none;" align="char" char=".">0.186&#x000a0;&#x000b1;&#x000a0;0.001</td></tr></tbody></table><table-wrap-foot><fn id="tbl4-fn1"><label>a</label><p>All data are
+from the same monkey.</p></fn><fn id="t4fn1"><label>b</label><p>From
+plasma into acetonitrile; mean
+&#x000b1; SD for <italic>n</italic> = 34.</p></fn><fn id="t4fn2"><label>c</label><p>Mean &#x000b1; SD for <italic>n</italic> = 3.</p></fn><fn id="t4fn3"><label>d</label><p>C and D were not well resolved.</p></fn></table-wrap-foot></table-wrap><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Time-stability of volumes of distribution estimated
+from Logan
+analysis of PET data in the cerebellum of the same monkey after administration
+of [<sup>11</sup>C]<bold>7</bold> and [<sup>11</sup>C]<bold>8</bold> under baseline and TSPO preblock conditions. The <italic>x</italic>-axis is the duration of PET data acquired from the start of radioligand
+administration that was used to calculate <italic>V</italic><sub>T</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0006" id="gr6" position="float"/></fig></sec><sec id="sec2.4"><title>Emergence of Radiometabolites
+of [<sup>11</sup>C]<bold>7&#x02013;9</bold> in Monkey Plasma in Vivo</title><p>Generally, PET radioligands are
+appreciably metabolized over the short time-span of a subject scanning
+session. As seen above, quantitative analysis of radioligand kinetics
+to derive output measures such as <italic>V</italic><sub>T</sub> may
+require determination of the amount of unmetabolized radioligand in
+plasma over the full duration of a scanning session. PET radioligands
+that produce brain-penetrant radiometabolites are often difficult
+to quantify.<sup><xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> For these reasons, we assessed
+the emergence of radiometabolites in monkey plasma following intravenous
+administration of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold>.</p><p>The three radioligands were stable in whole blood and plasma
+in vitro. Recoveries of radioactivity from monkey plasma into acetonitrile
+for reverse phase HPLC analysis exceeded 94% (Table <xref rid="tbl4" ref-type="other">4</xref>). After administration of any of the three radioligands [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> into monkey, the percentage
+of radioactivity in plasma represented by unchanged radioligand decreased
+rapidly, and much more so in preblock experiments than in baseline
+experiments with the same radioligand (Figure <xref rid="fig7" ref-type="fig">7</xref>). Thus, for [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold>, plasma radioactivity became composed equally of radiometabolites
+and parent radioligand at 35.1, 69.3, and 26.0 min in baseline experiments
+and at 9.57, 13.9, and 9.40 min in TSPO-preblock experiments in the
+same monkey, respectively (Figure <xref rid="fig8" ref-type="fig">8</xref>, Table <xref rid="tbl4" ref-type="other">4</xref>). Moreover, the normalized concentrations of unchanged
+radioligand in plasma (SUV) were much higher in the preblock experiments
+than in the coupled baseline experiments (Figure <xref rid="fig7" ref-type="fig">7</xref>). Such differences have also been seen for other prominent
+TSPO radioligands.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> The lower concentration of unchanged
+radioligand in plasma in baseline experiments may be ascribed to a
+depletion through binding to abundant TSPO receptors in peripheral
+organs that does not occur under TSPO blocking conditions. The greater
+plasma availability of unchanged radioligand under preblock conditions
+likely explains the faster appearance of radiometabolites.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Time-courses
+of concentration of unmetabolized [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> in plasma after intravenous injection
+into the same monkey under baseline and preblocked conditions.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0007" id="gr7" position="float"/></fig><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Time-courses of plasma radioactivity composition
+in terms of parent
+radioligand after i.v. administration of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> to the same monkey under baseline and TSPO
+preblock conditions. The dotted lines intersect the curves when radiometabolites
+become half the radioactivity in plasma.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_0008" id="gr8" position="float"/></fig><p>For each radioligand, analyses of plasma from monkeys studied
+at
+baseline revealed four radiometabolites, all with shorter retention
+times than the parent radioligand (Table <xref rid="tbl4" ref-type="other">4</xref>).
+The identities of the radiometabolites are currently unknown, as are
+their abilities to penetrate the blood-brain barrier.</p></sec><sec id="sec2.5"><title>Radioligand Plasma Free Fraction</title><p>Among other factors,
+the radioligand plasma free fraction (<italic>f</italic><sub>P</sub>) has a strong influence on the ability of a radioligand to enter
+the brain. Generally, it is assumed that only free radioligand in
+plasma can enter the brain. The plasma free fractions of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> in blood sampled from the
+same monkey during baseline and preblock PET scans are shown in Table <xref rid="tbl4" ref-type="other">4</xref>. These are moderately low at baseline, ranging
+from 0.048 for [<sup>11</sup>C]<bold>8</bold> to 0.080 for [<sup>11</sup>C]<bold>7</bold>, in accord with their moderate ligand lipophilicities
+(measured logD values),<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> but substantially
+higher than that of the more lipophilic [<sup>11</sup>C](<italic>R</italic>)-<bold>1</bold> (<italic>f</italic><sub>P</sub>, 0.0207). Plasma
+free fractions were much higher under preblock conditions than under
+baseline conditions, especially for [<sup>11</sup>C]<bold>9</bold>.</p></sec><sec id="sec2.6"><title>Ligand Affinity to TSPO in Human Leukocytes and Human Cerebellum
+in Vitro</title><p>As assessed in human leukocytes in vitro, ligands <bold>7</bold>&#x02013;<bold>9</bold>, respectively, showed high affinities
+for human HAB TSPO (<italic>K</italic><sub>i</sub> = 1.26, 0.910,
+and 3.99 nM; <italic>cf. K</italic><sub>i</sub> = 4.06 nM for <bold>1</bold>) and low ratios (1.3, 2.4, and 2.5; <italic>cf.</italic> 0.97 for <bold>1</bold>) of LAB to HAB TSPO affinity (Table <xref rid="tbl1" ref-type="other">1</xref>). An almost identical pattern of binding affinities
+and of LAB to HAB binding affinity ratios emerged from assays on postmortem
+human cerebellum (Table <xref rid="tbl1" ref-type="other">1</xref>). Although the cerebellum
+assays were conducted at 37 &#x000b0;C and the leukocyte assays at room
+temperature, <italic>K</italic><sub>i</sub> values were very similar.
+Again, among <bold>7</bold>&#x02013;<bold>9</bold>, ligand <bold>7</bold> showed the lowest ratio (1.3) of LAB to HAB TSPO affinity. We estimate
+that if a similar binding affinity ratio applied in PET studies of
+human subjects of Caucasian ancestry in vivo, the likely error in
+estimating binding potential without genotype correction would be
+about 7% (see <xref rid="notes-1" ref-type="notes">Supporting Information</xref>).</p><p>For ligands <bold>7</bold>&#x02013;<bold>9</bold>, the ratios of HAB
+TSPO affinity in cerebellum to measured lipophilicity (logD), as captured
+in the LipE<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> scores (5.28, 5.46, and 5.26,
+respectively), are appreciably superior to that of <bold>1</bold> (4.37)
+(Table <xref rid="tbl1" ref-type="other">1</xref>). The high LipE scores for [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> are consistent with the high
+proportions of TSPO-specific binding found in the monkey brain imaging
+(Table <xref rid="tbl3" ref-type="other">3</xref>).</p><p>In summary, among a wide series
+of 4-phenylquinazoline-2-carboxamide
+azaisosters of <bold>1</bold>, recently reported as potent TSPO ligands,<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> three derivatives (<bold>7</bold>&#x02013;<bold>9</bold>) were selected
+for PET radioligand development in view of their high TSPO affinity
+and moderate lipophilicity. [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> were each easily prepared and readily entered monkey brain
+to give a high proportion of specific binding to brain TSPO. As a
+PET radioligand in monkey, unlike [<sup>11</sup>C]<bold>8</bold> and
+[<sup>11</sup>C]<bold>9</bold>, [<sup>11</sup>C]<bold>7</bold> has
+an array of favorable properties which are as good as or better than
+those of [<sup>11</sup>C](<italic>R</italic>)-<bold>1</bold>.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> These include lower lipophilicity, higher free
+fraction, higher LipE score, higher HAB TSPO affinity, similar very
+low genotype sensitivity in vitro, higher TSPO-specific signal, higher
+proportion of TSPO-specific binding, and better amenability to quantification
+without highly problematic radiometabolites.</p><p>In conclusion,
+[<sup>11</sup>C]<bold>7</bold> warrants further
+evaluation in human subjects and in particular to determine whether
+the very low sensitivity seen in vitro is reflected in vivo. We have
+previously found that [<sup>11</sup>C]<bold>1</bold> has significant
+in vivo sensitivity in peripheral organs between LABs and a combined
+group of HABs and MABs.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Thus, a discrepancy
+between in vitro and in vivo sensitivity may also exist for [<sup>11</sup>C]<bold>7</bold>. Imaging with [<sup>11</sup>C]<bold>7</bold> both in brain and in peripheral organs of humans will be the critical
+test of its sensitivity to rs6971 and of its potential utility as
+a biomarker of inflammatory disorders.</p></sec></sec><sec sec-type="methods" id="sec3"><title>Methods</title><sec id="sec3.1"><title>Materials
+and Methods</title><p>All reagents were obtained from
+commercial sources (Sigma-Aldrich; St Louis, MO). All solvents were
+analytical grade. Racemic [<sup>3</sup>H]<bold>1</bold> (specific
+activity, 3.14 GBq/&#x003bc;mol) was purchased from PerkinElmer Life
+Sciences (Waltham, MA). Human blood samples were obtained under approval
+from the Intramural Review Board of the National Institutes of Health.</p><p>&#x003b3;-Radioactivity from <sup>11</sup>C was measured using a
+calibrated dose calibrator (Atomlab 300; Biodex Medical Systems, Inc.;
+Shirley, NY). Radioactivity measurements were corrected for physical
+decay. All radiochemistry was performed in lead-shielded hot-cells
+for personnel protection from radiation.</p><p>Ligands <bold>7</bold>&#x02013;<bold>9</bold> and their <italic>N</italic>-desmethyl analogs <bold>10</bold>&#x02013;<bold>12</bold> were prepared as described previously.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup></p></sec><sec id="sec3.2"><title>Assay of Ligands for Affinity to Human Leukocyte
+TSPO Genotypes</title><p>Ligands <bold>7</bold>&#x02013;<bold>9</bold> were subjected to
+receptor binding assays at room temperature in human leukocyte homogenates<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> with [<sup>3</sup>H]<bold>1</bold> as radioligand
+to characterize ligand binding sensitivities to TSPO polymorphism.
+Blood samples were obtained under National Institutes of Health IRB
+approval and after obtaining consent from study participants. <italic>K</italic><sub>i</sub> values were measured in triplicate in five
+high-affinity (HABs) and five low-affinity (LABs) binding tissues
+whose affinity status had been predetermined. As a control in each
+assay, a self-displacement assay was used to calculate the <italic>K</italic><sub>D</sub> of <bold>1</bold>. A mean <italic>K</italic><sub>D</sub> value of 4.7 nM<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> was then
+used as the dissociation constant for <bold>1</bold> to calculate
+ligand <italic>K</italic><sub>i</sub>.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> Nonlinear regression curve-fitting software (GraphPad Prism 5; GraphPad
+Software; San Diego, CA) was used to fit data to a one-site model
+to provide ligand <italic>K</italic><sub>i</sub> values.</p></sec><sec id="sec3.3"><title>Assay of Ligands
+for Affinity to Human Cerebellum TSPO Genotypes</title><p>Ligands <bold>7</bold>&#x02013;<bold>9</bold> were also subjected
+to receptor binding assays in postmortem healthy human cerebellum
+homogenates with [<sup>3</sup>H]<bold>1</bold> as radioligand to characterize
+ligand binding sensitivities to the TSPO polymorphism. <italic>K</italic><sub>i</sub> values were measured in triplicate in four high-affinity
+(HABs) and four low-affinity (LABs) cerebellum tissues whose affinity
+status had been predetermined by genotype. Binding assays were performed
+in a similar manner to those in leukocytes, except assays were incubated
+for 1 h at 37 &#x000b0;C. As a control in each assay, a self-displacement
+assay was used to calculate the <italic>K</italic><sub>D</sub> of <bold>1</bold>. A mean <italic>K</italic><sub>D</sub> value of 4.35 nM
+was then used as the dissociation constant for <bold>1</bold> to calculate
+ligand <italic>K</italic><sub>i</sub>.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> Nonlinear regression curve-fitting software (GraphPad Prism 5; GraphPad
+Software; San Diego, CA) was used to fit data to a one-site model
+to provide ligand <italic>K</italic><sub>i</sub> values.</p></sec><sec id="sec3.4"><title>Production
+of NCA [<sup>11</sup>C]Carbon Dioxide</title><p>No-carrier-added
+(NCA) [<sup>11</sup>C]carbon dioxide (&#x0223c;85 GBq) was produced
+with a PETtrace cyclotron (GE Medical Systems; Milwaukee, WI) according
+to the <sup>14</sup>N(p,&#x003b1;)<sup>11</sup>C reaction<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> by irradiation of nitrogen gas (initial pressure
+160 psi; 75 mL volume) containing 1% oxygen with a proton beam (16.5
+MeV, 45 &#x003bc;A) for 40 min.</p></sec><sec id="sec3.5"><title>Radiochemistry</title><p>All radiochemistry was performed in
+an upgraded<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> PLC-controlled apparatus
+based on an original semirobotic Synthia instrument<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> (Synthia AB; Uppsala, Sweden), housed within a lead-shielded
+hot-cell for personnel protection.</p><sec id="sec3.5.1"><title>Production of NCA [<sup>11</sup>C]Methyl Iodide</title><p>NCA
+[<sup>11</sup>C]methyl iodide was produced from NCA [<sup>11</sup>C]carbon dioxide via reduction to [<sup>11</sup>C]methane and then
+vapor phase iodination.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> Thus, at the
+end of the proton irradiation, [<sup>11</sup>C]carbon dioxide was
+delivered to a PETtrace MeI Process Module (GE Medical Systems; Severna
+Park, MD) through stainless tubing (OD 1/8 in, ID 1/16 in) over 2
+min and trapped on molecular sieve (13X) and reduced to [<sup>11</sup>C]methane over nickel at 360 &#x000b0;C. The [<sup>11</sup>C]methane
+was recirculated over iodine at 720 &#x000b0;C to generate [<sup>11</sup>C]methyl iodide, which was trapped on Porapak Q held in the recirculation
+path.</p></sec><sec id="sec3.5.2"><title>Radiosynthesis of [<sup>11</sup>C]<bold>7</bold></title><p>[<sup>11</sup>C]Iodomethane in carrier helium (15 mL/min) was bubbled into
+a 1 mL V-vial containing the secondary amide precursor <bold>10</bold> (0.6 mg) and KOH (1.2 mg) in DMSO (0.4 mL). When the radioactivity
+in the vial had maximized, the reaction mixture was sealed and heated
+at 80 &#x000b0;C for 5 min and then diluted with water. The reaction
+mixture was then injected onto an XTerra RP18 column (10 &#x003bc;m;
+7.8 mm &#x000d7; 300 mm; Waters Corp.; Columbia, MD) eluted at 8 mL/min
+with MeCN: 1 mM aq. NH<sub>4</sub>OH (37:63 v/v). [<sup>11</sup>C]<bold>7</bold> (<italic>t</italic><sub>R</sub>, ca. 15.3 min) was collected
+in a 50-mL flask. This solution was concentrated to dryness by rotary
+evaporation under reduced pressure and heat (80 &#x000b0;C). The radioactive
+residue was formulated in sterile physiological saline (0.9% w/v;
+10 mL) containing ethanol (5% v/v), and filtered through a sterile
+filter (0.2 &#x003bc;m pore size, Millex-MP, 25 mm; Millipore, Billerica,
+MA) into a sterile, pyrogen-free dose vial.</p><p>Formulated [<sup>11</sup>C]<bold>7</bold> (<italic>t</italic><sub>R</sub>, ca. 7.3
+min) was analyzed for radiochemical and chemical purity on an Xterra
+RP18 column (5 &#x003bc;m, 4.6 mm &#x000d7; 250 mm; Waters Corp.) eluted
+with MeCN: 10 mM aq. NH<sub>4</sub>OH (56:44 v/v) at 1.5 mL/min with
+eluate monitored for radioactivity (pin diode detector; Bioscan Inc.;
+Washington, DC) and absorbance at 235 nm. A sample was injected onto
+HPLC alone, and in a subsequent analysis along with authentic <bold>7</bold> to check for coelution. Product identity was further confirmed
+by LC-MS/MS of associated carrier on a Finnigan LCQ DECA instrument
+(ThermoFisher Scientific; Rockville, MD).</p></sec><sec id="sec3.5.3"><title>Radiosynthesis of [<sup>11</sup>C]<bold>8</bold></title><p>[<sup>11</sup>C]<bold>8</bold> was
+prepared as described for [<sup>11</sup>C]<bold>7</bold>, except that
+the reaction mixture consisted of secondary
+amide precursor <bold>11</bold> (1.0 mg) and KOH (1.0 mg) in DMSO
+(0.4 mL), and the HPLC separation was conducted with a mobile phase
+of MeCN: 10 mM aq. NH<sub>4</sub>OH (41:59, v/v) ([<sup>11</sup>C]<bold>8</bold>; <italic>t</italic><sub>R</sub>, ca. 14.4 min).</p><p>[<sup>11</sup>C]<bold>8</bold> (<italic>t</italic><sub>R</sub>, ca. 6.8
+min) was analyzed as described for [<sup>11</sup>C]<bold>7</bold>,
+except that the HPLC mobile phase was MeCN: 1 mM aq. NH<sub>4</sub>OH (58:42 v/v).</p></sec><sec id="sec3.5.4"><title>Radiosynthesis of [<sup>11</sup>C]<bold>9</bold></title><p>[<sup>11</sup>C]<bold>9</bold> was prepared as described
+for [<sup>11</sup>C]<bold>7,</bold> except that the reaction mixture
+consisted of secondary
+amide precursor <bold>12</bold> (1.0 mg) and KOH (3.0 mg) in DMSO
+(0.4 mL), and that the HPLC separation was conducted with a mobile
+phase of MeCN: 10 mM aq. NH<sub>4</sub>OH (38:62, v/v) ([<sup>11</sup>C]<bold>9</bold>; <italic>t</italic><sub>R</sub>, ca. 10.4 min).</p><p>[<sup>11</sup>C]<bold>9</bold> was analyzed as described for [<sup>11</sup>C]<bold>7</bold>, except that the mobile phase was MeCN:10
+mM aq. NH<sub>4</sub>OH (55:45 v/v) and the absorbance detector was
+set to read at 254 nm ([<sup>11</sup>C]<bold>9</bold>; <italic>t</italic><sub>R</sub>, ca. 6.0 min).</p></sec></sec><sec id="sec3.6"><title>Computation of cLogD</title><p>cLogD (at pH 7.4) values for <bold>7</bold>&#x02013;<bold>9</bold> were computed with Pallas for Windows
+software version 3.8 in default mode (CompuDrug International; Bal
+Harbor, FL).</p></sec><sec id="sec3.7"><title>Measurement of LogD</title><p>LogD (at pH
+7.4) was measured on
+each radioligand by partition between <italic>n</italic>-octanol and
+sodium phosphate buffer (pH 7.4) at room temperature, as described
+in detail previously.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup></p></sec><sec id="sec3.8"><title>PET Experiments
+with [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> in Monkeys</title><p>PET scans were performed in six male
+rhesus (<italic>Macaca mulatta</italic>) monkeys (8.7&#x02013;11.1
+kg). All animals were handled in accordance with the <italic>Guide
+for the Care and Use of Laboratory Animals</italic>(<xref ref-type="bibr" rid="ref50">50</xref>) and the National Institute of Health Animal Care and Use
+Committee. For each scanning session, the subject monkey was immobilized
+with ketamine (10 mg/kg; i.m.) and maintained under anesthesia with
+1&#x02013;3% isoflurane and 98.4% oxygen. Head position was fixed with
+a stereotactic frame. An intravenous perfusion line, filled with saline
+(0.9% w/v), was used for bolus injection of radioligand of 99.9% radiochemical
+purity. Dynamic PET images of brain radioactivity were obtained for
+up to 120 min on a microPET Focus F220 scanner (Siemens Medical Solutions
+Inc.; Knoxville, TN), with frame durations ranging from 30 s to 5
+min. All PET images were corrected for attenuation and scatter.</p><p>Baseline scans were performed with each radioligand in two (for [<sup>11</sup>C]<bold>7</bold> and [<sup>11</sup>C]<bold>8</bold>) or three
+(for [<sup>11</sup>C]<bold>9</bold>) monkeys, one of which, weighing
+between 10.7 and 11.1 kg, was used in separate sessions for all three
+radioligands. Radioligands (165&#x02013;217 MBq) were administered
+with low carrier mass doses of 1.27&#x02013;5.4 nmol/kg. Each baseline
+scan was paired with a TSPO preblock scan at least 3 h later in the
+same monkey in which the TSPO ligand <bold>1</bold> (5 mg/kg, i.v.)
+was administered at 15 min before a second injection of the same radioligand
+(175&#x02013;253 MBq; carrier dose 3.3&#x02013;6.7 nmol/kg).</p><sec id="sec3.8.1"><title>Image Analysis</title><p>PET Images were reconstructed using
+Fourier rebinning plus two-dimensional filtered back-projection. An
+averaged PET image was created by averaging all frames of PET images.
+The averaged PET image was normalized to a standardized monkey MRI
+template using SPM8 (Wellcome Trust Centre; London, UK), and the transformation
+parameters were applied to the normalization of the individual PET
+frames. A predefined atlas of volumes of interest was then applied
+to the normalized dynamic scan to obtain decay-corrected time-activity
+curves for several brain regions, namely amygdala, anterior cingulate,
+basofrontal cortex, caudate, cerebellum, hippocampus, hypothalamus,
+insula, lateral temporal cortex, medial temporal cortex, midbrain,
+parietal cortex, occipital cortex, pons, posterior cingulate, prefrontal
+cortex, putamen, temporal cortex, and thalamus. The choroid plexus
+of the fourth ventricle was not defined in the atlas and was manually
+defined for each monkey. Regional radioactivity levels were normalized
+for injected dose and monkey weight and expressed as a standardized
+uptake value (SUV):<disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn-2014-00138n_m001" position="anchor"/></disp-formula></p></sec><sec id="sec3.8.2"><title>PET Data Analysis</title><p>Total distribution volumes (<italic>V</italic><sub>T</sub>)<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> were estimated
+for different regions by Logan graphical analysis<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> using the PET brain time-activity curves and the measured
+metabolite-corrected arterial input function. The temporal stabilities
+of <italic>V</italic><sub>T</sub> in cerebellum in the baseline and
+preblock experiments were assessed by estimating <italic>V</italic><sub>T</sub> from progressively time-truncated data sets. The PET
+data analysis was performed using PMOD (PMOD Technologies Ltd.; Zurich,
+Switzerland).</p></sec></sec><sec id="sec3.9"><title>Stability of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> in Buffer and in Monkey Whole Blood and Plasma
+in Vitro</title><p>The stability of each formulated radioligand to
+incubation in sodium
+phosphate buffer (0.15 M, pH 7.4) for 2 h at room temperature was
+assessed by reverse phase radio-HPLC analysis. Each formulated radioligand
+(110&#x02013;150 kBq; &#x0223c;5 &#x003bc;L) was also incubated for 45
+min at room temperature in either whole monkey blood or plasma (0.5
+mL). A sample (0.3 mL) was removed from whole blood and added to water
+(0.4 mL) to lyse blood cells. Then the plasma (0.35 mL) or lysed cells
+were added to acetonitrile (0.8 mL), and centrifuged. Then the supernatant
+liquid was analyzed by reverse phase radio-HPLC on a Novapak C18 column
+(4 &#x003bc;m; 8 &#x000d7; 100 mm; Waters Corp.) eluted at 2.5 mL/min with
+MeOH/H<sub>2</sub>O/Et<sub>2</sub>O (75:25:0.1 by vol.).</p></sec><sec id="sec3.10"><title>Plasma Protein
+Binding of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold>.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup></title><p>Each radioligand
+was added to pooled human plasma, placed at the top of an &#x0201c;Amicon&#x0201d;
+Centrifree filter unit (200 &#x003bc;L/unit) and filtered by ultracentrifugation
+at 5000 &#x000d7; <italic>g</italic>. Then all components of filter units
+were counted for radioactivity to allow calculation of radioligand
+plasma protein binding (<italic>f</italic><sub>P</sub>).</p></sec><sec id="sec3.11"><title>Emergence
+of Radiometabolites of [<sup>11</sup>C]<bold>7</bold>&#x02013;<bold>9</bold> in Monkey Plasma In Vivo</title><p>During a
+baseline and a following preblock PET scan with each radioligand,
+blood samples were drawn periodically from the monkey femoral artery
+and collected in heparin-treated Vacutainer tubes. The samples were
+centrifuged and the plasma separated. A sample of plasma (0.45 mL)
+was mixed with acetonitrile (0.72 mL) and centrifuged. The supernatant
+liquid was analyzed with radio-HPLC on a Novapak C18 column (4 &#x003bc;m;
+8 &#x000d7; 100 mm; Waters Corp.) eluted with MeOH/H<sub>2</sub>O/Et<sub>2</sub>O (75:25:0.1 by vol.). Time-courses for percentages of radioactivity
+in plasma represented by unchanged radioligand and its radiometabolites
+were then calculated.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>Binding curves from ligand
+assays on leukocytes and human cerebellar tissue, and estimation of
+binding potential error in human for [<sup>11</sup>C]<bold>7</bold>, without genotype correction. This material is available free of
+charge via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org/">http://pubs.acs.org/</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cn500138n_si_001.pdf"><caption><p>cn500138n_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes-5"><title>Author Contributions</title><p>S.T., C.M.,
+F.D.S., R.B.I., and V.W.P. conceived the project. P.Z.-F., S.S.Z.,
+M.F., K.J. J., R.B.I., and V.W.P. designed the experiments. P.Z.-F.,
+Y.Z ., K.J. J., R.L.G., S.S.Z., and M.F. performed the experiments.
+G.S., S.C., S.T., C.M., and F.D.S. contributed ligands and precursors.
+P.Z.-F., K.J.J., S.S.Z., M.F., R.B.I., and V.W.P. performed data analyses.
+P.Z.-F., Y.Z., S.S.Z, K.J.J., C.M., F.D.S., and V.W.P. wrote the manuscript.
+All authors edited and approved the final version of the manuscript.</p></notes><notes id="NOTES-d13843e2976-autogenerated" notes-type="funding-statement"><p>This study was supported
+by the Intramural Research Program of the National Institutes of Health
+(NIH), specifically the National Institute of Mental Health (NIMH),
+and MIUR (PRIN 2009, Futuro in Ricerca 2010, PRIN 2011).</p></notes><notes id="NOTES-d13843e2991-autogenerated" notes-type="conflict-of-interest"><p>The authors declare the
+following competing financial interest(s): Drs. Pike, Innis, Zhang,
+Zoghbi, Castellano, Da Settimo, Martini, and Taliani are named as
+applicants on a U.S. patent appication with regard to the subject
+of this publication.</p></notes><ack><title>Acknowledgments</title><p>We thank PMOD Technologies
+Ltd. (Zurich, Switzerland), for
+providing PMOD software to analyze PET data. We also thank Mr. David
+T. Clark for effective assistance with experiments in plasma.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>HAB</term><def><p>high-affinity
+binder</p></def></def-item><def-item><term>LAB</term><def><p>low-affinity
+binder</p></def></def-item><def-item><term>MAB</term><def><p>mixed-affinity
+binder</p></def></def-item><def-item><term>NCA</term><def><p>no-carrier-added</p></def></def-item><def-item><term>PET</term><def><p>positron emission
+tomography</p></def></def-item><def-item><term>TSPO</term><def><p>translocator protein (18 kDa)</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Papadopoulos</surname><given-names>V.</given-names></name>; <name><surname>Baraldi</surname><given-names>M.</given-names></name>; <name><surname>Guilarte</surname><given-names>T. R.</given-names></name>; <name><surname>Knudsen</surname><given-names>T. B.</given-names></name>; <name><surname>Lacapere</surname><given-names>J. J.</given-names></name>; <name><surname>Lindemann</surname><given-names>P.</given-names></name>; <name><surname>Norenberg</surname><given-names>M. D.</given-names></name>; <name><surname>Nutt</surname><given-names>D.</given-names></name>; <name><surname>Weizman</surname><given-names>A.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Gavish</surname><given-names>M.</given-names></name> (<year>2006</year>) <article-title>Translocator protein (18 kDa): new
+nomenclature for the peripheral-type benzodiazepine receptor based
+on its structure and molecular function</article-title>. <source>Trends
+Pharmacol. Sci.</source>
+<volume>27</volume>, <fpage>402</fpage>&#x02013;<lpage>409</lpage>.<pub-id pub-id-type="pmid">16822554</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Doble</surname><given-names>A.</given-names></name>; <name><surname>Malgouris</surname><given-names>C.</given-names></name>; <name><surname>Daniel</surname><given-names>M.</given-names></name>; <name><surname>Daniel</surname><given-names>N.</given-names></name>; <name><surname>Imbault</surname><given-names>F.</given-names></name>; <name><surname>Basbaum</surname><given-names>A.</given-names></name>; <name><surname>Uzan</surname><given-names>A.</given-names></name>; <name><surname>Gu&#x000e9;r&#x000e9;my</surname><given-names>C.</given-names></name>; <name><surname>Le Fur</surname><given-names>G.</given-names></name> (<year>1987</year>) <article-title>Labelling of peripheral-type benzodiazepine binding
+sites in human brain with [<sup>3</sup>H]PK 11195: anatomical and
+subcellular distribution</article-title>. <source>Brain Res. Bull.</source>
+<volume>18</volume>, <fpage>49</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">3030512</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Casellas</surname><given-names>P.</given-names></name>; <name><surname>Galiegue</surname><given-names>S.</given-names></name>; <name><surname>Basile</surname><given-names>A. S.</given-names></name> (<year>2002</year>) <article-title>Peripheral
+benzodiazepine receptors
+and mitochondrial function</article-title>. <source>Neurochem. Int.</source>
+<volume>40</volume>, <fpage>475</fpage>&#x02013;<lpage>486</lpage>.<pub-id pub-id-type="pmid">11850104</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Papadopoulos</surname><given-names>V.</given-names></name>; <name><surname>Lecanu</surname><given-names>L.</given-names></name>; <name><surname>Brown</surname><given-names>R. C.</given-names></name>; <name><surname>Han</surname><given-names>Z.</given-names></name>; <name><surname>Yao</surname><given-names>Z.-X.</given-names></name> (<year>2006</year>) <article-title>Peripheral-type
+benzodiazepine receptor in neurosteroid biosynthesis, neuropathology
+and neurological disorders</article-title>. <source>Neuroscience</source>
+<volume>138</volume>, <fpage>749</fpage>&#x02013;<lpage>756</lpage>.<pub-id pub-id-type="pmid">16338086</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Rone</surname><given-names>M. B.</given-names></name>; <name><surname>Ran</surname><given-names>J.</given-names></name>; <name><surname>Papadopoulos</surname><given-names>V.</given-names></name> (<year>2009</year>) <article-title>Cholesterol
+transport in steroid biosynthesis: role
+of protein-protein interactions and implications in disease states</article-title>. <source>Biochim. Biophys. Acta</source>
+<volume>1791</volume>, <fpage>646</fpage>&#x02013;<lpage>658</lpage>.<pub-id pub-id-type="pmid">19286473</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Veenman</surname><given-names>L.</given-names></name>; <name><surname>Gavish</surname><given-names>M.</given-names></name> (<year>2000</year>) <article-title>Peripheral benzodiazepine receptors: their implication
+in brain disease</article-title>. <source>Drug Dev. Res.</source>
+<volume>50</volume>, <fpage>355</fpage>&#x02013;<lpage>370</lpage>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Cagnin</surname><given-names>A.</given-names></name>; <name><surname>Brooks</surname><given-names>D. J.</given-names></name>; <name><surname>Kennedy</surname><given-names>A. M.</given-names></name>; <name><surname>Gunn</surname><given-names>R. N.</given-names></name>; <name><surname>Myers</surname><given-names>R.</given-names></name>; <name><surname>Turkheimer</surname><given-names>F. E.</given-names></name>; <name><surname>Jones</surname><given-names>T.</given-names></name>; <name><surname>Banati</surname><given-names>R. B.</given-names></name> (<year>2001</year>) <article-title>In-vivo measurement
+of activated microglia in dementia</article-title>. <source>Lancet</source>
+<volume>358</volume>, <fpage>461</fpage>&#x02013;<lpage>467</lpage>.<pub-id pub-id-type="pmid">11513911</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Ouchi</surname><given-names>Y.</given-names></name>; <name><surname>Yoshikawa</surname><given-names>E.</given-names></name>; <name><surname>Sekine</surname><given-names>Y.</given-names></name>; <name><surname>Futatsubashi</surname><given-names>M.</given-names></name>; <name><surname>Kanno</surname><given-names>T.</given-names></name>; <name><surname>Ogusu</surname><given-names>T.</given-names></name>; <name><surname>Torizuka</surname><given-names>T.</given-names></name> (<year>2005</year>) <article-title>Microglial activation
+and dopamine terminal loss in early Parkinson&#x02019;s disease</article-title>. <source>Ann. Neurol.</source>
+<volume>57</volume>, <fpage>168</fpage>&#x02013;<lpage>175</lpage>.<pub-id pub-id-type="pmid">15668962</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Debruyne</surname><given-names>J. C.</given-names></name>; <name><surname>Versijpt</surname><given-names>J.</given-names></name>; <name><surname>Van Laere</surname><given-names>K. J.</given-names></name>; <name><surname>De Vos</surname><given-names>F.</given-names></name>; <name><surname>Keppens</surname><given-names>J.</given-names></name>; <name><surname>Strijckmans</surname><given-names>K.</given-names></name>; <name><surname>Achten</surname><given-names>E.</given-names></name>; <name><surname>Slegers</surname><given-names>G.</given-names></name>; <name><surname>Dierckx</surname><given-names>R. A.</given-names></name>; <name><surname>Korf</surname><given-names>J.</given-names></name>; <name><surname>De Reuck</surname><given-names>J. L.</given-names></name> (<year>2003</year>) <article-title>PET visualization of microglia in
+multiple sclerosis patients using [<sup>11</sup>C]PK11195</article-title>. <source>Eur. J. Neurol.</source>
+<volume>10</volume>, <fpage>257</fpage>&#x02013;<lpage>264</lpage>.<pub-id pub-id-type="pmid">12752399</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Chelli</surname><given-names>B.</given-names></name>; <name><surname>Pini</surname><given-names>S.</given-names></name>; <name><surname>Abelli</surname><given-names>M.</given-names></name>; <name><surname>Cardini</surname><given-names>A.</given-names></name>; <name><surname>Lari</surname><given-names>L.</given-names></name>; <name><surname>Muti</surname><given-names>M.</given-names></name>; <name><surname>Gesi</surname><given-names>C.</given-names></name>; <name><surname>Cassano</surname><given-names>G. B.</given-names></name>; <name><surname>Lucacchini</surname><given-names>A.</given-names></name>; <name><surname>Martini</surname><given-names>C.</given-names></name> (<year>2008</year>) <article-title>Platelet 18 kDa translocator protein density is reduced
+in depressed patients with adult separation anxiety</article-title>. <source>Eur. Neuropsychopharmacol.</source>
+<volume>18</volume>, <fpage>249</fpage>&#x02013;<lpage>254</lpage>.<pub-id pub-id-type="pmid">18054208</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Dell&#x02019;Osso</surname><given-names>L.</given-names></name>; <name><surname>Da Pozzo</surname><given-names>E.</given-names></name>; <name><surname>Carmassi</surname><given-names>C.</given-names></name>; <name><surname>Trincavelli</surname><given-names>M. L.</given-names></name>; <name><surname>Ciapparelli</surname><given-names>A.</given-names></name>; <name><surname>Martini</surname><given-names>C.</given-names></name> (<year>2010</year>) <article-title>Lifetime manic-hypomanic symptoms
+in post-traumatic stress disorder: relationship with the 18 kDa mitochondrial
+translocator protein density</article-title>. <source>Psychiatry Res.</source>
+<volume>177</volume>, <fpage>139</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">20363031</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Kreisl</surname><given-names>W. C.</given-names></name>; <name><surname>Lyoo</surname><given-names>C. H.</given-names></name>; <name><surname>McGwier</surname><given-names>M.</given-names></name>; <name><surname>Snow</surname><given-names>J.</given-names></name>; <name><surname>Jenko</surname><given-names>K. J.</given-names></name>; <name><surname>Kimura</surname><given-names>N.</given-names></name>; <name><surname>Corona</surname><given-names>W.</given-names></name>; <name><surname>Morse</surname><given-names>C. L.</given-names></name>; <name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name>; <name><surname>McMahon</surname><given-names>F. J.</given-names></name>; <name><surname>Turner</surname><given-names>R. S.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name>; (<year>2013</year>) <article-title><italic>In vivo</italic> radioligand
+binding to translocator protein correlates with severity of Alzheimer&#x02019;s
+disease</article-title>. <source>Brain</source>
+<volume>136</volume>, <fpage>2228</fpage>&#x02013;<lpage>2238</lpage>.<pub-id pub-id-type="pmid">23775979</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Benavides</surname><given-names>J.</given-names></name>; <name><surname>Fage</surname><given-names>D.</given-names></name>; <name><surname>Carter</surname><given-names>C.</given-names></name>; <name><surname>Scatton</surname><given-names>B.</given-names></name> (<year>1987</year>) <article-title>Peripheral type benzodiazepine
+binding sites are a sensitive indirect index of neuronal damage</article-title>. <source>Brain Res.</source>
+<volume>421</volume>, <fpage>167</fpage>&#x02013;<lpage>172</lpage>.<pub-id pub-id-type="pmid">2891401</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Chen</surname><given-names>M.-K.</given-names></name>; <name><surname>Guilarte</surname><given-names>T. R.</given-names></name> (<year>2008</year>) <article-title>Translocator protein 18 kDa (TSPO): molecular sensor
+of brain injury and repair</article-title>. <source>Pharmacol. Ther.</source>
+<volume>118</volume>, <fpage>1</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">18374421</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Chaveau</surname><given-names>F.</given-names></name>; <name><surname>Boutin</surname><given-names>H.</given-names></name>; <name><surname>Van Camp</surname><given-names>N.</given-names></name>; <name><surname>Doll&#x000e8;</surname><given-names>F.</given-names></name>; <name><surname>Tavitian</surname><given-names>B.</given-names></name> (<year>2008</year>) <article-title>Nuclear imaging of neuroinflammation:
+a comprehensive
+review of [<sup>11</sup>C]PK11195 challengers</article-title>. <source>Eur. J. Nucl. Med. Mol. Imaging</source>
+<volume>35</volume>, <fpage>2304</fpage>&#x02013;<lpage>2319</lpage>.<pub-id pub-id-type="pmid">18828015</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Doll&#x000e8;</surname><given-names>F.</given-names></name>; <name><surname>Luus</surname><given-names>C.</given-names></name>; <name><surname>Reynolds</surname><given-names>A.</given-names></name>; <name><surname>Kassiou</surname><given-names>M.</given-names></name> (<year>2009</year>) <article-title>Radiolabelled molecules
+for imaging the translocator protein (18 kDa) using positron emission
+tomography</article-title>. <source>Curr. Med. Chem.</source>
+<volume>16</volume>, <fpage>2899</fpage>&#x02013;<lpage>2923</lpage>.<pub-id pub-id-type="pmid">19689272</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Schweitzer</surname><given-names>P. J.</given-names></name>; <name><surname>Fallon</surname><given-names>B. A.</given-names></name>; <name><surname>Mann</surname><given-names>J. J.</given-names></name>; <name><surname>Kumar</surname><given-names>J. S. D.</given-names></name> (<year>2010</year>) <article-title>PET
+tracers for
+the peripheral benzodiazepine receptor and uses thereof</article-title>. <source>Drug Discovery Today</source>
+<volume>15</volume>, <fpage>933</fpage>&#x02013;<lpage>942</lpage>.<pub-id pub-id-type="pmid">20800696</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Venneti</surname><given-names>S.</given-names></name>; <name><surname>Lopresti</surname><given-names>B. J.</given-names></name>; <name><surname>Wiley</surname><given-names>C. A.</given-names></name> (<year>2006</year>) <article-title>The peripheral benzodiazepine receptor
+(translocator protein 18 kDa) in microglia: from pathology to imaging</article-title>. <source>Prog. Neurobiol.</source>
+<volume>80</volume>, <fpage>308</fpage>&#x02013;<lpage>322</lpage>.<pub-id pub-id-type="pmid">17156911</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Camsonne</surname><given-names>R.</given-names></name>; <name><surname>Moulin</surname><given-names>M. A.</given-names></name>; <name><surname>Crouzel</surname><given-names>C.</given-names></name>; <name><surname>Syrota</surname><given-names>A.</given-names></name>; <name><surname>Maziere</surname><given-names>M.</given-names></name>; <name><surname>Comar</surname><given-names>D.</given-names></name> (<year>1986</year>) <article-title><sup>11</sup>C-Labeling of PK 11195 and visualization of peripheral
+receptors of benzodiazepines by positron emission tomography</article-title>. <source>J. Pharmacologie</source>
+<volume>17</volume>, <fpage>383</fpage>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Petit-Tabou&#x000e9;</surname><given-names>M. C.</given-names></name>; <name><surname>Baron</surname><given-names>J. C.</given-names></name>; <name><surname>Barr&#x000e9;</surname><given-names>L.</given-names></name>; <name><surname>Travere</surname><given-names>J. M.</given-names></name>; <name><surname>Speckel</surname><given-names>D.</given-names></name>; <name><surname>Camsonne</surname><given-names>R.</given-names></name>; <name><surname>MacKenzie</surname><given-names>E. T.</given-names></name> (<year>1991</year>) <article-title>Brain kinetics and specific binding
+of [<sup>11</sup>C]PK11195 to &#x003c9;<sub>3</sub> sites in baboon</article-title>. <source>Eur. J. Pharmacol.</source>
+<volume>200</volume>, <fpage>347</fpage>&#x02013;<lpage>351</lpage>.<pub-id pub-id-type="pmid">1782994</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Shah</surname><given-names>F.</given-names></name>; <name><surname>Hume</surname><given-names>S. P.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name>; <name><surname>Ashworth</surname><given-names>S.</given-names></name>; <name><surname>McDermott</surname><given-names>J.</given-names></name> (<year>1994</year>) <article-title>Synthesis
+of the enantiomers of [<italic>N-methyl</italic>-<sup>11</sup>C]PK
+11195 and comparison of their behaviours as radioligands for PK binding
+sites in rats</article-title>. <source>Nucl. Med. Biol.</source>
+<volume>21</volume>, <fpage>573</fpage>&#x02013;<lpage>581</lpage>.<pub-id pub-id-type="pmid">9234314</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Banati</surname><given-names>R. B.</given-names></name>; <name><surname>Goerres</surname><given-names>G. W.</given-names></name>; <name><surname>Myers</surname><given-names>R.</given-names></name>; <name><surname>Gunn</surname><given-names>R. N.</given-names></name>; <name><surname>Turkheimer</surname><given-names>F. E.</given-names></name>; <name><surname>Kreutzberg</surname><given-names>G. W.</given-names></name>; <name><surname>Brooks</surname><given-names>D. J.</given-names></name>; <name><surname>Jones</surname><given-names>T.</given-names></name>; <name><surname>Duncan</surname><given-names>J. S.</given-names></name> (<year>1999</year>) <article-title>[<sup>11</sup>C](<italic>R</italic>)-PK11195 positron emission tomography imaging
+of activated microglia in vivo in Rasmussen&#x02019;s encephalitis</article-title>. <source>Neurology</source>
+<volume>53</volume>, <fpage>2199</fpage>&#x02013;<lpage>2203</lpage>.<pub-id pub-id-type="pmid">10599809</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Kreisl</surname><given-names>W. C.</given-names></name>; <name><surname>Fujita</surname><given-names>M.</given-names></name>; <name><surname>Fujimura</surname><given-names>Y.</given-names></name>; <name><surname>Kimura</surname><given-names>N.</given-names></name>; <name><surname>Jenko</surname><given-names>K. J.</given-names></name>; <name><surname>Kannan</surname><given-names>P.</given-names></name>; <name><surname>Hong</surname><given-names>J.</given-names></name>; <name><surname>Morse</surname><given-names>C. L.</given-names></name>; <name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Gladding</surname><given-names>R. L.</given-names></name>; <name><surname>Jacobson</surname><given-names>S.</given-names></name>; <name><surname>Oh</surname><given-names>U.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name> (<year>2010</year>) <article-title>Comparison of [<sup>11</sup>C](<italic>R</italic>)-PK
+11195 and [<sup>11</sup>C]PBR28, two radioligands for translocator
+protein (18 kDa) in human and monkey: implications for positron emission
+tomographic imaging of this inflammation biomarker</article-title>. <source>NeuroImage</source>
+<volume>49</volume>, <fpage>2924</fpage>&#x02013;<lpage>2932</lpage>.<pub-id pub-id-type="pmid">19948230</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Briard</surname><given-names>E.</given-names></name>; <name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Imaizumi</surname><given-names>M.</given-names></name>; <name><surname>Gourley</surname><given-names>J. P.</given-names></name>; <name><surname>Shetty</surname><given-names>H. U.</given-names></name>; <name><surname>Hong</surname><given-names>J.</given-names></name>; <name><surname>Cropley</surname><given-names>V.</given-names></name>; <name><surname>Fujita</surname><given-names>M.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name> (<year>2008</year>) <article-title>Synthesis and evaluation in monkey of two sensitive <sup>11</sup>C-labeled aryloxyanilide ligands for imaging brain peripheral
+benzodiazepine receptors in vivo</article-title>. <source>J. Med. Chem.</source>
+<volume>51</volume>, <fpage>17</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">18067245</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Imaizumi</surname><given-names>M.</given-names></name>; <name><surname>Briard</surname><given-names>E.</given-names></name>; <name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Gourley</surname><given-names>J. P.</given-names></name>; <name><surname>Hong</surname><given-names>J.</given-names></name>; <name><surname>Fujimura</surname><given-names>Y.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name>; <name><surname>Fujita</surname><given-names>M.</given-names></name> (<year>2008</year>) <article-title>Brain and
+whole-body imaging in nonhuman primates of [<sup>11</sup>C]PBR28,
+a promising PET radioligand for peripheral benzodiazepine receptors</article-title>. <source>NeuroImage</source>
+<volume>39</volume>, <fpage>1289</fpage>&#x02013;<lpage>1298</lpage>.<pub-id pub-id-type="pmid">18024084</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Fujita</surname><given-names>M.</given-names></name>; <name><surname>Imaizumi</surname><given-names>M.</given-names></name>; <name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Fujimura</surname><given-names>Y.</given-names></name>; <name><surname>Farris</surname><given-names>A. G.</given-names></name>; <name><surname>Suhara</surname><given-names>T.</given-names></name>; <name><surname>Hong</surname><given-names>J.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name> (<year>2008</year>) <article-title>Kinetic
+analysis in healthy humans of a novel positron emission tomography
+radioligand to image the peripheral benzodiazepine receptor, a potential
+biomarker for inflammation</article-title>. <source>NeuroImage</source>
+<volume>40</volume>, <fpage>43</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">18093844</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Briard</surname><given-names>E.</given-names></name>; <name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Sim&#x000e9;on</surname><given-names>F.</given-names></name>; <name><surname>Imaizumi</surname><given-names>M.</given-names></name>; <name><surname>Gourley</surname><given-names>J. P.</given-names></name>; <name><surname>Shetty</surname><given-names>H. U.</given-names></name>; <name><surname>Lu</surname><given-names>S.-Y.</given-names></name>; <name><surname>Fujita</surname><given-names>M.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name> (<year>2009</year>) <article-title>Single-step high-yield
+radiosynthesis and evaluation
+of a selective <sup>18</sup>F-labeled ligand for imaging brain peripheral
+benzodiazepine receptors with PET</article-title>. <source>J. Med. Chem.</source>
+<volume>52</volume>, <fpage>688</fpage>&#x02013;<lpage>699</lpage>.<pub-id pub-id-type="pmid">19119848</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Endres</surname><given-names>C. J.</given-names></name>; <name><surname>Pomper</surname><given-names>M. G.</given-names></name>; <name><surname>James</surname><given-names>M.</given-names></name>; <name><surname>Uzuner</surname><given-names>O.</given-names></name>; <name><surname>Hammoud</surname><given-names>D. A.</given-names></name>; <name><surname>Watkins</surname><given-names>C. C.</given-names></name>; <name><surname>Reynolds</surname><given-names>A.</given-names></name>; <name><surname>Hilton</surname><given-names>J.</given-names></name>; <name><surname>Dannals</surname><given-names>R. F.</given-names></name>; <name><surname>Kassiou</surname><given-names>M.</given-names></name> (<year>2009</year>) <article-title>Initial evaluation
+of [<sup>11</sup>C]DPA-713, a novel
+TSPO PET ligand, in humans</article-title>. <source>J. Nucl. Med.</source>
+<volume>50</volume>, <fpage>1276</fpage>&#x02013;<lpage>1282</lpage>.<pub-id pub-id-type="pmid">19617321</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Guo</surname><given-names>Q.</given-names></name>; <name><surname>Colasanti</surname><given-names>A.</given-names></name>; <name><surname>Owen</surname><given-names>D. R.</given-names></name>; <name><surname>Onega</surname><given-names>M.</given-names></name>; <name><surname>Kamalakaran</surname><given-names>A.</given-names></name>; <name><surname>Bennacef</surname><given-names>I.</given-names></name>; <name><surname>Matthews</surname><given-names>P. M.</given-names></name>; <name><surname>Rabiner</surname><given-names>E. A.</given-names></name>; <name><surname>Turkheimer</surname><given-names>F. E.</given-names></name>; <name><surname>Gunn</surname><given-names>R. N.</given-names></name> (<year>2013</year>) <article-title>Quantification of the specific translocator protein
+signal of <sup>18</sup>F-PBR111 in healthy humans: a genetic polymorphism
+effect on in vivo binding</article-title>. <source>J. Nucl. Med.</source>
+<volume>54</volume>, <fpage>1915</fpage>&#x02013;<lpage>1923</lpage>.<pub-id pub-id-type="pmid">24071511</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Mizrahi</surname><given-names>R.</given-names></name>; <name><surname>Rusjan</surname><given-names>P. M.</given-names></name>; <name><surname>Kennedy</surname><given-names>J.</given-names></name>; <name><surname>Pollock</surname><given-names>B.</given-names></name>; <name><surname>Mulsant</surname><given-names>B.</given-names></name>; <name><surname>Suridjan</surname><given-names>I.</given-names></name>; <name><surname>De Luca</surname><given-names>V.</given-names></name>; <name><surname>Wilson</surname><given-names>A. A.</given-names></name>; <name><surname>Houle</surname><given-names>S.</given-names></name> (<year>2012</year>) <article-title>Translocator
+protein (18 kDa) polymorphism (rs6971) explains <italic>in-vivo</italic> brain binding affinity of the PET radioligand [<sup>18</sup>F]-FEPPA</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>32</volume>, <fpage>968</fpage>&#x02013;<lpage>972</lpage>.<pub-id pub-id-type="pmid">22472607</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Owen</surname><given-names>D. R.</given-names></name>; <name><surname>Howell</surname><given-names>O. W.</given-names></name>; <name><surname>Tang</surname><given-names>S.-P.</given-names></name>; <name><surname>Wells</surname><given-names>L. A.</given-names></name>; <name><surname>Bennacef</surname><given-names>I.</given-names></name>; <name><surname>Bergstrom</surname><given-names>M.</given-names></name>; <name><surname>Gunn</surname><given-names>R. N.</given-names></name>; <name><surname>Rabiner</surname><given-names>E. A.</given-names></name>; <name><surname>Wilkins</surname><given-names>M. R.</given-names></name>; <name><surname>Reynolds</surname><given-names>R.</given-names></name>; <name><surname>Matthews</surname><given-names>P. M.</given-names></name>; <name><surname>Parker</surname><given-names>C. A.</given-names></name> (<year>2010</year>) <article-title>Two binding sites
+for [<sup>3</sup>H]PBR28 in human brain: implications for TSPO PET
+imaging of neuroinflammation</article-title>. <source>J. Cerebr. Blood
+Flow Metab.</source>
+<volume>30</volume>, <fpage>1608</fpage>&#x02013;<lpage>1618</lpage>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Kreisl</surname><given-names>W.
+C.</given-names></name>; <name><surname>Jenko</surname><given-names>K. J.</given-names></name>; <name><surname>Hines</surname><given-names>C. S.</given-names></name>; <name><surname>Lyoo</surname><given-names>C. H.</given-names></name>; <name><surname>Corona</surname><given-names>W.</given-names></name>; <name><surname>Morse</surname><given-names>C. L.</given-names></name>; <name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Hyde</surname><given-names>T.</given-names></name>; <name><surname>Kleinman</surname><given-names>J. E.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name>; <name><surname>McMahon</surname><given-names>F. J.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name> (<year>2013</year>) <article-title>A genetic polymorphism
+for translocator protein 18 kDa affects both in vitro and in vivo
+radioligand binding in human brain to this putative biomarker of neuroinflammation</article-title>. <source>J. Cerebr. Blood Flow Metab.</source>
+<volume>33</volume>, <fpage>53</fpage>&#x02013;<lpage>58</lpage>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Owen</surname><given-names>D. R. J.</given-names></name>; <name><surname>Gunn</surname><given-names>R. N.</given-names></name>; <name><surname>Rabiner</surname><given-names>E. A.</given-names></name>; <name><surname>Bennacef</surname><given-names>I.</given-names></name>; <name><surname>Fujita</surname><given-names>M.</given-names></name>; <name><surname>Kreisl</surname><given-names>W. C.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name>; <name><surname>Reynolds</surname><given-names>R.</given-names></name>; <name><surname>Matthews</surname><given-names>P. M.</given-names></name>; <name><surname>Parker</surname><given-names>C. A.</given-names></name> (<year>2011</year>) <article-title>Mixed-affinity binding in humans
+with 18-kDa translocator protein ligands</article-title>. <source>J.
+Nucl. Med.</source>
+<volume>52</volume>, <fpage>24</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">21149489</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Owen</surname><given-names>D. R.</given-names></name>; <name><surname>Yeo</surname><given-names>A. J.</given-names></name>; <name><surname>Gunn</surname><given-names>R. N.</given-names></name>; <name><surname>Song</surname><given-names>K.</given-names></name>; <name><surname>Wadsworth</surname><given-names>G.</given-names></name>; <name><surname>Lewis</surname><given-names>A.</given-names></name>; <name><surname>Rhodes</surname><given-names>C.</given-names></name>; <name><surname>Pulford</surname><given-names>D. J.</given-names></name>; <name><surname>Bennacef</surname><given-names>I.</given-names></name>; <name><surname>Parker</surname><given-names>C. A.</given-names></name>; <name><surname>StJean</surname><given-names>P. L.</given-names></name>; <name><surname>Cardon</surname><given-names>L. R.</given-names></name>; <name><surname>Mooser</surname><given-names>V. E.</given-names></name>; <name><surname>Matthews</surname><given-names>P. M.</given-names></name>; <name><surname>Rabiner</surname><given-names>E. A.</given-names></name>; <name><surname>Rubio</surname><given-names>J. P.</given-names></name> (<year>2012</year>) <article-title>An 18-kDa translocator
+protein (TSPO) polymorphism explains differences in binding affinity
+of the PET radioligand PBR28</article-title>. <source>J. Cereb. Blood
+Flow Metab.</source>
+<volume>32</volume>, <fpage>1</fpage>&#x02013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">22008728</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Castellano</surname><given-names>S.</given-names></name>; <name><surname>Taliani</surname><given-names>S.</given-names></name>; <name><surname>Milite</surname><given-names>C.</given-names></name>; <name><surname>Pugliesi</surname><given-names>I.</given-names></name>; <name><surname>Da Pozzo</surname><given-names>E.</given-names></name>; <name><surname>Rizzetto</surname><given-names>E.</given-names></name>; <name><surname>Bendinelli</surname><given-names>S.</given-names></name>; <name><surname>Costa</surname><given-names>B.</given-names></name>; <name><surname>Cosconati</surname><given-names>S.</given-names></name>; <name><surname>Greco</surname><given-names>G.</given-names></name>; <name><surname>Novellino</surname><given-names>E.</given-names></name>; <name><surname>Sbardella</surname><given-names>G.</given-names></name>; <name><surname>Stefancich</surname><given-names>G.</given-names></name>; <name><surname>Martini</surname><given-names>C.</given-names></name>; <name><surname>Da Settimo</surname><given-names>F.</given-names></name> (<year>2012</year>) <article-title>Synthesis
+and biological evaluation of 4-phenylquinazoline-2-carboxamides designed
+as a novel class of potent ligands of the translocator protein</article-title>. <source>J. Med. Chem.</source>
+<volume>55</volume>, <fpage>4506</fpage>&#x02013;<lpage>4510</lpage>.<pub-id pub-id-type="pmid">22489952</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Castellano</surname><given-names>S.</given-names></name>; <name><surname>Taliani</surname><given-names>S.</given-names></name>; <name><surname>Viviano</surname><given-names>M.</given-names></name>; <name><surname>Milite</surname><given-names>C.</given-names></name>; <name><surname>Da Pozzo</surname><given-names>E.</given-names></name>; <name><surname>Costa</surname><given-names>B.</given-names></name>; <name><surname>Barresi</surname><given-names>E.</given-names></name>; <name><surname>Bruno</surname><given-names>A.</given-names></name>; <name><surname>Cosconati</surname><given-names>S.</given-names></name>; <name><surname>Marinelli</surname><given-names>L.</given-names></name>; <name><surname>Greco</surname><given-names>G.</given-names></name>; <name><surname>Novellino</surname><given-names>E.</given-names></name>; <name><surname>Sbardella</surname><given-names>G.</given-names></name>; <name><surname>Da Settimo</surname><given-names>F.</given-names></name>; <name><surname>Martini</surname><given-names>C.</given-names></name> (<year>2014</year>) <article-title>Structure-activity
+relationship refinement and further assessment of 4-phenylquinazoline-2-carboxamide
+translocator protein ligands as antiproliferative agents in human
+glioblastoma tumors</article-title>. <source>J. Med. Chem.</source>
+<volume>57</volume>, <fpage>2413</fpage>&#x02013;<lpage>2428</lpage>.<pub-id pub-id-type="pmid">24580635</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Pike</surname><given-names>V. W.</given-names></name> (<year>1993</year>) <article-title>Positron-emitting
+radioligands for studies in vivo&#x02014;probes for human psychopharmacology</article-title>. <source>J. Psychopharmacol.</source>
+<volume>7</volume>, <fpage>139</fpage>&#x02013;<lpage>158</lpage>.<pub-id pub-id-type="pmid">22290661</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Laruelle</surname><given-names>M.</given-names></name>; <name><surname>Slifstein</surname><given-names>M.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name> (<year>2003</year>) <article-title>Relationships between radiotracer
+properties and image quality in molecular imaging of the brain with
+positron emission tomography</article-title>. <source>Mol. Imaging Biol.</source>
+<volume>5</volume>, <fpage>363</fpage>&#x02013;<lpage>375</lpage>.<pub-id pub-id-type="pmid">14667491</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Waterhouse</surname><given-names>R. N.</given-names></name> (<year>2003</year>) <article-title>Determination
+of lipophilicity and its use as a predictor of blood-brain barrier
+penetration of molecular imaging agents</article-title>. <source>Mol.
+Imaging Biol.</source>
+<volume>5</volume>, <fpage>376</fpage>&#x02013;<lpage>389</lpage>.<pub-id pub-id-type="pmid">14667492</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Pike</surname><given-names>V. W.</given-names></name> (<year>2009</year>) <article-title>PET Radiotracers:
+crossing the blood-brain barrier and surviving metabolism</article-title>. <source>Trends Pharmacol. Sci.</source>
+<volume>30</volume>, <fpage>431</fpage>&#x02013;<lpage>440</lpage>.<pub-id pub-id-type="pmid">19616318</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Logan</surname><given-names>J.</given-names></name>; <name><surname>Fowler</surname><given-names>J. S.</given-names></name>; <name><surname>Volkow</surname><given-names>N. D.</given-names></name>; <name><surname>Wolf</surname><given-names>A. P.</given-names></name>; <name><surname>Dewey</surname><given-names>S. L.</given-names></name>; <name><surname>Schlyer</surname><given-names>D. J.</given-names></name>; <name><surname>MacGregor</surname><given-names>R. R.</given-names></name>; <name><surname>Hitzemann</surname><given-names>R.</given-names></name>; <name><surname>Bendriem</surname><given-names>B.</given-names></name>; <name><surname>Gatley</surname><given-names>S. J.</given-names></name>; <name><surname>Christman</surname><given-names>D. R.</given-names></name> (<year>1990</year>) <article-title>Graphical
+analysis of reversible radioligand binding from time-activity measurements
+applied to [<italic>N</italic>-<sup>11</sup>C-methyl]-(&#x02212;)-cocaine
+PET studies in human subjects</article-title>. <source>J. Cerebr. Blood
+Flow Metab.</source>
+<volume>10</volume>, <fpage>740</fpage>&#x02013;<lpage>747</lpage>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Innis</surname><given-names>R. B.</given-names></name>; <name><surname>Cunningham</surname><given-names>V. J.</given-names></name>; <name><surname>Delforge</surname><given-names>J.</given-names></name>; <name><surname>Fujita</surname><given-names>M.</given-names></name>; <name><surname>Gjedde</surname><given-names>A.</given-names></name>; <name><surname>Gunn</surname><given-names>R. N.</given-names></name>; <name><surname>Holden</surname><given-names>J.</given-names></name>; <name><surname>Houle</surname><given-names>S.</given-names></name>; <name><surname>Huang</surname><given-names>S.-C.</given-names></name>; <name><surname>Ichise</surname><given-names>M.</given-names></name>; <name><surname>Iida</surname><given-names>H.</given-names></name>; <name><surname>Ito</surname><given-names>H.</given-names></name>; <name><surname>Kimura</surname><given-names>Y.</given-names></name>; <name><surname>Koeppe</surname><given-names>R. A.</given-names></name>; <name><surname>Knudsen</surname><given-names>G.-M.</given-names></name>; <name><surname>Knuuti</surname><given-names>J.</given-names></name>; <name><surname>Lammertsma</surname><given-names>A. A.</given-names></name>; <name><surname>Laruelle</surname><given-names>M.</given-names></name>; <name><surname>Logan</surname><given-names>J.</given-names></name>; <name><surname>Maguire</surname><given-names>R. P.</given-names></name>; <name><surname>Mintun</surname><given-names>M. A.</given-names></name>; <name><surname>Morris</surname><given-names>E. D.</given-names></name>; <name><surname>Parsey</surname><given-names>R.</given-names></name>; <name><surname>Price</surname><given-names>J. C.</given-names></name>; <name><surname>Slifstein</surname><given-names>M.</given-names></name>; <name><surname>Sossi</surname><given-names>V.</given-names></name>; <name><surname>Suhara</surname><given-names>T.</given-names></name>; <name><surname>Votaw</surname><given-names>J. R.</given-names></name>; <name><surname>Wong</surname><given-names>D. F.</given-names></name>; <name><surname>Carson</surname><given-names>R. E.</given-names></name> (<year>2007</year>) <article-title>Consensus nomenclature for <italic>in vivo</italic> imaging of reversibly binding radioligands</article-title>. <source>J. Cereb. Blood Flow Metab.</source>
+<volume>27</volume>, <fpage>1533</fpage>&#x02013;<lpage>1539</lpage>.<pub-id pub-id-type="pmid">17519979</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Anderson</surname><given-names>K. B.</given-names></name>; <name><surname>Jenko</surname><given-names>K. J.</given-names></name>; <name><surname>Luckenbaugh</surname><given-names>D. A.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name>; <name><surname>Pike</surname><given-names>V. W.</given-names></name> (<year>2012</year>) <article-title>On quantitative relationships between
+drug-like compound lipophilicity and plasma free fraction in monkey
+and human</article-title>. <source>J. Pharm. Sci.</source>
+<volume>101</volume>, <fpage>1028</fpage>&#x02013;<lpage>1039</lpage>.<pub-id pub-id-type="pmid">22170327</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Shultz</surname><given-names>M. D.</given-names></name> (<year>2013</year>) <article-title>Setting
+expectations in molecular optimizations: strengths and limitations
+of commonly used composite parameters</article-title>. <source>Bioorg.
+Med. Chem. Lett.</source>
+<volume>23</volume>, <fpage>5980</fpage>&#x02013;<lpage>5991</lpage>.<pub-id pub-id-type="pmid">24018190</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Cheng</surname><given-names>Y.</given-names></name>; <name><surname>Prusoff</surname><given-names>W. H.</given-names></name> (<year>1973</year>) <article-title>Relationship between constant (K<sub>i</sub>) and the
+concentration of inhibitor which causes 50% inhibition (IC<sub>50</sub>) of an enzymatic reaction</article-title>. <source>Biochem. Pharmacol.</source>
+<volume>22</volume>, <fpage>3099</fpage>&#x02013;<lpage>3108</lpage>.<pub-id pub-id-type="pmid">4202581</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Christman</surname><given-names>D. R.</given-names></name>; <name><surname>Finn</surname><given-names>R. D.</given-names></name>; <name><surname>Karlstr&#x000f6;m</surname><given-names>K.</given-names></name>; <name><surname>Wolf</surname><given-names>A. P.</given-names></name> (<year>1975</year>) <article-title>The production of
+ultra high specific activity <sup>11</sup>C-labeled hydrogen cyanide,
+carbon dioxide, carbon monoxide and methane via the <sup>14</sup>N(p,&#x003b1;)<sup>11</sup>C reaction</article-title>. <source>Int. J. Appl. Radiat. Isot.</source>
+<volume>26</volume>, <fpage>435</fpage>&#x02013;<lpage>442</lpage>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="weblink" id="cit47"><person-group person-group-type="allauthors"><name><surname>Smith</surname><given-names>D.</given-names></name></person-group> (<year>2008</year>) <article-title>Synthia gets extreme makeover courtesy
+of National Instruments</article-title>, pp <fpage>24</fpage>&#x02013;<lpage>25, </lpage><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ftp://ftp.ni.com/pub/branches/.../NIDaysBooklet.pdf">ftp://ftp.ni.com/pub/branches/.../NIDaysBooklet.pdf</uri>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="book" id="cit48"><person-group person-group-type="allauthors"><name><surname>Bjurling</surname><given-names>P.</given-names></name>, <name><surname>Reineck</surname><given-names>R.</given-names></name>, <name><surname>Westerburg</surname><given-names>G.</given-names></name>, <name><surname>Gee</surname><given-names>A.
+D.</given-names></name>, <name><surname>Sutcliffe</surname><given-names>J.</given-names></name>, and <name><surname>L&#x000e5;ngstr&#x000f6;m</surname><given-names>B.</given-names></name></person-group> (<year>1995</year>) <article-title>Synthia, a compact radiochemistry system for automated
+production of radiopharmaceuticals</article-title>, in <source>Proceedings&#x02014;Sixth
+Workshop on Targetry and Target Chemistry</source> (<person-group person-group-type="editor"><name><surname>Link</surname><given-names>J. M.</given-names></name>, <name><surname>Ruth</surname><given-names>T. J.</given-names></name></person-group>, Eds.), pp <fpage>282</fpage>&#x02013;<lpage>284</lpage>, <publisher-name>TRIUMF</publisher-name>, <publisher-loc>Vancouver</publisher-loc>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Larsen</surname><given-names>P.</given-names></name>; <name><surname>Ulin</surname><given-names>J.</given-names></name>; <name><surname>Dahlstr&#x000f6;m</surname><given-names>K.</given-names></name>; <name><surname>Jensen</surname><given-names>M.</given-names></name> (<year>1997</year>) <article-title>Synthesis of [<sup>11</sup>C]iodomethane by iodination of [<sup>11</sup>C]methane</article-title>. <source>Appl. Radiat. Isot.</source>
+<volume>48</volume>, <fpage>153</fpage>&#x02013;<lpage>157</lpage>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="book" id="cit50"><person-group person-group-type="allauthors"><name><surname>Clark</surname><given-names>J. D.</given-names></name>, <name><surname>Baldwin</surname><given-names>R. L.</given-names></name>, <name><surname>Bayne</surname><given-names>K. A.</given-names></name>, <name><surname>Brown</surname><given-names>M. J.</given-names></name>, <name><surname>Gebhart</surname><given-names>G. F.</given-names></name>, <name><surname>Gonder</surname><given-names>J. C.</given-names></name>, <name><surname>Gwathmey</surname><given-names>J. K.</given-names></name>, <name><surname>Keeling</surname><given-names>M. E.</given-names></name>, <name><surname>Kohn</surname><given-names>D. F.</given-names></name>, <name><surname>Robb</surname><given-names>J. W.</given-names></name>, <name><surname>Smith</surname><given-names>O. A.</given-names></name>, <name><surname>Steggerda</surname><given-names>J.-A. D.</given-names></name>, and <name><surname>VandeBer</surname><given-names>J. L.</given-names></name></person-group> (<year>1996</year>) <source>Guide for the Care and Use of Laboratory Animals</source>, <publisher-name>National Academy Press</publisher-name>, <publisher-loc>Washington, DC</publisher-loc>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Gandelman</surname><given-names>M. S.</given-names></name>; <name><surname>Baldwin</surname><given-names>R. M.</given-names></name>; <name><surname>Zoghbi</surname><given-names>S. S.</given-names></name>; <name><surname>Zea-Ponce</surname><given-names>Y.</given-names></name>; <name><surname>Innis</surname><given-names>R. B.</given-names></name> (<year>1994</year>) <article-title>Evaluation of ultrafiltration for the free-fraction
+determination of single photon emission computed tomography (SPECT)
+radiotracers: &#x003b2;-CIT, IBF, and iomazenil</article-title>. <source>J. Pharm. Sci.</source>
+<volume>83</volume>, <fpage>1014</fpage>&#x02013;<lpage>1019</lpage>.<pub-id pub-id-type="pmid">7965658</pub-id></mixed-citation></ref></ref-list></back></article>

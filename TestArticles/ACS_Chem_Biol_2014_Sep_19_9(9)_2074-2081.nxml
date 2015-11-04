@@ -1,0 +1,589 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Chem Biol</journal-id><journal-id journal-id-type="iso-abbrev">ACS Chem. Biol</journal-id><journal-id journal-id-type="publisher-id">cb</journal-id><journal-id journal-id-type="coden">acbcct</journal-id><journal-title-group><journal-title>ACS Chemical Biology</journal-title></journal-title-group><issn pub-type="ppub">1554-8929</issn><issn pub-type="epub">1554-8937</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">24963694</article-id><article-id pub-id-type="pmc">4168781</article-id><article-id pub-id-type="doi">10.1021/cb500337r</article-id><article-categories><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Site-Selective Solid-Phase Synthesis of a CCR5 Sulfopeptide
+Library To Interrogate HIV Binding and Entry</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Liu</surname><given-names>Xuyu</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Malins</surname><given-names>Lara R.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Roche</surname><given-names>Michael</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Sterjovski</surname><given-names>Jasminka</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Duncan</surname><given-names>Renee</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Garcia</surname><given-names>Mary L.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Barnes</surname><given-names>Nadine
+C.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Anderson</surname><given-names>David A.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Stone</surname><given-names>Martin J.</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Gorry</surname><given-names>Paul R.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath11"><name><surname>Payne</surname><given-names>Richard J.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>School
+of Chemistry, <institution>The University of Sydney</institution>, Sydney, NSW 2006, <country>Australia</country></aff><aff id="aff2"><label>&#x02021;</label>Centre
+for Biomedical Research, <institution>Burnet Institute</institution>, Melbourne, VIC 3004, <country>Australia</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Infectious Diseases, <institution>Monash University</institution>, Melbourne, VIC 3004, <country>Australia</country></aff><aff id="aff4"><label>&#x02225;</label>Department
+of Biochemistry and Molecular Biology, <institution>Monash
+University</institution>, Melbourne, VIC 3800, <country>Australia</country></aff><aff id="aff5"><label>&#x022a5;</label>Department
+of Microbiology and Immunology, <institution>University
+of Melbourne</institution>, Melbourne, VIC 3010, <country>Australia</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>richard.payne@sydney.edu.au</email>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>25</day><month>06</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>25</day><month>06</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>19</day><month>09</month><year>2014</year></pub-date><volume>9</volume><issue>9</issue><fpage>2074</fpage><lpage>2081</lpage><history><date date-type="received"><day>02</day><month>05</month><year>2014</year></date><date date-type="accepted"><day>25</day><month>06</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical
+Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">Terms of Use</ext-link></license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00337r_0005" id="ab-tgr1"/></p><p>Tyrosine (Tyr) sulfation is a common
+post-translational modification
+that is implicated in a variety of important biological processes,
+including the fusion and entry of human immunodeficiency virus type-1
+(HIV-1). A number of sulfated Tyr (sTyr) residues on the N-terminus
+of the CCR5 chemokine receptor are involved in a crucial binding interaction
+with the gp120 HIV-1 envelope glycoprotein. Despite the established
+importance of these sTyr residues, the exact structural and functional
+role of this post-translational modification in HIV-1 infection is
+not fully understood. Detailed biological studies are hindered in
+part by the difficulty in accessing homogeneous sulfopeptides and
+sulfoproteins through biological expression and established synthetic
+techniques. Herein we describe an efficient approach to the synthesis
+of sulfopeptides bearing discrete sulfation patterns through the divergent,
+site-selective incorporation of sTyr residues on solid support. By
+employing three orthogonally protected Tyr building blocks and a solid-phase
+sulfation protocol, we demonstrate the synthesis of a library of target
+N-terminal CCR5(2-22) sulfoforms bearing discrete and differential
+sulfation at Tyr10, Tyr14, and Tyr15, from a single resin-bound intermediate.
+We demonstrate the importance of distinct sites of Tyr sulfation in
+binding gp120 through a competitive binding assay between the synthetic
+CCR5 sulfopeptides and an anti-gp120 monoclonal antibody. These studies
+revealed a critical role of sulfation at Tyr14 for binding and a possible
+additional role for sulfation at Tyr10. N-terminal CCR5 variants bearing
+a sTyr residue at position 14 were also found to complement viral
+entry into cells expressing an N-terminally truncated CCR5 receptor.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>cb500337r</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>cb-2014-00337r</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">Tyrosine
+(Tyr) sulfation is
+one of the most common post-translational modifications affecting
+secreted and transmembrane proteins, with estimates that more than
+1% of all human proteins contain sulfated Tyr (sTyr) residues.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> The sulfation process is mediated by tyrosylprotein sulfotransferase-1
+and -2 (TPST-1 and TPST-2, respectively), enzymes located in the <italic>trans</italic>-Golgi network that catalyze the transfer of sulfate
+from 3&#x02032;-phosphoadenosine 5&#x02032;-phosphosulfate (PAPS) to
+the phenol moiety of a peptidyltyrosine residue.<sup><xref ref-type="bibr" rid="ref6">6</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> sTyr residues
+are implicated in a number of important physiological processes, including
+blood coagulation,<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> cell&#x02013;cell interactions,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> chemokine
+signaling through chemokine receptors<sup><xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref16">16</xref></sup> and viral entry into
+host cells.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref17">17</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> Indeed, Tyr sulfation is known
+to have a particularly significant role in mediating the fusion and
+entry of human immunodeficiency virus type-1 (HIV-1) into target cells.
+Multiple sulfation sites on the N-terminal fragment of the chemokine
+coreceptor CCR5 are thought to be involved in a high affinity binding
+interaction with the HIV-1 envelope glycoprotein gp120-cellular CD4
+receptor complex that is essential for viral entry.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> The crucial role of sTyr in CCR5-mediated HIV-1 infection
+is of particular interest for the broader development of CCR5 mimics
+and coreceptor antagonists as novel antivirals.<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup></p><p>Despite
+the biological importance of sulfation, the precise structural
+and functional role of sTyr residues in CCR5 and in the majority of
+other proteins known to be sulfated is not fully understood.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Detailed studies of the role of Tyr sulfation
+on biological activity are complicated by difficulties in accessing
+large quantities of high-purity, homogeneous sulfoproteins. This is
+owing to the fact that the Tyr sulfation process is not templated
+but rather is controlled by the relative activities of TPSTs in the
+cell. Indeed, under the influence of the sulfotransferase enzymes,
+a heterogeneous mixture of different protein sulfoforms results, varying
+widely in the number and location of sTyr residues. The highly acid-labile
+phenolic sulfate ester linkage further complicates the extraction
+and manipulation of sulfopeptides as well as the ability to access
+target compounds by standard chemical methods. As such, there is a
+strong demand for the development of new synthetic routes for the
+preparation of peptides and proteins bearing discrete Tyr sulfation
+patterns.</p><p>Early chemical methods for accessing sulfopeptides
+involved global
+sulfation protocols whereby unprotected Tyr residues were reacted
+with sulfur trioxide-<italic>N</italic>,<italic>N</italic>-dimethylformamide
+(DMF)<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> or sulfur trioxide-pyridine complexes.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> The incorporation of preformed sTyr amino acid building blocks as
+the sodium<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> or tetraalkylammonium salts<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> in solid-phase
+peptide synthesis (SPPS) subsequently enabled the site-selective installation
+of sTyr residues. However, cleavage of the target peptide from the
+solid support and concomitant global side-chain deprotection under
+the standard acidic conditions employed in SPPS leads to substantial
+loss of the acid-labile sulfate monoester.<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> The orthogonal protection of sTyr residues as robust diesters for
+use in Fmoc-SPPS has therefore been explored as an alternative approach
+for cassette strategy incorporation of Tyr sulfation.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> A number of acid-stable aryl sulfate protecting groups,
+including neopentyl,<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> 2,2,2-trifluoroethyl (TFE),<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> 2,2,2-trichloroethyl (TCE),<sup><xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref41">41</xref></sup> and 2,2-dichlorovinyl
+(DCV) sulfate esters,<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> have been employed in the solid-phase
+synthesis of target sulfopeptides. Liskamp and co-workers have further
+extended the use of sulfate diesters to encompass the global sulfation
+of free Tyr residues on resin-bound peptides via treatment with TCE
+chlorosulfate.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> We have recently explored
+the use of sulfuryl imidazolium salts,<sup><xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> such as Taylor&#x02019;s
+TCE sulfating reagent <bold>1</bold> (Scheme <xref rid="sch1" ref-type="scheme">1</xref>A)<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> and the corresponding TFE derivative,<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> for the total synthesis of the sulfoprotein
+hirudin P6<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> as well as for the solid-phase
+sulfation of two Tyr residues within the N-terminal domain of the
+chemokine receptor CCR2.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> This study enabled
+subsequent biochemical studies of the role of Tyr sulfation in chemokine
+recognition.<sup><xref ref-type="bibr" rid="ref47">47</xref>&#x02212;<xref ref-type="bibr" rid="ref49">49</xref></sup></p><p>Despite these advances, there are as yet no
+divergent synthetic
+approaches to sulfopeptide libraries of targets bearing more than
+two sulfation sites. Driven by our interest in the role of the multiply
+sulfated N-terminal region of CCR5 (containing four possible Tyr sulfation
+sites, three of which are proposed to be important to CCR5 coreceptor
+function)<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> in binding gp120 and mediating
+HIV-1 entry, we were interested in developing a divergent, solid-phase
+sulfation strategy that would allow access to sulfopeptide libraries
+containing variable sulfation at three distinct sites. To this end,
+we envisaged the use of three orthogonal side-chain Tyr protecting
+groups, <italic>o</italic>-nitrobenzyl (<italic>o</italic>-Nb), allyl
+(All), and <italic>tert</italic>-butyl-dimethylsilyl (TBS) groups,
+which after installation at the required position in the target peptide
+sequence can be selectively and differentially deprotected in the
+presence of one another and all other side-chain protecting groups
+commonly employed in Fmoc-SPPS (Scheme <xref rid="sch1" ref-type="scheme">1</xref>A).
+We proposed that orthogonal deprotection(s), followed by site-selective
+solid-phase sulfation of the selectively unmasked Tyr residues with
+TCE sulfating reagent <bold>1</bold>, would enable rapid access to
+all eight variants of a target sulfopeptide bearing three sulfation
+sites (Scheme <xref rid="sch1" ref-type="scheme">1</xref>A). Importantly, this methodology
+would enable access to a library of target N-terminal CCR5(2-22) sulfoforms
+(compounds <bold>2</bold>&#x02013;<bold>9</bold>, Scheme <xref rid="sch1" ref-type="scheme">1</xref>B), bearing discrete and differential sulfation at Tyr10,
+Tyr14, and Tyr15, from a single resin-bound peptide and without any
+intermediary purification steps. We describe herein the development
+of this novel methodology and demonstrate the high-yielding syntheses
+of eight differentially sulfated CCR5 targets to facilitate a systematic
+study of the role of sulfation in binding to the HIV-1 envelope glycoprotein
+gp120. We have also demonstrated that the sulfation pattern on the
+N-terminus of CCR5 heavily influences whether fragments of the N-terminal
+CCR5 domain can complement viral entry of an N-terminally truncated
+CCR5 receptor on a CD4-expressing human cell line.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>(A) Divergent Solid-Phase
+Sulfation Strategy Employing Three Orthogonal
+Protecting Groups; (B) Target N-Terminal CCR5(2-22) Sulfoforms <bold>2</bold>&#x02013;<bold>9</bold></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00337r_0003" id="gr1" position="float"/></fig><sec id="sec2"><title>Results and Discussion</title><sec id="sec2.1"><title>Synthesis of Target CCR5 Sulfopeptides</title><p>In order to
+implement the proposed divergent solid-phase sulfation strategy, we
+first synthesized three preformed, orthogonally protected Tyr building
+blocks (<bold>10</bold>, <bold>11</bold>, and <bold>12</bold>), bearing
+side-chain <italic>o</italic>-Nb, All, and TBS protection of the phenolic
+Tyr side chain, respectively (Figure <xref rid="fig1" ref-type="fig">1</xref>, see <xref rid="notes-1" ref-type="notes">Supporting Information</xref> for synthetic details).
+These building blocks could be accessed in gram quantities and in
+high enantiopurities from commercially available, protected Tyr precursors.
+With the requisite Tyr derivatives in hand, we next embarked upon
+the solid-phase synthesis of the target CCR5 sulfopeptides, composed
+of residues 2&#x02013;22 of the N-terminal domain, with a single substitution
+of C20S to prevent interpeptide disulfide formation, together with
+the incorporation of three possible sulfation sites at Tyr10, Tyr14,
+and Tyr15. Synthesis was performed using Rink amide resin and began
+with the loading of Fmoc-Lys(Boc)-OH. Elongation to residue Thr16
+(just prior to the first potential Tyr sulfation site) was accomplished
+using standard Fmoc-SPPS (see Scheme <xref rid="sch2" ref-type="scheme">2</xref> and <xref rid="notes-1" ref-type="notes">Supporting Information</xref>). Building block <bold>12</bold> was next incorporated using a slight excess of amino acid
+(1.5 equiv), in the presence of 1-[bis(dimethylamino)methylene]-1<italic>H</italic>-1,2,3-triazolo[4,5-<italic>b</italic>]pyridinium 3-oxid
+hexafluorophosphate (HATU) (1.5 equiv) and <italic>N</italic>,<italic>N</italic>-diisopropylethylamine (DIPEA) (3.0 equiv) in DMF. Compound <bold>11</bold> bearing side-chain allylic protection was subsequently
+incorporated at position 14, using identical coupling conditions.
+Extension to Asp11 using standard Fmoc-SPPS was followed by the coupling
+of <italic>o</italic>-nitrobenzyl Tyr derivative <bold>10</bold> using
+optimized conditions of (benzotriazol-1-yloxy)tripyrrolidinophosphonium
+hexafluorophosphate (PyBOP) (2.0 equiv), 1-hydroxybenzotriazole (HOBt) (2.0 equiv), and <italic>N</italic>-methylmorpholine
+(NMM) (4.0 equiv) in DMF (see <xref rid="notes-1" ref-type="notes">Supporting Information</xref> for details). Following incorporation of the final Tyr building
+block, the peptide was further elongated to CCR5(2-22) <bold>13</bold> and the resin split into eight equal portions to facilitate divergent
+solid-phase manipulations at Tyr10, Tyr14, and Tyr15.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Fmoc-protected Tyr building
+blocks <bold>10</bold>, <bold>11</bold>, and <bold>12</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00337r_0001" id="gr3" position="float"/></fig><p>From the fully protected resin-bound
+peptide <bold>13</bold>, we
+first embarked upon the synthesis of target CCR5(2-22) peptide <bold>2</bold>, a triply sulfated variant bearing sTyr residues at positions
+10, 14, and 15. As construction of the desired sulfation pattern of
+peptide <bold>2</bold> would first require the removal of all three
+Tyr side-chain protecting groups, we hypothesized that this synthesis
+would enable us to affirm the orthogonality of the three Tyr protecting
+groups selected (Scheme <xref rid="sch2" ref-type="scheme">2</xref>). To probe our protecting
+group strategy, resin-bound CCR5 peptide <bold>13</bold> was first
+irradiated with UV light at &#x003bb; = 365 nm in DMF for 24 h (deprotection
+condition A). Gratifyingly, these conditions facilitated quantitative
+and selective removal of the side-chain <italic>o</italic>-nitrobenzyl
+group at Tyr10, leaving the remaining phenolic protecting groups intact
+(as judged by HPLC&#x02013;MS analysis of the cleavage of a small number
+of resin beads). Subsequent treatment with Pd(PPh<sub>3</sub>)<sub>4</sub>, triethylsilane (TES), and acetic acid in CH<sub>2</sub>Cl<sub>2</sub> (deprotection condition B) effected clean removal of the
+allyl ether at Tyr14. A final treatment with tetrabutylammonium fluoride
+(TBAF) buffered with acetic acid<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> (deprotection
+condition C) resulted in the loss of the TBS protecting group at Tyr15,
+affording a resin-bound peptide bearing three unprotected Tyr residues.
+It should be noted that the order of incorporation of the protected
+Tyr building blocks <bold>10</bold>&#x02013;<bold>12</bold> into the
+peptide chain could be altered without affecting the orthogonality
+of the deprotection steps (see <xref rid="notes-1" ref-type="notes">Supporting Information</xref> for details). Having demonstrated the iterative and selective deprotection
+of each Tyr protecting group, we next subjected the immobilized peptide
+to solid-phase sulfation using TCE imidazolium sulfating reagent <bold>1</bold> (8 equiv per free phenol) in the presence of triethylamine,
+to afford peptide <bold>14</bold> bearing TCE-protected sulfate diesters
+at positions 10, 14, and 15. Acidic cleavage of the peptide from the
+resin was followed by removal of the TCE protecting group via catalytic
+hydrogenolysis using Pd(OH)<sub>2</sub> on carbon.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> HPLC purification in the presence of 0.1 M NH<sub>4</sub>OAc (to avoid loss of the acid-labile sulfate monoester) afforded
+the triply sulfated CCR5 variant <bold>2</bold> in 28% yield based
+on the original resin loading (over 47 linear steps).</p><fig id="sch2" position="float"><label>Scheme 2</label><caption><title>Divergent
+Solid-Phase Synthesis of CCR5(2-22) (Sulfo)peptides <bold>2</bold>&#x02013;<bold>9</bold></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00337r_0004" id="gr2" position="float"/></fig><p>With conditions in hand for both the selective, on-resin
+deprotection
+of each orthogonal Tyr side-chain protecting group as well as the
+subsequent installation of the TCE sulfate diester on the solid phase,
+we proceeded to synthesize the remaining CCR5(2-22) sulfoforms of
+our proposed library using a combinatorial deprotection&#x02013;solid-phase
+sulfation strategy. In each case the initial deprotection(s) (conditions
+A, B, and/or C, on-resin deprotection step(s) 1, Scheme <xref rid="sch2" ref-type="scheme">2</xref>) were followed by solid-phase sulfation with imidazolium
+sulfating reagent <bold>1</bold> to install the appropriately positioned
+TCE-protected sulfate diesters onto the unmasked phenolic Tyr side
+chains. A second round of deprotection reactions (on-resin deprotection
+step(s) 2, Scheme <xref rid="sch2" ref-type="scheme">2</xref>) then facilitated the removal
+of the remaining Tyr side-chain protecting groups at positions 10
+and/or 14. It should be noted that in cases where Tyr15 remained unsulfated
+(e.g., resin-bound peptides <bold>15</bold>, <bold>16</bold>, <bold>17</bold>, and <bold>19</bold>), the side-chain TBS ether was left
+intact, as loss of this protecting group could be facilitated concomitantly
+with acidic cleavage from the resin and global side-chain deprotection.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> Following solid-phase manipulations, the resin-bound
+peptides <bold>15</bold>&#x02013;<bold>21</bold> were treated with
+an acidic cocktail of TFA/<italic>i</italic>Pr<sub>3</sub>SiH/H<sub>2</sub>O (90:5:5 v/v/v) to effect cleavage from the resin and removal
+of all remaining side-chain protecting groups. At this point, unsulfated
+variant <bold>3</bold> was obtained directly following HPLC purification
+in 60% yield based on the original resin loading. The crude, differentially
+TCE-sulfated peptides derived from resin-bound variants <bold>16</bold>&#x02013;<bold>21</bold> were then treated with Pd(OH)<sub>2</sub> in the presence of H<sub>2</sub> to remove the TCE sulfate diester
+protecting group(s). Purification by HPLC afforded the six remaining
+sulfoforms <bold>4</bold>&#x02013;<bold>9</bold> in good overall yields
+(20&#x02013;42%, an average of 97&#x02013;98% per step). Importantly,
+this synthetic approach represents the first divergent synthesis of
+all 8 distinct sulfoforms of a given sulfopeptide bearing three sites
+of sulfation, in this case the CCR5 N-terminus (bearing sulfation
+at Tyr10, Tyr14, and Tyr15), from a single-resin bound peptide and
+serves as a proof of concept for the rapid synthesis of compound libraries
+of multiply sulfated peptide and protein targets.</p></sec><sec id="sec2.2"><title>Binding Interaction
+of N-Terminal CCR5 Sulfoforms with gp120</title><p>With the eight target
+sulfoforms of the N-terminal region of CCR5
+in hand (compounds <bold>2</bold>&#x02013;<bold>9</bold>), we were
+next interested in investigating the effect that discrete CCR5 sulfation
+patterns had on mediating binding with the HIV-1 Env glycoprotein
+gp120 and facilitating viral entry. Although previous studies have
+examined the role of specific sTyr residues in CCR5 binding,<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> we were interested in carrying
+out the first systematic screen of multiple sulfation patterns, including
+a detailed analysis of the role of sulfation at Tyr15. To evaluate
+the ability of our synthetic CCR5 peptides to bind gp120, we first
+carried out a competitive binding assay between peptides <bold>2</bold>&#x02013;<bold>9</bold> and the anti-gp120 monoclonal antibody 17b<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> (Figure <xref rid="fig2" ref-type="fig">2</xref>A). In this
+ELISA-based assay, recombinant gp120 was captured on plates coated
+with recombinant human CD4 lacking its transmembrane domain (rsCD4),
+which exposes the binding site on gp120 for CCR5. The protocol for
+producing rsCD4 is provided in detail in the <xref rid="sec3" ref-type="other">Methods</xref> section. Conveniently, the epitope on gp120 for 17b overlaps with
+the CCR5 binding site, such that the displacement of antibody 17b
+from gp120 upon treatment with the sulfopeptide is indicative of the
+ability of the sulfopeptide to bind to gp120. This method for measuring
+the binding interaction between the N-terminal CCR5 (sulfo)peptides
+and gp120 is preferable to a direct binding assay because the binding
+of 17b to gp120, unlike the interaction between CCR5 and gp120, has
+known stoichiometry and is a well characterized process, both structurally
+and biochemically.<sup><xref ref-type="bibr" rid="ref51">51</xref>,<xref ref-type="bibr" rid="ref52">52</xref></sup> The results in Figure <xref rid="fig2" ref-type="fig">2</xref>A show that unsulfated peptide <bold>3</bold> could
+not displace the binding of 17b to gp120, confirming that sulfation
+is essential for gp120 binding to CCR5. Only peptides sulfated at
+Tyr10, Tyr14, and Tyr15 (peptide <bold>2</bold>), Tyr10 and Tyr14
+(peptide <bold>7</bold>), Tyr14 and Tyr15 (peptide <bold>9</bold>),
+and Tyr14 (peptide <bold>5</bold>) could inhibit 17b binding to gp120,
+albeit to variable levels, whereas peptides sulfated at Tyr10 and
+Tyr15 (peptide <bold>8</bold>) and Tyr15 alone (peptide <bold>6</bold>) could not. However, the most potent inhibition of antibody binding
+was exhibited by triply sulfated peptide <bold>2</bold>. Together,
+these results suggest that Tyr14 is the most critical sulfation site
+for gp120 binding to CCR5, but that sulfation of Tyr10 and Tyr15 may
+further enhance gp120 binding affinity.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(A) CCR5 sulfoforms inhibit
+binding of 17b to gp120. gp120 (recombinant)
+from the HIV-1 Bal strain was incubated on plates coated with recombinant
+soluble CD4 prior to addition of CCR5 sulfoforms. 17b was then added
+to the wells, followed by sheep anti-human horseradish peroxidase
+(HRP) and <italic>A</italic><sub>450</sub> values were read. Binding
+curves were constructed where % binding = 100 &#x02013; [(<sub>Abs</sub>17b + peptide &#x02013; <sub>Abs</sub>17b + no peptide) &#x000d7; 100].
+Data points represent the mean and standard error of the mean from
+5 independent experiments. B) CCR5 sulfoforms can reconstitute HIV-1
+entry in cells expressing N-terminally truncated CCR5. U87-CD4 cells
+expressing an N-terminally truncated CCR5 (&#x00394;2-17) were incubated
+with CCR5 peptide sulfoforms (100 &#x003bc;M concentration) for 30 min
+prior to infection with luciferase reporter viruses pseudotyped with
+HIV-1 YU-2 Env. Entry is expressed as a percentage of entry obtained
+in U87-CD4 cells expressing an equivalent amount of wild type CCR5.
+The data is the mean and standard deviation of triplicate infections
+from two independent experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00337r_0002" id="gr4" position="float"/></fig><p>To determine whether the pattern of sulfated Tyr residues
+in CCR5
+that are implicated in gp120 binding are also functionally important
+for HIV-1 entry into cells, we next undertook a series of CCR5 N-terminus
+complementation assays using luciferase reporter HIV-1 pseudotyped
+with gp120 from the YU-2 HIV-1 strain (Figure <xref rid="fig2" ref-type="fig">2</xref>B). These assays are based on those previously described by Farzan
+and co-workers.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Briefly, cells expressing
+CD4 together with N-terminally truncated (and thus nonfunctional)
+CCR5 (&#x00394;2-17) were inoculated with virus in the presence or absence
+of each sulfopeptide. Any reconstitution of HIV-1 entry into the cells
+by addition of a synthetic sulfopeptide to the media would signify
+a &#x0201c;functional&#x0201d; sulfopeptide that is capable of mediating
+HIV-1 entry into cells after gp120 binding. When compared to cells
+expressing wild type (WT) CCR5, only HIV-1 that was treated with CCR5
+variants sulfated at Tyr10, Tyr14, and Tyr15 (peptide <bold>2</bold>), Tyr10 and Tyr14 (peptide <bold>7</bold>), and Tyr14 (peptide <bold>5</bold>) could restore HIV-1 entry, with the triply sulfated peptide <bold>2</bold> and peptide <bold>7</bold> sulfated at Tyr10 and Tyr14 showing
+the greatest levels of restoration (Figure <xref rid="fig2" ref-type="fig">2</xref>B). Not unexpectedly, the overall levels of restored virus entry
+were markedly lower than those mediated by WT CCR5. Together, the
+results of these functional studies largely mirror those from the
+gp120 binding studies (Figure <xref rid="fig2" ref-type="fig">2</xref>A) and suggest
+a critical role for sTyr14 in CCR5 in mediating HIV-1 entry and a
+possible additional role for sTyr10 for gp120 binding and entry. The
+observed importance of Tyr sulfation at positions 10 and 14 is corroborated
+by the original complementation assays performed by Farzan and co-workers,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> which demonstrated that a CCR5 N-terminal peptide
+bearing sTyr residues at positions 10 and 14 could functionally reconstitute
+a CCR5 variant lacking the critical N-terminal region. Dragic and
+co-workers have additionally demonstrated that CCR5 N-terminal peptides
+bearing sTyr residues at positions 10 and 14 (but not the singly sulfated
+variants) were capable of binding gp120-CD4 complexes.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The observed binding motifs may be a direct
+result of the structural conformation of CCR5 when in complex with
+gp120 and CD4 (the complex necessary for host entry), which has recently
+been interrogated using NMR techniques.<sup><xref ref-type="bibr" rid="ref53">53</xref>,<xref ref-type="bibr" rid="ref54">54</xref></sup> In order to
+probe the potential binding interactions of the eight differentially
+sulfated CCR5 peptides synthesized in this study, we used molecular
+modeling to characterize the intermolecular interactions to a YU-2
+gp120 protein structure that had been previously docked with an NMR
+structure of an N-terminal fragment of CCR5 by Huang et al. (see <xref rid="notes-1" ref-type="notes">Supporting Information</xref>).<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> Analysis of the potential ionic and hydrogen bonding interactions
+of the different CCR5 peptide sulfoforms with gp120 showed that sTyr
+at position 14 promotes interactions with both the ascending (Asn300,
+Asn302, Thr303) and the descending strand of the V3 loop and may explain
+why the presence of sTyr14 alone or in combination with sulfation
+at other residues has the greatest effect on binding. sTyr at position
+15 is oriented away from the V3 loop and appears to be important for
+interactions with the C4 region of gp120. This is consistent with
+saturation transfer difference (STD) NMR studies that have shown that
+sTyr14 is positioned closer to gp120 than sTyr10 and is thought to
+make a number of important hydrogen-bonding interactions through its
+appended sulfate group.<sup><xref ref-type="bibr" rid="ref53">53</xref>,<xref ref-type="bibr" rid="ref54">54</xref></sup> In contrast, Tyr15
+was shown to be closely packed with neighboring hydrophobic residues
+and pointed toward the host cell membrane.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> Therefore, it is possible that the enhanced binding and inhibition
+observed with triply sulfated peptide <bold>2</bold> relative to doubly
+sulfated peptide <bold>7</bold> bearing sTyr residues at positions
+10 and 14 may occur via an indirect structural effect.</p></sec><sec sec-type="conclusions" id="sec2.3"><title>Conclusion</title><p>In summary, we have developed the first
+solid-phase sulfation strategy to allow for the divergent and site-selective
+incorporation of sTyr at three possible sulfation sites in a target
+peptide. By incorporating three orthogonally protected Tyr residues
+into a single resin-bound peptide, we were able to access a library
+of eight sulfoforms of an N-terminal fragment of the HIV-1 coreceptor
+CCR5 (bearing differential sulfation at Tyr10, Tyr14, and Tyr15).
+This was achieved through iterative solid-phase deprotection(s), followed
+by solid-phase sulfation. This technique enabled the rapid and high-yielding
+construction of CCR5(2-22) variants <bold>2</bold>&#x02013;<bold>9</bold>. These distinct sulfoforms were subsequently utilized in the first
+comprehensive interrogation of the ability of CCR5(2-22) variants
+bearing discrete Tyr sulfate modifications at positions 10, 14, and
+15 to bind gp120 and mediate HIV-1 entry into host cells. A number
+of sulfated CCR5 variants, particularly those bearing a sTyr residue
+at position 14, were shown to bind gp120 and enhance viral entry into
+cells expressing a truncated CCR5 coreceptor that lacks the crucial
+N-terminus. The results of these studies, which were corroborated
+by molecular modeling studies, provide important insight into the
+functional role of site-specific Tyr sulfation and should prove useful
+in the development of CCR5 mimetics and antagonists as novel antiviral
+therapies. In addition, the generality of the solid-phase synthetic
+methodology should facilitate the construction of other sulfopeptide
+and sulfoprotein libraries to interrogate the importance of Tyr sulfate
+modifications in a number of diverse systems, including chemokine-chemokine
+receptor interactions (e.g. CCR5/RANTES),<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> decoy receptors, and complement proteins,<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> in the future.</p></sec></sec><sec sec-type="methods" id="sec3"><title>Methods</title><sec id="sec3.1"><title>Synthesis of
+N-Terminal CCR5 (Sulfo)peptides</title><p>For the
+synthesis of protected Tyr derivatives <bold>10</bold>, <bold>11</bold>, and <bold>12</bold> and detailed solid-phase peptide synthesis
+(SPPS) protocols for the construction of (sulfo)peptides <bold>2</bold>&#x02013;<bold>9</bold>, see <xref rid="notes-1" ref-type="notes">Supporting Information</xref>.</p></sec><sec id="sec3.2"><title>Production of Recombinant Soluble CD4 (rsCD4)</title><p>The CD4deltaTM
+plasmid expresses recombinant soluble human CD4 lacking the transmembrane
+domain but which retains the cytoplasmic domain that facilitates solid-phase
+binding assays (rsCD4, aa 1&#x02013;395, 421&#x02013;458). CD4deltaTM
+was produced by splice overlap extension PCR from the full-length
+clone of CD4, T4pMV7 (NIH), removing the region encoding the TM domain
+of CD4. Two intermediate clones were produced. The first clone encoding
+the CD4 extracellular domain was generated using the RL1: CGG GAA
+TTC ACA ATG GAC CGG GGA GTC CC and RL3: G CCT TCG GTG CCG GCA CCT
+CTG CAC CGG GGT GGA CC primer pair. The second clone encoding the
+CD4 cytoplasmic tail with a 6&#x000d7;His tag at the C-terminus was generated
+using the RL4: GG TCC ACC CCG GTG CAG AGG TGC CGG CAC CGA AGG C and
+RL5: GGG CTC GAG TCA ATG ATG ATG ATG ATG ATG AGA ACC ACC AAT GGG GCT
+ACA TGT CTT CTG AA primer pair. Each clone was created with an overlapping
+region. The two clones were combined using PCR with the outermost
+5&#x02032; and 3&#x02032; primers, RL1 and RL5. The construct was then
+subcloned into the eukaryotic expression vector pcDNA 3.1 Zeocin (Invitrogen).
+CD4deltaTM clones were confirmed by DNA sequencing. To produce rsCD4,
+HEK 293T cells were transfected with 70 &#x003bc;g of CD4deltaTM plasmid
+using Lipofectamine 2000 (Invitrogen) according to the manufacturer&#x02019;s
+protocol. Cell culture supernatants containing sCD4 were collected
+after 48&#x02013;72 h and clarified by centrifugation to remove cellular
+debris.</p></sec><sec id="sec3.3"><title>Competitive Binding Assay between Peptides <bold>2</bold>&#x02013;<bold>9</bold> and Anti-gp120 Monoclonal Antibody 17b</title><p>All incubation
+steps were carried out using 50 &#x003bc;L solutions for 2 h at RT,
+except where stated otherwise. Every step was followed by four washes
+with 0.05% (v/v) PBS/Tween (pH 7.4). Microtiter plates (Maxisorp;
+Nunc) were coated overnight at 4 &#x000b0;C with soluble CD4 diluted
+in coating buffer (18.2 mM Na<sub>2</sub>CO<sub>3</sub>, 45 mM NaHCO<sub>3</sub>, pH 9.6). The wells were blocked for 2 h with 230 &#x003bc;L
+3% (w/v) skim milk in PBS (blocking solution). HIV-1<sub>BaL</sub> gp120 recombinant was then diluted in PBS/Tween 0.05% (v/v) at 1
+&#x003bc;g mL<sup>&#x02013;1</sup>. Dilutions of synthetic CCR5 sulfopeptides
+were added to the plates and incubated for 1 h. 17b antibody (SDIX)
+was then added in the presence of sulfopeptides at a final concentration
+of 15 nM for 30 min. After washing, plates were incubated with sheep
+anti-human/HRP 1:2000 in PBS/Tween 0.05% (v/v) solution. Control samples
+of CD4 bound alone were detected with mouse anti-CD4 RPA-T4 (Sigma)
+at 1:1000 and anti-mouse/HRP at 1:2000. Bound enzyme was quantified
+using the 3,3&#x02032;5,5&#x02032;-tetramethylbenzidine/H<sub>2</sub>O<sub>2</sub> colorimetric assay (Sigma), which was quenched with
+0.5 M H<sub>2</sub>SO<sub>4</sub>, and <italic>A</italic><sub>450</sub> values were measured. The <italic>A</italic><sub>450</sub> values
+were corrected for the background absorbance of substrate alone. Data
+points were analyzed using GraphPad Prism (Version 5.00 for Windows,
+GraphPad Software, San Diego, USA, <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.graphpad.com">www.graphpad.com</uri>) using
+a single-site binding equation: <italic>Y</italic> = <italic>B</italic><sub>max</sub><italic>X</italic>/(<italic>K</italic><sub>D</sub> + <italic>X</italic>). This equation describes the binding of ligand to a receptor
+that follows the law of mass action. <italic>B</italic><sub>max</sub> represents the maximal binding, and <italic>K</italic><sub>D</sub> is the concentration of ligand required to reach one-half maximal
+binding.</p></sec><sec id="sec3.4"><title>Complementation Assays</title><p>The production and titration
+of luciferase reporter viruses and infection of cells expressing CCR5
+mutants have been described previously.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Briefly, U87-CD4 cells were transfected with 4 &#x003bc;g of pcDNA3-CCR5
+(Wild type-WT) or CCR5 (&#x00394;2-17) using lipofectamine 2000 (Invitrogen)
+according to the manufacturer&#x02019;s protocol. The WT CCR5 plasmid
+was serially diluted (2-fold) to create populations of cells expressing
+a range of CCR5. These cells were used to create a standard curve
+of CCR5 expression, to which the expression of CCR5 (&#x00394;2-17)
+could be matched. Expression of CCR5 was determined by flow cytometry
+48 h post transfection with the CCR5 specific antibody 2D7 (BD Pharmingen).
+At 48 h post transfection, the cells were either left untreated (WT
+and &#x00394;2-17) or incubated for 30 min with 100 &#x003bc;M CCR5 sulfopeptides
+(&#x00394;2-17 only) prior to infection with 200 TCID<sub>50</sub> of
+YU-2 Env pseudotyped luciferase reporter virus. At 72 h post infection,
+the cells were lysed, and luciferase activity was read according to
+the manufacturer&#x02019;s protocol (Promega). The luciferase activity
+in CCR5 &#x00394;2-17 cells incubated with CCR5 sulfopeptides was expressed
+as a percentage of that obtained in cells expressing an equivalent
+amount of WT CCR5.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>Detailed experimental procedures
+and analytical data. This material is available free of charge via
+the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb500337r_si_001.pdf"><caption><p>cb500337r_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="NOTES-d1150e1000-autogenerated" notes-type="conflict-of-interest"><p>The authors
+declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We thank J.
+Sodroski for providing the pSVIII-YU-2, pcDNA3-CCR5,
+pCMV&#x00394;P1&#x00394;envpA, and pHIV-1Luc plasmids and CCR5 (&#x00394;2-17)
+mutant. The following reagents were obtained through the NIH AIDS
+Reagent Program, Division of AIDS, NIAID, NIH: HIV-1<sub>BaL</sub> gp120 from DAIDS, NIAID; U87-CD4 cells from HongKui Deng and D.
+R. Littman. We would also like to thank the ARC Discovery Project
+Scheme (DP130101984) for funding and the Australian Postgraduate Award
+Scheme (X.L.) and the International Postgraduate Research Scholarship
+Scheme (L.R.M.) for Ph.D. funding. P.R.G. and R.J.P. are supported
+by Australian Research Council Future Fellowships. M.R., J.S., R.D.,
+M.L.G., N.C.B., D.A.A., and P.R.G. gratefully acknowledge the contribution
+to this work of the Victorian Operational Infrastructure Support Program
+received by the Burnet Institute.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Huttner</surname><given-names>W. B.</given-names></name> (<year>1982</year>) <article-title>Sulfation
+of tyrosine residues-a widespread modification of proteins</article-title>. <source>Nature</source>
+<volume>299</volume>, <fpage>273</fpage>&#x02013;<lpage>276</lpage>.<pub-id pub-id-type="pmid">6180325</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Stone</surname><given-names>M. J.</given-names></name>; <name><surname>Chuang</surname><given-names>S.</given-names></name>; <name><surname>Hou</surname><given-names>X.</given-names></name>; <name><surname>Shoham</surname><given-names>M.</given-names></name>; <name><surname>Zhu</surname><given-names>J. Z.</given-names></name> (<year>2009</year>) <article-title>Tyrosine
+sulfation: an increasingly recognised post-translational modification
+of secreted proteins</article-title>. <source>New Biotechnol.</source>
+<volume>25</volume>, <fpage>299</fpage>&#x02013;<lpage>317</lpage>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Kehoe</surname><given-names>J. W.</given-names></name>; <name><surname>Bertozzi</surname><given-names>C. R.</given-names></name> (<year>2000</year>) <article-title>Tyrosine sulfation:
+a modulator of extracellular protein&#x02013;protein
+interactions</article-title>. <source>Chem. Biol.</source>
+<volume>7</volume>, <fpage>R57</fpage>&#x02013;<lpage>R61</lpage>.<pub-id pub-id-type="pmid">10712936</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Moore</surname><given-names>K. L.</given-names></name> (<year>2003</year>) <article-title>The biology
+and enzymology of protein tyrosine <italic>O</italic>-sulfation</article-title>. <source>J. Biol. Chem.</source>
+<volume>278</volume>, <fpage>24243</fpage>&#x02013;<lpage>24246</lpage>.<pub-id pub-id-type="pmid">12730193</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Moore</surname><given-names>K. L.</given-names></name> (<year>2009</year>) <article-title>Protein
+tyrosine sulfation: a critical posttranslation modification in plants
+and animals</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>106</volume>, <fpage>14741</fpage>&#x02013;<lpage>14742</lpage>.<pub-id pub-id-type="pmid">19717448</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Lee</surname><given-names>R. W.</given-names></name>; <name><surname>Huttner</surname><given-names>W. B.</given-names></name> (<year>1985</year>) <article-title>Glu62, Ala30, Tyr8)n
+serves as high-affinity substrate
+for tyrosylprotein sulfotransferase: a Golgi enzyme</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>82</volume>, <fpage>6143</fpage>&#x02013;<lpage>6147</lpage>.<pub-id pub-id-type="pmid">3862121</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Lee</surname><given-names>R. W.</given-names></name>; <name><surname>Huttner</surname><given-names>W. B.</given-names></name> (<year>1983</year>) <article-title>Tyrosine-<italic>O</italic>-sulfated proteins of PC12
+pheochromocytoma cells and their sulfation by a tyrosylprotein sulfotransferase</article-title>. <source>J. Biol. Chem.</source>
+<volume>258</volume>, <fpage>11326</fpage>&#x02013;<lpage>11334</lpage>.<pub-id pub-id-type="pmid">6577005</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Baeuerle</surname><given-names>P. A.</given-names></name>; <name><surname>Huttner</surname><given-names>W. B.</given-names></name> (<year>1987</year>) <article-title>Tyrosine sulfation is a trans-Golgi-specific protein
+modification</article-title>. <source>J. Cell. Biol.</source>
+<volume>105</volume>, <fpage>2655</fpage>&#x02013;<lpage>2664</lpage>.<pub-id pub-id-type="pmid">3121635</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Leyte</surname><given-names>A.</given-names></name>; <name><surname>van Schijndel</surname><given-names>H. B.</given-names></name>; <name><surname>Niehrs</surname><given-names>C.</given-names></name>; <name><surname>Huttner</surname><given-names>W. B.</given-names></name>; <name><surname>Verbeet</surname><given-names>M. P.</given-names></name>; <name><surname>Mertens</surname><given-names>K.</given-names></name>; <name><surname>van Mourik</surname><given-names>J. A.</given-names></name> (<year>1991</year>) <article-title>Sulfation
+of Tyr1680 of human blood
+coagulation factor VIII is essential for the interaction of factor
+VIII with von Willebrand factor</article-title>. <source>J. Biol. Chem.</source>
+<volume>266</volume>, <fpage>740</fpage>&#x02013;<lpage>746</lpage>.<pub-id pub-id-type="pmid">1898735</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Liu</surname><given-names>C. C.</given-names></name>; <name><surname>Brustad</surname><given-names>E.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>; <name><surname>Schultz</surname><given-names>P. G.</given-names></name> (<year>2007</year>) <article-title>Crystal structure
+of a biosynthetic sulfo-hirudin complexed to thrombin</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>129</volume>, <fpage>10648</fpage>&#x02013;<lpage>10649</lpage>.<pub-id pub-id-type="pmid">17685615</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Hsieh</surname><given-names>Y. S. Y.</given-names></name>; <name><surname>Taleski</surname><given-names>D.</given-names></name>; <name><surname>Wilkinson</surname><given-names>B. L.</given-names></name>; <name><surname>Wijeyewickrema</surname><given-names>L. C.</given-names></name>; <name><surname>Adams</surname><given-names>T. E.</given-names></name>; <name><surname>Pike</surname><given-names>R. N.</given-names></name>; <name><surname>Payne</surname><given-names>R. J.</given-names></name> (<year>2012</year>) <article-title>Effect of <italic>O</italic>-glycosylation and tyrosine sulfation of leech-derived
+peptides on binding and inhibitory activity against thrombin</article-title>. <source>Chem. Commun.</source>
+<volume>48</volume>, <fpage>1547</fpage>&#x02013;<lpage>1549</lpage>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Hsieh</surname><given-names>Y. S.</given-names></name>; <name><surname>Wijeyewickrema</surname><given-names>L. C.</given-names></name>; <name><surname>Wilkinson</surname><given-names>B. L.</given-names></name>; <name><surname>Pike</surname><given-names>R. N.</given-names></name>; <name><surname>Payne</surname><given-names>R. J.</given-names></name> (<year>2014</year>) <article-title>Total synthesis
+of homogeneous variants of hirudin P6: a post-translationally modified
+anti-thrombotic leech-derived protein</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<volume>53</volume>, <fpage>3947</fpage>&#x02013;<lpage>3951</lpage>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Fong</surname><given-names>A. M.</given-names></name>; <name><surname>Alam</surname><given-names>S. M.</given-names></name>; <name><surname>Imai</surname><given-names>T.</given-names></name>; <name><surname>Haribabu</surname><given-names>B.</given-names></name>; <name><surname>Patel</surname><given-names>D. D.</given-names></name> (<year>2002</year>) <article-title>CX3CR1
+tyrosine sulfation enhances fractalkine-induced cell adhesion</article-title>. <source>J. Biol. Chem.</source>
+<volume>277</volume>, <fpage>19418</fpage>&#x02013;<lpage>19423</lpage>.<pub-id pub-id-type="pmid">11909868</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Preobrazhensky</surname><given-names>A. A.</given-names></name>; <name><surname>Dragan</surname><given-names>S.</given-names></name>; <name><surname>Kawano</surname><given-names>T.</given-names></name>; <name><surname>Gavrilin</surname><given-names>M. A.</given-names></name>; <name><surname>Gulina</surname><given-names>I. V.</given-names></name>; <name><surname>Chakravarty</surname><given-names>L.</given-names></name>; <name><surname>Kolattukudy</surname><given-names>P. E.</given-names></name> (<year>2000</year>) <article-title>Monocyte chemotactic protein-1 receptor
+CCR2B is a glycoprotein that has tyrosine sulfation in a conserved
+extracellular N-terminal region</article-title>. <source>J. Immunol.</source>
+<volume>165</volume>, <fpage>5295</fpage>&#x02013;<lpage>5303</lpage>.<pub-id pub-id-type="pmid">11046064</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Choe</surname><given-names>H.</given-names></name>; <name><surname>Moore</surname><given-names>M. J.</given-names></name>; <name><surname>Owens</surname><given-names>C. M.</given-names></name>; <name><surname>Wright</surname><given-names>P. L.</given-names></name>; <name><surname>Vasilieva</surname><given-names>N.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Singh</surname><given-names>A. P.</given-names></name>; <name><surname>Shakri</surname><given-names>R.</given-names></name>; <name><surname>Chitnis</surname><given-names>C. E.</given-names></name>; <name><surname>Farzan</surname><given-names>M.</given-names></name> (<year>2005</year>) <article-title>Sulphated
+tyrosines mediate association of chemokines and Plasmodium vivax Duffy
+binding protein with the Duffy antigen/receptor for chemokines (DARC)</article-title>. <source>Mol. Microbiol.</source>
+<volume>55</volume>, <fpage>1413</fpage>&#x02013;<lpage>1422</lpage>.<pub-id pub-id-type="pmid">15720550</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Ludeman</surname><given-names>J. P.</given-names></name>; <name><surname>Stone</surname><given-names>M. J.</given-names></name> (<year>2014</year>) <article-title>The structural role of receptor tyrosine sulfation
+in chemokine recognition</article-title>. <source>Br. J. Pharmacol.</source>
+<volume>171</volume>, <fpage>1167</fpage>&#x02013;<lpage>1179</lpage>.<pub-id pub-id-type="pmid">24116930</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Farzan</surname><given-names>M.</given-names></name>; <name><surname>Mirzabekov</surname><given-names>T.</given-names></name>; <name><surname>Kolchinsky</surname><given-names>P.</given-names></name>; <name><surname>Wyatt</surname><given-names>R.</given-names></name>; <name><surname>Cayabyab</surname><given-names>M.</given-names></name>; <name><surname>Gerard</surname><given-names>N. P.</given-names></name>; <name><surname>Gerard</surname><given-names>C.</given-names></name>; <name><surname>Sodroski</surname><given-names>J.</given-names></name>; <name><surname>Choe</surname><given-names>H.</given-names></name> (<year>1999</year>) <article-title>Tyrosine sulfation
+of the amino terminus of CCR5 facilitates HIV-1 entry</article-title>. <source>Cell</source>
+<volume>96</volume>, <fpage>667</fpage>&#x02013;<lpage>676</lpage>.<pub-id pub-id-type="pmid">10089882</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Farzan</surname><given-names>M.</given-names></name>; <name><surname>Vasilieva</surname><given-names>N.</given-names></name>; <name><surname>Schnitzler</surname><given-names>C. E.</given-names></name>; <name><surname>Chung</surname><given-names>S.</given-names></name>; <name><surname>Robinson</surname><given-names>J.</given-names></name>; <name><surname>Gerard</surname><given-names>N. P.</given-names></name>; <name><surname>Gerard</surname><given-names>C.</given-names></name>; <name><surname>Choe</surname><given-names>H.</given-names></name>; <name><surname>Sodroski</surname><given-names>J.</given-names></name> (<year>2000</year>) <article-title>A tyrosine-sulfated
+peptide based on the N terminus of CCR5 interacts with a CD4-enhanced
+epitope of the HIV-1 gp120 envelope glycoprotein and inhibits HIV-1
+entry</article-title>. <source>J. Biol. Chem.</source>
+<volume>275</volume>, <fpage>33516</fpage>&#x02013;<lpage>33521</lpage>.<pub-id pub-id-type="pmid">10938094</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Cormier</surname><given-names>E. G.</given-names></name>; <name><surname>Persuh</surname><given-names>M.</given-names></name>; <name><surname>Thompson</surname><given-names>D. A.</given-names></name>; <name><surname>Lin</surname><given-names>S. W.</given-names></name>; <name><surname>Sakmar</surname><given-names>T. P.</given-names></name>; <name><surname>Olson</surname><given-names>W. C.</given-names></name>; <name><surname>Dragic</surname><given-names>T.</given-names></name> (<year>2000</year>) <article-title>Specific interaction
+of CCR5 amino-terminal
+domain peptides containing sulfotyrosines with HIV-1 envelope glycoprotein
+gp120</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>97</volume>, <fpage>5762</fpage>&#x02013;<lpage>5767</lpage>.<pub-id pub-id-type="pmid">10823934</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Farzan</surname><given-names>M.</given-names></name>; <name><surname>Chung</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Vasilieva</surname><given-names>N.</given-names></name>; <name><surname>Wright</surname><given-names>P. L.</given-names></name>; <name><surname>Schnitzler</surname><given-names>C. E.</given-names></name>; <name><surname>Marchione</surname><given-names>R. J.</given-names></name>; <name><surname>Gerard</surname><given-names>C.</given-names></name>; <name><surname>Gerard</surname><given-names>N. P.</given-names></name>; <name><surname>Sodroski</surname><given-names>J.</given-names></name>; <name><surname>Choe</surname><given-names>H.</given-names></name> (<year>2002</year>) <article-title>Tyrosine-sulfated
+peptides functionally reconstitute a CCR5 variant lacking a critical
+amino-terminal region</article-title>. <source>J. Biol. Chem.</source>
+<volume>277</volume>, <fpage>40397</fpage>&#x02013;<lpage>40402</lpage>.<pub-id pub-id-type="pmid">12183462</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Roche</surname><given-names>M.</given-names></name>; <name><surname>Salimi</surname><given-names>H.</given-names></name>; <name><surname>Duncan</surname><given-names>R.</given-names></name>; <name><surname>Wilkinson</surname><given-names>B. L.</given-names></name>; <name><surname>Chikere</surname><given-names>K.</given-names></name>; <name><surname>Moore</surname><given-names>M. S.</given-names></name>; <name><surname>Webb</surname><given-names>N. E.</given-names></name>; <name><surname>Zappi</surname><given-names>H.</given-names></name>; <name><surname>Sterjovski</surname><given-names>J.</given-names></name>; <name><surname>Flynn</surname><given-names>J. K.</given-names></name>; <name><surname>Ellett</surname><given-names>A.</given-names></name>; <name><surname>Gray</surname><given-names>L. R.</given-names></name>; <name><surname>Lee</surname><given-names>B.</given-names></name>; <name><surname>Jubb</surname><given-names>B.</given-names></name>; <name><surname>Westby</surname><given-names>M.</given-names></name>; <name><surname>Ramsland</surname><given-names>P. A.</given-names></name>; <name><surname>Lewin</surname><given-names>S. R.</given-names></name>; <name><surname>Payne</surname><given-names>R. J.</given-names></name>; <name><surname>Churchill</surname><given-names>M. J.</given-names></name>; <name><surname>Gorry</surname><given-names>P. R.</given-names></name> (<year>2013</year>) <article-title>A common mechanism
+of clinical HIV-1 resistance to the CCR5 antagonist maraviroc despite
+divergent resistance levels and lack of common gp120 resistance mutations</article-title>. <source>Retrovirology</source>
+<volume>10</volume>, <fpage>43</fpage>.<pub-id pub-id-type="pmid">23602046</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Kwong</surname><given-names>J. A.</given-names></name>; <name><surname>Dorfman</surname><given-names>T.</given-names></name>; <name><surname>Quinlan</surname><given-names>B. D.</given-names></name>; <name><surname>Chiang</surname><given-names>J. J.</given-names></name>; <name><surname>Ahmed</surname><given-names>A. A.</given-names></name>; <name><surname>Choe</surname><given-names>H.</given-names></name>; <name><surname>Farzan</surname><given-names>M.</given-names></name> (<year>2011</year>) <article-title>A tyrosine-sulfated
+CCR5-mimetic
+peptide promotes conformational transitions in the HIV-1 envelope
+glycoprotein</article-title>. <source>J. Virol.</source>
+<volume>85</volume>, <fpage>7563</fpage>&#x02013;<lpage>7571</lpage>.<pub-id pub-id-type="pmid">21613393</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Chiang</surname><given-names>J. J.</given-names></name>; <name><surname>Gardner</surname><given-names>M. R.</given-names></name>; <name><surname>Quinlan</surname><given-names>B. D.</given-names></name>; <name><surname>Dorfman</surname><given-names>T.</given-names></name>; <name><surname>Choe</surname><given-names>H.</given-names></name>; <name><surname>Farzan</surname><given-names>M.</given-names></name> (<year>2012</year>) <article-title>Enhanced recognition and neutralization
+of HIV-1 by
+antibody-derived CCR5-mimetic peptide variants</article-title>. <source>J. Virol.</source>
+<volume>86</volume>, <fpage>12417</fpage>&#x02013;<lpage>12421</lpage>.<pub-id pub-id-type="pmid">22933279</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Futaki</surname><given-names>S.</given-names></name>; <name><surname>Taike</surname><given-names>T.</given-names></name>; <name><surname>Akita</surname><given-names>T.</given-names></name>; <name><surname>Kitagawa</surname><given-names>K.</given-names></name> (<year>1992</year>) <article-title>Syntheses of two tyrosine-sulphate
+containing peptides. Leucosulfakinin (LSK)-II and cholecystokinin
+(CCK)-12, using the <italic>O</italic>-<italic>p</italic>-(methylsulphinyl)benzyl
+serine for the selective sulphation of tyrosine</article-title>. <source>Tetrahedron</source>
+<volume>48</volume>, <fpage>8899</fpage>&#x02013;<lpage>8914</lpage>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Futaki</surname><given-names>S.</given-names></name>; <name><surname>Taike</surname><given-names>T.</given-names></name>; <name><surname>Yagami</surname><given-names>T.</given-names></name>; <name><surname>Ogawa</surname><given-names>T.</given-names></name>; <name><surname>Akita</surname><given-names>T.</given-names></name>; <name><surname>Kitagawa</surname><given-names>K.</given-names></name> (<year>1990</year>) <article-title>Use of dimethylformamide-sulphur
+trioxide complex as
+a sulphating agent of tyrosine</article-title>. <source>J. Chem. Soc.,
+Perkin Trans.</source>
+<volume>1</volume>, <fpage>1739</fpage>&#x02013;<lpage>1744</lpage>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Kitagawa</surname><given-names>K.</given-names></name>; <name><surname>Futaki</surname><given-names>S.</given-names></name>; <name><surname>Yagami</surname><given-names>T.</given-names></name>; <name><surname>Sumi</surname><given-names>S.</given-names></name>; <name><surname>Inoue</surname><given-names>K.</given-names></name> (<year>1994</year>) <article-title>Solid-phase
+synthesis of cionin, a protochordate-derived octapeptide related to
+the gastrin/cholecystokinin family of peptides, and its mono-tyrosine-sulfate-containing
+derivatives</article-title>. <source>Int. J. Pept. Protein Res.</source>
+<volume>43</volume>, <fpage>190</fpage>&#x02013;<lpage>200</lpage>.<pub-id pub-id-type="pmid">8200739</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Young</surname><given-names>T.</given-names></name>; <name><surname>Kiessling</surname><given-names>L. L.</given-names></name> (<year>2002</year>) <article-title>A strategy
+for the synthesis of sulfated peptides</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<volume>41</volume>, <fpage>3449</fpage>&#x02013;<lpage>3451</lpage>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Campos</surname><given-names>S. V.</given-names></name>; <name><surname>Miranda</surname><given-names>L. P.</given-names></name>; <name><surname>Meldal</surname><given-names>M.</given-names></name> (<year>2002</year>) <article-title>Preparation of novel <italic>O</italic>-sulfated amino acid building blocks with improved acid stability
+for Fmoc-based solid-phase peptide synthesis</article-title>. <source>J. Chem. Soc., Perkin Trans.</source>
+<volume>1</volume>, <fpage>682</fpage>&#x02013;<lpage>686</lpage>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>V&#x000e1;zquez-Campos</surname><given-names>S.</given-names></name>; <name><surname>St Hilaire</surname><given-names>P. M.</given-names></name>; <name><surname>Damgaard</surname><given-names>D.</given-names></name>; <name><surname>Meldal</surname><given-names>M.</given-names></name> (<year>2005</year>) <article-title>GAG mimetic libraries:
+sulphated peptide as heparin-like glycosaminoglycan mimics in their
+interaction with FGF-1</article-title>. <source>QSAR Comb. Sci.</source>
+<volume>24</volume>, <fpage>923</fpage>&#x02013;<lpage>942</lpage>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>De
+Luca</surname><given-names>S.</given-names></name>; <name><surname>Morelli</surname><given-names>G.</given-names></name> (<year>2004</year>) <article-title>Synthesis and characterization of a sulfated and a
+non-sulfated cyclic CCK8 analogue functionalized with a chelating
+group for metal labelling</article-title>. <source>J. Pept. Sci.</source>
+<volume>10</volume>, <fpage>265</fpage>&#x02013;<lpage>273</lpage>.<pub-id pub-id-type="pmid">15160838</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Kitagawa</surname><given-names>K.</given-names></name>; <name><surname>Aida</surname><given-names>C.</given-names></name>; <name><surname>Fujiwara</surname><given-names>H.</given-names></name>; <name><surname>Yagami</surname><given-names>T.</given-names></name>; <name><surname>Futaki</surname><given-names>S.</given-names></name> (<year>1997</year>) <article-title>Efficient
+solid-phase synthesis of sulfated tyrosine-containing peptides using
+2-chlorotrityl resin: facile synthesis of gastrin/cholecystokinin
+peptides</article-title>. <source>Tetrahedron Lett.</source>
+<volume>38</volume>, <fpage>599</fpage>&#x02013;<lpage>602</lpage>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Kitagawa</surname><given-names>K.</given-names></name>; <name><surname>Aida</surname><given-names>C.</given-names></name>; <name><surname>Fujiwara</surname><given-names>H.</given-names></name>; <name><surname>Yagami</surname><given-names>T.</given-names></name>; <name><surname>Futaki</surname><given-names>S.</given-names></name>; <name><surname>Kogire</surname><given-names>M.</given-names></name>; <name><surname>Ida</surname><given-names>J.</given-names></name>; <name><surname>Inoue</surname><given-names>K.</given-names></name> (<year>2001</year>) <article-title>Facile solid-phase
+synthesis of sulfated tyrosine-containing peptides: total synthesis
+of human big gastrin-II and cholecystokinin (CCK)-39</article-title>. <source>J. Org. Chem.</source>
+<volume>66</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">11429884</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Ueki</surname><given-names>M.</given-names></name>; <name><surname>Watanabe</surname><given-names>S.</given-names></name>; <name><surname>Ishii</surname><given-names>Y.</given-names></name>; <name><surname>Okunaka</surname><given-names>O.</given-names></name>; <name><surname>Uchino</surname><given-names>K.</given-names></name>; <name><surname>Saitoh</surname><given-names>T.</given-names></name>; <name><surname>Higashi</surname><given-names>K.</given-names></name>; <name><surname>Nakashima</surname><given-names>H.</given-names></name>; <name><surname>Yamamoto</surname><given-names>N.</given-names></name>; <name><surname>Ogawara</surname><given-names>H.</given-names></name> (<year>2001</year>) <article-title>Synthesis and anti-HIV activity of
+nonatyrosine <italic>N</italic>- and <italic>O</italic>1&#x02013;9-decasulfate</article-title>. <source>Bioorg. Med. Chem.</source>
+<volume>9</volume>, <fpage>477</fpage>&#x02013;<lpage>486</lpage>.<pub-id pub-id-type="pmid">11249139</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Balsved</surname><given-names>D.</given-names></name>; <name><surname>Bundgaard</surname><given-names>J. R.</given-names></name>; <name><surname>Sen</surname><given-names>J. W.</given-names></name> (<year>2007</year>) <article-title>Stability of tyrosine sulfate in
+acidic solutions</article-title>. <source>Anal. Biochem.</source>
+<volume>363</volume>, <fpage>70</fpage>&#x02013;<lpage>76</lpage>.<pub-id pub-id-type="pmid">17307131</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="book" id="cit35"><person-group person-group-type="allauthors"><name><surname>Huttner</surname><given-names>W. B.</given-names></name></person-group> (<year>1984</year>) <article-title>Determination and occurrence
+of tyrosine <italic>O</italic>-sulfate
+in proteins</article-title>, in <source>Methods in Enzymology</source> (<person-group person-group-type="editor"><name><surname>Finn Wold</surname><given-names>K. M.</given-names></name></person-group>, Ed.), pp <fpage>200</fpage>&#x02013;<lpage>223</lpage>, <publisher-name>Academic Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Simpson</surname><given-names>L. S.</given-names></name>; <name><surname>Widlanski</surname><given-names>T. S.</given-names></name> (<year>2006</year>) <article-title>A comprehensive approach to the synthesis of sulfate
+esters</article-title>. <source>J. Am. Chem. Soc.</source>
+<volume>128</volume>, <fpage>1605</fpage>&#x02013;<lpage>1610</lpage>.<pub-id pub-id-type="pmid">16448132</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Simpson</surname><given-names>L. S.</given-names></name>; <name><surname>Zhu</surname><given-names>J. Z.</given-names></name>; <name><surname>Widlanski</surname><given-names>T. S.</given-names></name>; <name><surname>Stone</surname><given-names>M. J.</given-names></name> (<year>2009</year>) <article-title>Regulation of chemokine
+recognition by site-specific tyrosine sulfation of receptor peptides</article-title>. <source>Chem. Biol.</source>
+<volume>16</volume>, <fpage>153</fpage>&#x02013;<lpage>161</lpage>.<pub-id pub-id-type="pmid">19246006</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Desoky</surname><given-names>A. Y.</given-names></name>; <name><surname>Hendel</surname><given-names>J.</given-names></name>; <name><surname>Ingram</surname><given-names>L.</given-names></name>; <name><surname>Taylor</surname><given-names>S. D.</given-names></name> (<year>2011</year>) <article-title>Preparation of trifluoroethyl-
+and phenyl-protected sulfates using sulfuryl imidazolium salts</article-title>. <source>Tetrahedron</source>
+<volume>67</volume>, <fpage>1281</fpage>&#x02013;<lpage>1287</lpage>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Taleski</surname><given-names>D.</given-names></name>; <name><surname>Butler</surname><given-names>S. J.</given-names></name>; <name><surname>Stone</surname><given-names>M. J.</given-names></name>; <name><surname>Payne</surname><given-names>R. J.</given-names></name> (<year>2011</year>) <article-title>Divergent and site-selective
+solid-phase synthesis of sulfopeptides</article-title>. <source>Chem.&#x02014;Asian
+J.</source>
+<volume>6</volume>, <fpage>1316</fpage>&#x02013;<lpage>1320</lpage>.<pub-id pub-id-type="pmid">21509944</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Ali</surname><given-names>A. M.</given-names></name>; <name><surname>Hill</surname><given-names>B.</given-names></name>; <name><surname>Taylor</surname><given-names>S. D.</given-names></name> (<year>2009</year>) <article-title>Trichloroethyl
+group as a protecting
+group for sulfonates and its application to the synthesis of a disulfonate
+analog of the tyrosine sulfated PSGL-143&#x02013;50 peptide</article-title>. <source>J. Org. Chem.</source>
+<volume>74</volume>, <fpage>3583</fpage>&#x02013;<lpage>3586</lpage>.<pub-id pub-id-type="pmid">19331341</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Taylor</surname><given-names>S. D.</given-names></name>; <name><surname>Desoky</surname><given-names>A.</given-names></name> (<year>2011</year>) <article-title>Rapid and efficient chemoselective and multiple sulfations
+of phenols using sulfuryl imidazolium salts</article-title>. <source>Tetrahedron Lett.</source>
+<volume>52</volume>, <fpage>3353</fpage>&#x02013;<lpage>3357</lpage>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Ali</surname><given-names>A. M.</given-names></name>; <name><surname>Taylor</surname><given-names>S. D.</given-names></name> (<year>2009</year>) <article-title>Efficient
+solid-phase synthesis of sulfotyrosine peptides
+using a sulfate protecting-group strategy</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<volume>48</volume>, <fpage>2024</fpage>&#x02013;<lpage>2026</lpage>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Ali</surname><given-names>A. M.</given-names></name>; <name><surname>Taylor</surname><given-names>S. D.</given-names></name> (<year>2010</year>) <article-title>Synthesis
+of disulfated peptides corresponding to the
+N-terminus of chemokines receptors CXCR6 (CXCR6 1&#x02013;20) and DARC
+(DARC 8&#x02013;42) using a sulfate-protecting group strategy</article-title>. <source>J. Pept. Sci.</source>
+<volume>16</volume>, <fpage>190</fpage>&#x02013;<lpage>199</lpage>.<pub-id pub-id-type="pmid">20196090</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Bunschoten</surname><given-names>A.</given-names></name>; <name><surname>Kruijtzer</surname><given-names>J. A. W.</given-names></name>; <name><surname>Ippel</surname><given-names>J. H.</given-names></name>; <name><surname>de Haas</surname><given-names>C. J. C.</given-names></name>; <name><surname>van
+Strijp</surname><given-names>J. A. G.</given-names></name>; <name><surname>Kemmink</surname><given-names>J.</given-names></name>; <name><surname>Liskamp</surname><given-names>R. M. J.</given-names></name> (<year>2009</year>) <article-title>A general sequence
+independent solid phase method for the site specific synthesis of
+multiple sulfated-tyrosine containing peptides</article-title>. <source>Chem. Commun.</source>
+<fpage>2999</fpage>&#x02013;<lpage>3001</lpage>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Ingram</surname><given-names>L. J.</given-names></name>; <name><surname>Taylor</surname><given-names>S. D.</given-names></name> (<year>2006</year>) <article-title>Introduction of
+2,2,2-trichloroethyl-protected sulfates
+into monosaccharides with a sulfuryl imidazolium salt and application
+to the synthesis of sulfated carbohydrates</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<volume>45</volume>, <fpage>3503</fpage>&#x02013;<lpage>3506</lpage>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Ingram</surname><given-names>L. J.</given-names></name>; <name><surname>Desoky</surname><given-names>A.</given-names></name>; <name><surname>Ali</surname><given-names>A. M.</given-names></name>; <name><surname>Taylor</surname><given-names>S. D.</given-names></name> (<year>2009</year>) <article-title>O- and N-sulfations
+of carbohydrates using sulfuryl imidazolium salts</article-title>. <source>J. Org. Chem.</source>
+<volume>74</volume>, <fpage>6479</fpage>&#x02013;<lpage>6485</lpage>.<pub-id pub-id-type="pmid">19655761</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Tan</surname><given-names>J. H.</given-names></name>; <name><surname>Canals</surname><given-names>M.</given-names></name>; <name><surname>Ludeman</surname><given-names>J. P.</given-names></name>; <name><surname>Wedderburn</surname><given-names>J.</given-names></name>; <name><surname>Boston</surname><given-names>C.</given-names></name>; <name><surname>Butler</surname><given-names>S. J.</given-names></name>; <name><surname>Carrick</surname><given-names>A. M.</given-names></name>; <name><surname>Parody</surname><given-names>T. R.</given-names></name>; <name><surname>Taleski</surname><given-names>D.</given-names></name>; <name><surname>Christopoulos</surname><given-names>A.</given-names></name>; <name><surname>Payne</surname><given-names>R. J.</given-names></name>; <name><surname>Stone</surname><given-names>M. J.</given-names></name> (<year>2012</year>) <article-title>Design
+and receptor interactions of obligate dimeric mutant of chemokine
+monocyte chemoattractant protein-1 (MCP-1)</article-title>. <source>J. Biol. Chem.</source>
+<volume>287</volume>, <fpage>14692</fpage>&#x02013;<lpage>14702</lpage>.<pub-id pub-id-type="pmid">22396538</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Tan</surname><given-names>J. H.</given-names></name>; <name><surname>Ludeman</surname><given-names>J. P.</given-names></name>; <name><surname>Wedderburn</surname><given-names>J.</given-names></name>; <name><surname>Canals</surname><given-names>M.</given-names></name>; <name><surname>Hall</surname><given-names>P.</given-names></name>; <name><surname>Butler</surname><given-names>S. J.</given-names></name>; <name><surname>Taleski</surname><given-names>D.</given-names></name>; <name><surname>Christopoulos</surname><given-names>A.</given-names></name>; <name><surname>Hickey</surname><given-names>M. J.</given-names></name>; <name><surname>Payne</surname><given-names>R. J.</given-names></name>; <name><surname>Stone</surname><given-names>M. J.</given-names></name> (<year>2013</year>) <article-title>Tyrosine sulfation
+of chemokine receptor CCR2 enhances interactions with both monomeric
+and dimeric forms of the chemokine monocyte chemoattractant protein-1
+(MCP-1)</article-title>. <source>J. Biol. Chem.</source>
+<volume>288</volume>, <fpage>10024</fpage>&#x02013;<lpage>10034</lpage>.<pub-id pub-id-type="pmid">23408426</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Huma</surname><given-names>Z. E.</given-names></name>; <name><surname>Ludeman</surname><given-names>J. P.</given-names></name>; <name><surname>Wilkinson</surname><given-names>B. L.</given-names></name>; <name><surname>Payne</surname><given-names>R. J.</given-names></name>; <name><surname>Stone</surname><given-names>M. J.</given-names></name> (<year>2014</year>) <article-title>NMR characterization
+of cooperativity: fast ligand binding coupled to slow protein dimerization</article-title>. <source>Chem. Sci.</source>
+<volume>5</volume>, <fpage>2783</fpage>&#x02013;<lpage>2788</lpage>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Thali</surname><given-names>M.</given-names></name>; <name><surname>Moore</surname><given-names>J. P.</given-names></name>; <name><surname>Furman</surname><given-names>C.</given-names></name>; <name><surname>Charles</surname><given-names>M.</given-names></name>; <name><surname>Ho</surname><given-names>D. D.</given-names></name>; <name><surname>Robinson</surname><given-names>J.</given-names></name>; <name><surname>Sodroski</surname><given-names>J.</given-names></name> (<year>1993</year>) <article-title>Characterization of conserved human
+immunodeficiency virus type 1 gp120 neutralization epitopes exposed
+upon gp120-CD4 binding</article-title>. <source>J. Virol.</source>
+<volume>67</volume>, <fpage>3978</fpage>&#x02013;<lpage>3988</lpage>.<pub-id pub-id-type="pmid">7685405</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Kwong</surname><given-names>P. D.</given-names></name>; <name><surname>Wyatt</surname><given-names>R.</given-names></name>; <name><surname>Robinson</surname><given-names>J.</given-names></name>; <name><surname>Sweet</surname><given-names>R. W.</given-names></name>; <name><surname>Sodroski</surname><given-names>J.</given-names></name>; <name><surname>Hendrickson</surname><given-names>W. A.</given-names></name> (<year>1998</year>) <article-title>Structure
+of an HIV gp120 envelope glycoprotein in
+complex with the CD4 receptor and a neutralizing human antibody</article-title>. <source>Nature</source>
+<volume>393</volume>, <fpage>648</fpage>&#x02013;<lpage>659</lpage>.<pub-id pub-id-type="pmid">9641677</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Bartesaghi</surname><given-names>A.</given-names></name>; <name><surname>Borgnia</surname><given-names>M. J.</given-names></name>; <name><surname>Sapiro</surname><given-names>G.</given-names></name>; <name><surname>Subramaniam</surname><given-names>S.</given-names></name> (<year>2008</year>) <article-title>Molecular
+architecture of native HIV-1 gp120 trimers</article-title>. <source>Nature</source>
+<volume>455</volume>, <fpage>109</fpage>&#x02013;<lpage>113</lpage>.<pub-id pub-id-type="pmid">18668044</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Huang</surname><given-names>C. C.</given-names></name>; <name><surname>Lam</surname><given-names>S. N.</given-names></name>; <name><surname>Acharya</surname><given-names>P.</given-names></name>; <name><surname>Tang</surname><given-names>M.</given-names></name>; <name><surname>Xiang</surname><given-names>S. H.</given-names></name>; <name><surname>Hussan</surname><given-names>S. S.</given-names></name>; <name><surname>Stanfield</surname><given-names>R. L.</given-names></name>; <name><surname>Robinson</surname><given-names>J.</given-names></name>; <name><surname>Sodroski</surname><given-names>J.</given-names></name>; <name><surname>Wilson</surname><given-names>I. A.</given-names></name>; <name><surname>Wyatt</surname><given-names>R.</given-names></name>; <name><surname>Bewley</surname><given-names>C. A.</given-names></name>; <name><surname>Kwong</surname><given-names>P. D.</given-names></name> (<year>2007</year>) <article-title>Structures
+of the CCR5 N terminus and of a tyrosine-sulfated antibody with HIV-1
+gp120 and CD4</article-title>. <source>Science</source>
+<volume>317</volume>, <fpage>1930</fpage>&#x02013;<lpage>1934</lpage>.<pub-id pub-id-type="pmid">17901336</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Lam</surname><given-names>S. N.</given-names></name>; <name><surname>Acharya</surname><given-names>P.</given-names></name>; <name><surname>Wyatt</surname><given-names>R.</given-names></name>; <name><surname>Kwong</surname><given-names>P. D.</given-names></name>; <name><surname>Bewley</surname><given-names>C. A.</given-names></name> (<year>2008</year>) <article-title>Tyrosine-sulfate
+isosteres of CCR5 N-terminus as tools for studying HIV-1 entry</article-title>. <source>Bioorg. Med. Chem.</source>
+<volume>16</volume>, <fpage>10113</fpage>&#x02013;<lpage>10120</lpage>.<pub-id pub-id-type="pmid">18952441</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Schnur</surname><given-names>E.</given-names></name>; <name><surname>Kessler</surname><given-names>N.</given-names></name>; <name><surname>Zherdev</surname><given-names>Y.</given-names></name>; <name><surname>Noah</surname><given-names>E.</given-names></name>; <name><surname>Scherf</surname><given-names>T.</given-names></name>; <name><surname>Ding</surname><given-names>F.</given-names></name>; <name><surname>Rabinovich</surname><given-names>S.</given-names></name>; <name><surname>Arshava</surname><given-names>B.</given-names></name>; <name><surname>Kurbatska</surname><given-names>V.</given-names></name>; <name><surname>Leoniks</surname><given-names>A.</given-names></name>; <name><surname>Tsimanis</surname><given-names>A.</given-names></name>; <name><surname>Rosen</surname><given-names>O.</given-names></name>; <name><surname>Naider</surname><given-names>F.</given-names></name>; <name><surname>Anglister</surname><given-names>J.</given-names></name> (<year>2013</year>) <source>FEBS J.</source>
+<volume>280</volume>, <fpage>2068</fpage>&#x02013;<lpage>2084</lpage>.<pub-id pub-id-type="pmid">23480650</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Duncan</surname><given-names>R.
+C.</given-names></name>; <name><surname>Mohlin</surname><given-names>F.</given-names></name>; <name><surname>Taleski</surname><given-names>D.</given-names></name>; <name><surname>Coetzer</surname><given-names>T. H.</given-names></name>; <name><surname>Huntington</surname><given-names>J. A.</given-names></name>; <name><surname>Payne</surname><given-names>R. J.</given-names></name>; <name><surname>Blom</surname><given-names>A. M.</given-names></name>; <name><surname>Pike</surname><given-names>R. N.</given-names></name>; <name><surname>Wijeyewickrema</surname><given-names>L. C.</given-names></name> (<year>2012</year>) <article-title>Identification
+of a catalytic exosite for complement component C4 on the serine protease
+domain of C1s</article-title>. <source>J. Immunol.</source>
+<volume>189</volume>, <fpage>2365</fpage>&#x02013;<lpage>2373</lpage>.<pub-id pub-id-type="pmid">22855709</pub-id></mixed-citation></ref></ref-list></back></article>
