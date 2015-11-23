@@ -1,0 +1,103 @@
+The following open source software and open access literature was used in this project and are listed here with their licenses/notices:
+
+-----------
+Awesomplete
+-----------
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Lea Verou
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----------
+JSON-server
+-----------
+
+The MIT License (MIT)
+
+Copyright (c) 2014 typicode
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+------------------
+Pubmed Central OAI
+------------------
+
+Available at http://www.ncbi.nlm.nih.gov/pmc/about/copyright/
+
+PMC Copyright Notice
+
+This page has information about general copyright restrictions that apply to the material that is available through the PubMed Central (PMC) site. There also are links to some Publisher Specific Copyright Information.
+
+All of the material available from the PMC site is provided by the respective publishers or authors. Almost all of it is protected by U.S. and/or foreign copyright laws, even though PMC provides free access to it. (See Public Domain Material below, for one exception.) The respective copyright holders retain rights for reproduction, redistribution and reuse. Users of PMC are directly and solely responsible for compliance with copyright restrictions and are expected to adhere to the terms and conditions defined by the copyright holder. Transmission, reproduction, or reuse of protected material, beyond that allowed by the fair use principles of the copyright laws, requires the written permission of the copyright owners. U.S. fair use guidelines are available from the Copyright Office at the Library of Congress.
+
+Copyright Statements in PMC
+
+Articles and other material in PMC usually include an explicit copyright statement. In the absence of a copyright statement, users should assume that standard copyright protection applies, unless the article contains an explicit statement to the contrary. In case of doubt, contact the journal publisher to verify the copyright status of an article.
+Restrictions on Systematic Downloading of Articles
+
+Crawlers and other automated processes may NOT be used to systematically retrieve batches of articles from the PMC web site. Bulk downloading of articles from the main PMC web site, in any way, is prohibited because of copyright restrictions.
+
+PMC has two auxiliary services that may be used for automated retrieval and downloading of a special subset of articles from the PMC archive. These two services, the PMC OAI service and the PMC FTP service, are the only services that may be used for automated downloading of articles in PMC. See the PMC Open Access Subset for information about which articles are included in this special subset, and for links to the PMC OAI and FTP services. Do not use any other automated processes for bulk downloading, even if you are only retrieving articles from the PMC Open Access Subset.
+
+Articles that are available through the PMC OAI and FTP services are still protected by copyright but are distributed under a Creative Commons or similar license that generally allows more liberal use than a traditional copyrighted work. Please refer to the license statement in each article for specific terms of use. The license terms are not identical for all the articles.
+
+Public Domain Material
+
+The following PMC journals are U.S. Government publications:
+
+Addiction Science & Clinical Practice (vol. 1 through vol. 6)
+Emerging Infectious Diseases
+Environmental Health Perspectives
+Journal of Research of NIST
+Preventing Chronic Disease
+
+Articles published in these journals are in the public domain and may be used and reproduced without special permission. However, anyone using the material is requested to properly cite and acknowledge the source. Please note these journals may still contain photographs or illustrations copyrighted by other commercial organizations or individuals that may not be used without obtaining prior approval from the holder of the copyright.
+
+Links to Publisher-Specific Copyright Information
+
+Use these links to certain publishers' sites for additional copyright terms, warranties or disclaimers that apply to their respective content in PMC.
+American Physiological Society
+American Society for Microbiology
+American Society for Nutrition
+CBE—Life Sciences Education (American Society for Cell Biology)
+Genome Research (Cold Spring Harbor Laboratory Press)
+Journal of Cell Biology (Rockefeller University Press)
+Journal of Experimental Medicine (Rockefeller University Press)
+Journal of General Physiology (Rockefeller University Press)
+Molecular Biology of the Cell (American Society for Cell Biology)
+National Academy of Sciences
+Nucleic Acids Research (Open Access content)
+Physical Therapy
