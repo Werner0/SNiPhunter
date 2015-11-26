@@ -1,5 +1,6 @@
 #SNiPhunter SNP search engine
 
+
 ##Installation
 
 ####After cloning this repository navigate to:
@@ -17,6 +18,7 @@ or if you didn't create a symlink
 ####Then open your browser and go to:
 
 `http://localhost:3000`
+
 
 ##Software requirements
 
