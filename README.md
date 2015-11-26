@@ -1,4 +1,6 @@
-##Files for the SNiPhunter Pubmed search engine
+#SNiPhunter SNP search engine
+
+##Installation
 
 ####After cloning this repository navigate to:
 
@@ -15,3 +17,7 @@ or if you didn't create a symlink
 ####Then open your browser and go to:
 
 `http://localhost:3000`
+
+##Software requirements
+
+####SNiPhunter was tested on *Ubuntu 14.04* with *Node.js* installed
