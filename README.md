@@ -22,4 +22,4 @@ or if you didn't create a symlink
 
 ##Software requirements
 
-####SNiPhunter was tested on *Ubuntu 14.04* with *Node.js* installed
+####SNiPhunter was tested on *Ubuntu v14.04.3* with *Node.js v0.10.25* installed
