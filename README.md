@@ -1,5 +1,6 @@
 #SNiPhunter SNP search engine
 
+:information_source: SNiPhunter SNP search engine makes it easy to find academic literature containing a reference SNP identifier or author defined keyword of interest.
 
 ##Local Machine (LM) installation
 
@@ -18,6 +19,8 @@ or if you didn't create a symlink
 ####Then open your browser and go to:
 
     http://localhost:3000
+
+
 
 ##Virtual Machine (VM) installation
 
@@ -44,7 +47,7 @@ or if you didn't create a symlink
 
     sudo stop sniphunter
 
-####Automated service on port 80 (Optional)
+####:shipit: Automated service on port 80 (Optional)
 
 Open a crontab editor by typing:
 
@@ -56,5 +59,7 @@ Then enter the following in the crontab:
     @reboot sudo sysctl -w net.ipv4.ip_forward=1
     @reboot sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 3000
     @reboot sudo start sniphunter
+
+
 
 ####SNiPhunter LM and VM installations were tested on *Ubuntu v14.04*
