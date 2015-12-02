@@ -46,7 +46,7 @@ or if you didn't create a symlink
 
     sudo stop sniphunter
 
-####:shipit: Automated service on port 80 (Optional)
+####Automated service on port 80 (Optional)
 
 Open a crontab editor by typing:
 
