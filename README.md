@@ -23,11 +23,18 @@ or if you didn't create a symlink
 
 ####SSH into the VM and run the following commands:
 
-```sudo apt-get install nodejs
-sudo ln -s `which nodejs` /usr/bin/node
-sudo npm install -g forever-service
-sudo npm install -g forever
-sudo forever-service install sniphunter --script index.js -o " --watch JSONdbKeys.json"```
+`sudo apt-get install nodejs`
+`sudo ln -s `which nodejs` /usr/bin/node`
+`sudo npm install -g forever-service`
+`sudo npm install -g forever`
+
+####After cloning this repository navigate to:
+
+`/node_modules/json-server/bin`
+
+####Now type:
+
+`sudo forever-service install sniphunter --script index.js -o " --watch JSONdbKeys.json"`
 
 ####To start the service type:
 
@@ -39,15 +46,15 @@ sudo forever-service install sniphunter --script index.js -o " --watch JSONdbKey
 
 ####Automated service on port 80 (Optional)
 
-Open a crontab editor:
+Open a crontab editor by typing:
 
 `sudo crontab -e`
 
 Then enter the following in the crontab:
 
-```0 0 * * * sudo reboot
-@reboot sudo sysctl -w net.ipv4.ip_forward=1
-@reboot sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 3000 
-@reboot sudo start sniphunter```
+`0 0 * * * sudo reboot`
+`@reboot sudo sysctl -w net.ipv4.ip_forward=1`
+`@reboot sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 3000`
+`@reboot sudo start sniphunter`
 
 ####SNiPhunter LM and VM installations were tested on *Ubuntu v14.04*
