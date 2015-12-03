@@ -1,7 +1,7 @@
 #SNiPhunter SNP search engine
 
-:information_source: SNiPhunter SNP search engine makes it easy to find academic literature containing a reference SNP identifier or author defined keyword of interest.  
-  
+:information_source: SNiPhunter SNP search engine makes it easy to find academic literature containing a reference SNP identifier or author defined keyword of interest.
+
 ##Local Machine (LM) installation
 
 ####After cloning this repository navigate to:
@@ -18,8 +18,8 @@ or if you didn't create a symlink
 
 ####Then open your browser and go to:
 
-    http://localhost:3000  
-  
+    http://localhost:3000
+
 
 ##Virtual Machine (VM) installation
 
@@ -27,10 +27,11 @@ or if you didn't create a symlink
 
     sudo apt-get install nodejs
     sudo ln -s `which nodejs` /usr/bin/node
-    sudo npm install -g forever-service
     sudo npm install -g forever
+    sudo npm install -g forever-service
 
-####After cloning this repository navigate to:
+
+####Then clone this repository and navigate to:
 
     /node_modules/json-server/bin
 
