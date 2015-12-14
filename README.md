@@ -37,7 +37,7 @@ or if you didn't create a symlink
 
 ####Now type:
 
-    sudo forever-service install sniphunter --script index.js -o " --watch JSONdbKeys.json"
+    sudo forever-service install sniphunter --script index2.js
 
 ####To start the service type:
 

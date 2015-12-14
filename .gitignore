@@ -59,3 +59,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#uploads
+
+node_modules/json-server/bin/uploads/
