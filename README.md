@@ -2,7 +2,7 @@
 
 :information_source: SNiPhunter SNP search engine makes it easy to find academic literature containing a reference SNP identifier or author defined keyword of interest.
 
-##Local Machine (LM) installation
+##Installation option 1: Local Machine (LM) install
 
 ####After cloning this repository navigate to:
 
@@ -21,7 +21,7 @@ or if you didn't create a symlink
     http://localhost:3000
 
 
-##Virtual Machine (VM) installation
+##Installation option 2: Virtual Machine (VM) install
 
 ####SSH into the VM and run the following commands:
 
