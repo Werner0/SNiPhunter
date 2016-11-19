@@ -1,5 +1,5 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://github.com/Werner0/SNiPhunter/blob/master/LICENSE)
-(https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=plastic)](http://sniphuter.sanbi.ac.za)
+[![](https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=plastic)](http://sniphuter.sanbi.ac.za)
 
 #SNiPhunter SNP search engine
 
