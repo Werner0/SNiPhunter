@@ -1,3 +1,5 @@
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Werner0/SNiPhunter/blob/master/LICENSE)
+
 #SNiPhunter SNP search engine
 
 :information_source: SNiPhunter SNP search engine makes it easy to find academic literature containing a reference SNP identifier or author defined keyword of interest.
